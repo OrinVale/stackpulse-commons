@@ -1,5 +1,5 @@
 # StackPulse Commons
-![StackPulse Commons banner](assets/stackpulse-commons-banner.jpg)
+
 > Open-source, source-linked change intelligence for public-interest ecosystem research.
 
 StackPulse Commons turns observable changes in publicly available organization
@@ -12,6 +12,17 @@ opaque lead lists, or speculative claims.
 Lever job boards and uses a generic technology dictionary. A Web3-specific
 source and taxonomy pilot is a funded roadmap item, not a claim about current
 coverage.
+
+## Support the first public milestone
+
+StackPulse Commons is raising **US$3,000** to maintain the public-source
+pipeline, review sources, refine the methodology, and publish the first public
+changelog.
+
+[Support StackPulse Commons on Giveth →](https://giveth.io/project/stackpulse-commons:-open-source-signals)
+
+For partnership or funding questions:
+[stackpulsecommons@agentmail.to](mailto:stackpulsecommons@agentmail.to)
 
 ## Why it exists
 
@@ -72,14 +83,16 @@ deliverables, a capped operating-cost line, and milestone reporting. Read:
 - [Funding application brief](docs/funding/grant-brief.md)
 - [Campaign execution plan](docs/funding/campaign-plan.md)
 - [Supporter FAQ](docs/funding/supporter-faq.md)
+- [Public changelog](CHANGELOG.md)
 
-This is the clean public repository for StackPulse Commons. It intentionally excludes historical databases and prior commit history.
+This is the clean public repository for StackPulse Commons. It intentionally
+excludes historical databases and prior commit history.
 
 ## Contributing and security
 
-Contributions are welcome once the public repository is live. Proposed source
-connectors must meet the public-source and reproducibility requirements in the
-methodology. See [CONTRIBUTING.md](CONTRIBUTING.md) and
+Contributions are welcome. Proposed source connectors must meet the
+public-source and reproducibility requirements in the methodology. See
+[CONTRIBUTING.md](CONTRIBUTING.md) and
 [SECURITY.md](SECURITY.md).
 
 ## License

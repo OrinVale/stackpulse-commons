@@ -2,13 +2,13 @@
 
 ## Project status
 
-StackPulse Commons is currently an individual-maintained, pre-incorporation
-open-source project. It is not a registered charity, foundation, or company,
-and it cannot issue tax receipts. A contribution does not buy equity, tokens,
-services, preferential access, or any financial return.
+StackPulse Commons is an independent open-source project. Contributions fund
+the public deliverables and reporting described below; they do not confer
+equity, tokens, services, preferential access, or financial return.
 
-The project will obtain the appropriate legal and accounting structure before
-accepting large, recurring, or restricted funding.
+## Contribution route
+
+[Support StackPulse Commons on Giveth →](https://giveth.io/project/stackpulse-commons:-open-source-signals)
 
 ## Treasury
 
@@ -33,7 +33,7 @@ as milestones, not a blank cheque.
 | Engineering and maintenance | 4,800 | Source connectors, compact state, tests, dashboard foundation |
 | Research and data quality | 2,400 | Source registry, taxonomy, sampling, methodology review |
 | Public reporting | 1,800 | Dashboard delivery, changelog, and report production |
-| Necessary operations | 1,200 | Hosting, domain, transaction costs, workspace, and connectivity; receipts retained |
+| Necessary operations | 1,200 | Hosting, domain, transaction costs, workspace, and connectivity |
 | Security, compliance, and contingency | 1,800 | Independent review, remediation, and scoped contingency |
 | **Total** | **12,000** | **90-day foundation pilot** |
 
@@ -41,7 +41,7 @@ as milestones, not a blank cheque.
 
 | Funding reached | What ships |
 | --- | --- |
-| USD 3,000 | Reliable source pipeline, compact state, test suite, and published methodology |
+| USD 3,000 | Sustained source pipeline, source review, methodology refinement, and the first public changelog |
 | USD 8,000 | Scoped Web3 source registry, taxonomy, quality-review sample, and initial open dataset |
 | USD 12,000 | No-login dashboard, recurring report, and monthly delivery/funding update |
 
@@ -63,9 +63,7 @@ For technical limits and governance, read
 [the methodology](docs/METHODOLOGY.md) and
 [the governance policy](docs/GOVERNANCE.md).
 
-## Important notices
+## Contact
 
-Contributions are voluntary and non-refundable except where required by law.
-They are not tax-deductible through this project in its current form. Supporters
-should make their own tax, legal, and network-compatibility checks before
-contributing.
+For partnership or funding questions, write to
+[stackpulsecommons@agentmail.to](mailto:stackpulsecommons@agentmail.to).
