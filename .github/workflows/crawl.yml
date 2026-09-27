@@ -1,0 +1,47 @@
+name: Update StackPulse observations
+
+on:
+  push:
+    paths:
+      - stackpulse.py
+      - source_discovery.py
+      - .github/workflows/crawl.yml
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stackpulse-observation-update
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install runtime dependency
+        run: pip install -r requirements.txt
+      - name: Discover active public Lever boards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python source_discovery.py
+          echo "Active sites: $(wc -l < config/lever_sites.txt)"
+      - name: Create source-linked change events
+        run: |
+          mkdir -p output
+          mapfile -t SITES < config/lever_sites.txt
+          python stackpulse.py crawl-lever "${SITES[@]}" --state stackpulse-state.json --html output/latest.html --intent-html output/intent.html --intent-json output/intent.json
+      - name: Persist compact state and dashboards
+        run: |
+          git config user.name "stackpulse-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config/lever_sites.txt stackpulse-state.json output/latest.html output/intent.html output/intent.json
+          git diff --cached --quiet || git commit -m "Update source-linked observations"
+          git push
