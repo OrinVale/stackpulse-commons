@@ -1,0 +1,30 @@
+[
+  {
+    "company": "Samba TV",
+    "title": "AI GTM Engineer",
+    "location": "United States",
+    "url": "https://example.invalid/samba-tv",
+    "text": "Build GTM automation connecting Salesforce, Gong, Snowflake and HubSpot. Claude is the primary AI platform. Architect integrations and real-time deal intelligence."
+  },
+  {
+    "company": "FireMon",
+    "title": "Salesforce Administrator / Sales Operations",
+    "location": "United States",
+    "url": "https://example.invalid/firemon",
+    "text": "Own Salesforce administration and improve integrations across ZoomInfo, Gong and Snowflake."
+  },
+  {
+    "company": "Emburse",
+    "title": "Salesforce Architect (CPQ)",
+    "location": "United States",
+    "url": "https://example.invalid/emburse",
+    "text": "Lead Quote-to-Cash transformation and redesign. Integrate Salesforce with NetSuite, Marketo, HubSpot, Gong and Snowflake."
+  },
+  {
+    "company": "Extreme Networks",
+    "title": "Workato Integration & AI Automation Developer",
+    "location": "India",
+    "url": "https://example.invalid/extreme-networks",
+    "text": "Design enterprise integrations and automation with Workato, Salesforce and Snowflake."
+  }
+]
