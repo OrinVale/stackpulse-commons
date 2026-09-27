@@ -1,5 +1,5 @@
 # StackPulse Commons
-
+![StackPulse Commons banner](assets/stackpulse-commons-banner.jpg)
 > Open-source, source-linked change intelligence for public-interest ecosystem research.
 
 StackPulse Commons turns observable changes in publicly available organization
@@ -73,9 +73,7 @@ deliverables, a capped operating-cost line, and milestone reporting. Read:
 - [Campaign execution plan](docs/funding/campaign-plan.md)
 - [Supporter FAQ](docs/funding/supporter-faq.md)
 
-The current repository remains private while historical data and commit
-metadata are audited. A clean public repository will be published before a
-public fundraising campaign is promoted.
+This is the clean public repository for StackPulse Commons. It intentionally excludes historical databases and prior commit history.
 
 ## Contributing and security
 
