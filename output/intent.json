@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "change_language": [
+      "implement",
+      "implementation",
+      "transformation",
+      "architect",
+      "replace"
+    ],
+    "company": "extremenetworks",
+    "event": "JOB CHANGED",
+    "location": "North Carolina, United States",
+    "new_technologies": [
+      "aws",
+      "azure"
+    ],
+    "score": 60,
+    "source": "lever",
+    "source_site": "extremenetworks",
+    "title": "Systems Engineer - Stadiums and Wi-Fi Solutions - Sales Experience a Must",
+    "url": "https://jobs.lever.co/extremenetworks/e9ebf92d-3602-44de-9eeb-703e16656527"
+  },
+  {
+    "change_language": [
+      "transformation",
+      "integration",
+      "build"
+    ],
+    "company": "redoxengine",
+    "event": "JOB CHANGED",
+    "location": "Remote",
+    "new_technologies": [
+      "gong"
+    ],
+    "score": 44,
+    "source": "lever",
+    "source_site": "redoxengine",
+    "title": "Senior Pricing Manager",
+    "url": "https://jobs.lever.co/redoxengine/86142413-1e09-4236-9657-d0612c75c510"
+  }
+]
