@@ -1,18 +1,38 @@
 [
   {
     "change_language": [
-      "implement"
+      "implement",
+      "implementation",
+      "build"
     ],
-    "company": "wgsn",
-    "event": "NEW JOB",
-    "location": "New York, NY",
+    "company": "tracktik",
+    "event": "JOB CHANGED",
+    "location": "Montreal",
     "new_technologies": [
-      "salesforce"
+      "chatgpt",
+      "claude"
     ],
-    "score": 30,
+    "score": 46,
     "source": "lever",
-    "source_site": "wgsn",
-    "title": "Client Success Executive",
-    "url": "https://jobs.lever.co/wgsn/f1a9f25e-e4f1-4e55-bd1d-e562e59d5635"
+    "source_site": "tracktik",
+    "title": "Finance Business Partner",
+    "url": "https://jobs.lever.co/tracktik/b368bd22-96d3-4bd5-95da-edebeb2b732c"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "pattern",
+    "event": "NEW JOB",
+    "location": "Brno, Czech Republic",
+    "new_technologies": [
+      "chatgpt",
+      "openai"
+    ],
+    "score": 44,
+    "source": "lever",
+    "source_site": "pattern",
+    "title": "Product Marketing Manager",
+    "url": "https://jobs.lever.co/pattern/9b5eb1be-f337-4e44-87f5-6c17cc63907f"
   }
 ]
