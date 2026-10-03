@@ -1,38 +1,52 @@
 [
   {
     "change_language": [
-      "implement",
-      "implementation",
+      "architect",
+      "integration",
+      "integrate",
       "build"
     ],
-    "company": "tracktik",
+    "company": "shieldai",
     "event": "JOB CHANGED",
-    "location": "Montreal",
+    "location": "Washington, D.C.",
     "new_technologies": [
-      "chatgpt",
-      "claude"
+      "sap"
     ],
-    "score": 46,
+    "score": 48,
     "source": "lever",
-    "source_site": "tracktik",
-    "title": "Finance Business Partner",
-    "url": "https://jobs.lever.co/tracktik/b368bd22-96d3-4bd5-95da-edebeb2b732c"
+    "source_site": "shieldai",
+    "title": "Director, Mission Effectiveness",
+    "url": "https://jobs.lever.co/shieldai/86435780-023c-4e55-9e82-86f97157aeac"
   },
   {
     "change_language": [
       "build"
     ],
-    "company": "pattern",
+    "company": "moonpay",
     "event": "NEW JOB",
-    "location": "Brno, Czech Republic",
+    "location": "London - Hybrid",
     "new_technologies": [
       "chatgpt",
-      "openai"
+      "claude"
     ],
-    "score": 44,
+    "score": 38,
     "source": "lever",
-    "source_site": "pattern",
-    "title": "Product Marketing Manager",
-    "url": "https://jobs.lever.co/pattern/9b5eb1be-f337-4e44-87f5-6c17cc63907f"
+    "source_site": "moonpay",
+    "title": "Technical Talent Partner",
+    "url": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768"
+  },
+  {
+    "change_language": [],
+    "company": "aledade",
+    "event": "JOB CHANGED",
+    "location": "Remote, United States",
+    "new_technologies": [
+      "databricks"
+    ],
+    "score": 32,
+    "source": "lever",
+    "source_site": "aledade",
+    "title": "Senior Software Engineer I - Data & Algorithm Engineering",
+    "url": "https://jobs.lever.co/aledade/18d1d7a5-969d-4682-9ae1-5fffd8ae0c54"
   }
 ]
