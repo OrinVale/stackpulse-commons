@@ -201,9 +201,6 @@
         "18e0bed1-50d7-4b9f-9794-c016391ea758": {
           "technologies": []
         },
-        "1a5f0733-5dfa-4232-a9ab-72d388f673a1": {
-          "technologies": []
-        },
         "1b1761c6-b1aa-454b-9076-92d98395f0cf": {
           "technologies": []
         },
@@ -235,16 +232,24 @@
             "azure"
           ]
         },
-        "24dba888-ac77-4c02-b7a7-5953c51ce525": {
-          "technologies": []
+        "2471a008-afb9-4abf-9d09-7ceaf5144415": {
+          "technologies": [
+            "aws",
+            "azure",
+            "langchain",
+            "langgraph"
+          ]
         },
-        "258625f8-89a7-4f0d-a22a-e431bf2200cb": {
+        "24dba888-ac77-4c02-b7a7-5953c51ce525": {
           "technologies": []
         },
         "265bed8f-1d77-462c-b7ab-b82c4b129bd0": {
           "technologies": []
         },
         "277003a1-1f15-4b25-9a69-6ed8bb5c7d61": {
+          "technologies": []
+        },
+        "2856cb41-72cc-46f0-8c57-a92d0a311971": {
           "technologies": []
         },
         "2aa8449e-5076-471b-89e2-0999054011e8": {
@@ -286,9 +291,6 @@
           "technologies": []
         },
         "36a489f4-6778-4fd3-b03b-a92b59fd2dc8": {
-          "technologies": []
-        },
-        "37aafa1f-9a98-400d-9742-27e651e74c40": {
           "technologies": []
         },
         "38f3186a-0256-4b52-a218-12b37fea91f0": {
@@ -440,9 +442,6 @@
             "aws"
           ]
         },
-        "64d906d0-4c3a-47ab-96e1-66962b51a24e": {
-          "technologies": []
-        },
         "662400b1-1e3b-4e3d-8338-2574ee6a9e34": {
           "technologies": [
             "azure"
@@ -470,9 +469,6 @@
           "technologies": []
         },
         "6e9c5887-37c6-4585-af8b-fec598865a98": {
-          "technologies": []
-        },
-        "6f45e235-a80e-4067-931f-3efb326bf230": {
           "technologies": []
         },
         "72d3e433-2a3a-4774-a353-e17523b5eb95": {
@@ -759,9 +755,6 @@
         "d6bce3ce-09d9-49fc-9b49-0c87e5b82f76": {
           "technologies": []
         },
-        "db8fcd41-cd24-4568-97eb-621c10c68fee": {
-          "technologies": []
-        },
         "dc0b4a67-9b4c-4da6-9746-a82ea22b5488": {
           "technologies": []
         },
@@ -805,6 +798,13 @@
           "technologies": [
             "aws",
             "salesforce"
+          ]
+        },
+        "e6eceefb-5a68-40c2-aec2-d0cac0e606e0": {
+          "technologies": [
+            "claude",
+            "langchain",
+            "langgraph"
           ]
         },
         "e7459678-f2d8-419f-a9e0-dbd7917c7344": {
@@ -3324,6 +3324,6 @@
       "source": "lever"
     }
   },
-  "updated_at": "2026-10-04T13:37:09.670734+00:00",
+  "updated_at": "2026-10-05T06:41:40.880881+00:00",
   "version": 1
 }

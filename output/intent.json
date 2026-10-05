@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "change_language": [
+      "implement",
+      "architect",
+      "integration",
+      "integrate",
+      "build"
+    ],
+    "company": "brillio-2",
+    "event": "NEW JOB",
+    "location": "New York, New York, United States",
+    "new_technologies": [
+      "aws",
+      "azure",
+      "langchain",
+      "langgraph"
+    ],
+    "score": 76,
+    "source": "lever",
+    "source_site": "brillio-2",
+    "title": "Applied AI Architect  - R01572122",
+    "url": "https://jobs.lever.co/brillio-2/2471a008-afb9-4abf-9d09-7ceaf5144415"
+  },
+  {
+    "change_language": [
+      "architect",
+      "integration",
+      "build"
+    ],
+    "company": "brillio-2",
+    "event": "NEW JOB",
+    "location": "New York, New York, United States",
+    "new_technologies": [
+      "claude",
+      "langchain",
+      "langgraph"
+    ],
+    "score": 60,
+    "source": "lever",
+    "source_site": "brillio-2",
+    "title": "AI Builder (AI Solutions Engineer) - R01572121",
+    "url": "https://jobs.lever.co/brillio-2/e6eceefb-5a68-40c2-aec2-d0cac0e606e0"
+  }
+]
