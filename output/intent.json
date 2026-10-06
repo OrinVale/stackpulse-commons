@@ -1,7 +1,25 @@
 [
   {
     "change_language": [
-      "implement",
+      "transformation",
+      "architect",
+      "integration"
+    ],
+    "company": "extremenetworks",
+    "event": "NEW JOB",
+    "location": "Chennai, India",
+    "new_technologies": [
+      "aws",
+      "azure"
+    ],
+    "score": 52,
+    "source": "lever",
+    "source_site": "extremenetworks",
+    "title": "QA SW ENGINEER - 10544",
+    "url": "https://jobs.lever.co/extremenetworks/f0565b68-9cab-4c16-a4c6-1dce91672170"
+  },
+  {
+    "change_language": [
       "architect",
       "integration",
       "integrate",
@@ -9,37 +27,14 @@
     ],
     "company": "brillio-2",
     "event": "NEW JOB",
-    "location": "New York, New York, United States",
+    "location": "Edison, New Jersey, United States",
     "new_technologies": [
-      "aws",
-      "azure",
-      "langchain",
-      "langgraph"
+      "snowflake"
     ],
-    "score": 76,
+    "score": 48,
     "source": "lever",
     "source_site": "brillio-2",
-    "title": "Applied AI Architect  - R01572122",
-    "url": "https://jobs.lever.co/brillio-2/2471a008-afb9-4abf-9d09-7ceaf5144415"
-  },
-  {
-    "change_language": [
-      "architect",
-      "integration",
-      "build"
-    ],
-    "company": "brillio-2",
-    "event": "NEW JOB",
-    "location": "New York, New York, United States",
-    "new_technologies": [
-      "claude",
-      "langchain",
-      "langgraph"
-    ],
-    "score": 60,
-    "source": "lever",
-    "source_site": "brillio-2",
-    "title": "AI Builder (AI Solutions Engineer) - R01572121",
-    "url": "https://jobs.lever.co/brillio-2/e6eceefb-5a68-40c2-aec2-d0cac0e606e0"
+    "title": "AI Architect - R01570927",
+    "url": "https://jobs.lever.co/brillio-2/2d9ca895-812b-4139-a09f-099e2bf2bbbd"
   }
 ]
