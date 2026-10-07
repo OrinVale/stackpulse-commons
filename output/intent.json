@@ -1,40 +1,52 @@
 [
   {
     "change_language": [
-      "transformation",
-      "architect",
-      "integration"
+      "migration",
+      "architect"
     ],
-    "company": "extremenetworks",
+    "company": "jobgether",
     "event": "NEW JOB",
-    "location": "Chennai, India",
+    "location": "US",
     "new_technologies": [
-      "aws",
-      "azure"
+      "aws"
     ],
-    "score": 52,
+    "score": 40,
     "source": "lever",
-    "source_site": "extremenetworks",
-    "title": "QA SW ENGINEER - 10544",
-    "url": "https://jobs.lever.co/extremenetworks/f0565b68-9cab-4c16-a4c6-1dce91672170"
+    "source_site": "jobgether",
+    "title": "Senior AWS Cloud Architect \u2013 VMware Migration & AI Automation",
+    "url": "https://jobs.lever.co/jobgether/c54695d8-3ecc-4ff6-a4ea-624e39faa01f"
   },
   {
     "change_language": [
-      "architect",
-      "integration",
-      "integrate",
-      "build"
+      "integration"
     ],
-    "company": "brillio-2",
-    "event": "NEW JOB",
-    "location": "Edison, New Jersey, United States",
+    "company": "univeris.com",
+    "event": "JOB CHANGED",
+    "location": "Toronto, Ontario",
     "new_technologies": [
-      "snowflake"
+      "claude",
+      "netsuite"
     ],
-    "score": 48,
+    "score": 38,
     "source": "lever",
-    "source_site": "brillio-2",
-    "title": "AI Architect - R01570927",
-    "url": "https://jobs.lever.co/brillio-2/2d9ca895-812b-4139-a09f-099e2bf2bbbd"
+    "source_site": "univeris.com",
+    "title": "Finance Intern (Bookkeeping & Financial Automation)",
+    "url": "https://jobs.lever.co/univeris.com/7d7df57f-450b-4ce7-9ef5-df55ea7dce49"
+  },
+  {
+    "change_language": [
+      "redesign"
+    ],
+    "company": "tryjeeves",
+    "event": "JOB CHANGED",
+    "location": "S\u00e3o Paulo",
+    "new_technologies": [
+      "claude"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "tryjeeves",
+    "title": "KYC/B Onboarding Analyst",
+    "url": "https://jobs.lever.co/tryjeeves/5793ce49-ae38-4338-8cd8-c6b3dd35ff4e"
   }
 ]
