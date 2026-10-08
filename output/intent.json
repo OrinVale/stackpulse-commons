@@ -1,52 +1,19 @@
 [
   {
     "change_language": [
-      "migration",
-      "architect"
+      "architect",
+      "build"
     ],
-    "company": "jobgether",
-    "event": "NEW JOB",
-    "location": "US",
+    "company": "spotify",
+    "event": "JOB CHANGED",
+    "location": "Stockholm",
     "new_technologies": [
-      "aws"
+      "bigquery"
     ],
     "score": 40,
     "source": "lever",
-    "source_site": "jobgether",
-    "title": "Senior AWS Cloud Architect \u2013 VMware Migration & AI Automation",
-    "url": "https://jobs.lever.co/jobgether/c54695d8-3ecc-4ff6-a4ea-624e39faa01f"
-  },
-  {
-    "change_language": [
-      "integration"
-    ],
-    "company": "univeris.com",
-    "event": "JOB CHANGED",
-    "location": "Toronto, Ontario",
-    "new_technologies": [
-      "claude",
-      "netsuite"
-    ],
-    "score": 38,
-    "source": "lever",
-    "source_site": "univeris.com",
-    "title": "Finance Intern (Bookkeeping & Financial Automation)",
-    "url": "https://jobs.lever.co/univeris.com/7d7df57f-450b-4ce7-9ef5-df55ea7dce49"
-  },
-  {
-    "change_language": [
-      "redesign"
-    ],
-    "company": "tryjeeves",
-    "event": "JOB CHANGED",
-    "location": "S\u00e3o Paulo",
-    "new_technologies": [
-      "claude"
-    ],
-    "score": 30,
-    "source": "lever",
-    "source_site": "tryjeeves",
-    "title": "KYC/B Onboarding Analyst",
-    "url": "https://jobs.lever.co/tryjeeves/5793ce49-ae38-4338-8cd8-c6b3dd35ff4e"
+    "source_site": "spotify",
+    "title": "Backend Engineer - Data Platform",
+    "url": "https://jobs.lever.co/spotify/926149ab-6999-4058-b35d-41e302b70e05"
   }
 ]
