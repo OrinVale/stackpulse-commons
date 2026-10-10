@@ -1,93 +1,40 @@
 [
   {
     "change_language": [
-      "transformation",
-      "integrate",
+      "architect",
+      "integration",
       "build"
     ],
     "company": "brillio-2",
-    "event": "JOB CHANGED",
-    "location": "Dallas, Texas, United States",
+    "event": "NEW JOB",
+    "location": "New York, New York, United States",
     "new_technologies": [
-      "chatgpt",
       "claude",
-      "hubspot",
-      "salesforce"
+      "langchain",
+      "langgraph"
     ],
-    "score": 68,
+    "score": 60,
     "source": "lever",
     "source_site": "brillio-2",
-    "title": "Marketing Manager - Growth & Events",
-    "url": "https://jobs.lever.co/brillio-2/4386f2db-b700-496f-9bc1-000b9292538f"
+    "title": "AI Engineer / Forward Deployed Engineer - R01572121",
+    "url": "https://jobs.lever.co/brillio-2/e6eceefb-5a68-40c2-aec2-d0cac0e606e0"
   },
   {
     "change_language": [
       "architect",
-      "build",
-      "consolidat"
-    ],
-    "company": "jumpcloud",
-    "event": "JOB CHANGED",
-    "location": "Ankara, T\u00fcrkiye - Remote",
-    "new_technologies": [
-      "aws",
-      "gcp"
-    ],
-    "score": 52,
-    "source": "lever",
-    "source_site": "jumpcloud",
-    "title": "Escalations Engineer - Turkiye",
-    "url": "https://jobs.lever.co/jumpcloud/42bfde99-39cb-4f6c-a16a-a02c0c59ab89"
-  },
-  {
-    "change_language": [
+      "integrate",
       "build"
     ],
-    "company": "pattern",
+    "company": "pointclickcare",
     "event": "NEW JOB",
-    "location": "Brno, Czech Republic",
+    "location": "Salt Lake City, UT",
     "new_technologies": [
-      "chatgpt",
-      "openai"
+      "azure"
     ],
     "score": 44,
     "source": "lever",
-    "source_site": "pattern",
-    "title": "Demand Generation Manager",
-    "url": "https://jobs.lever.co/pattern/f5958fa7-1efb-4993-bb04-df7728244b5b"
-  },
-  {
-    "change_language": [
-      "build"
-    ],
-    "company": "pattern",
-    "event": "NEW JOB",
-    "location": "Sao Paulo, Brazil",
-    "new_technologies": [
-      "chatgpt",
-      "openai"
-    ],
-    "score": 38,
-    "source": "lever",
-    "source_site": "pattern",
-    "title": "Customer Success Junior",
-    "url": "https://jobs.lever.co/pattern/f1fd4fce-6cc4-4db4-8e74-3de989d85dc0"
-  },
-  {
-    "change_language": [
-      "integration",
-      "build"
-    ],
-    "company": "enablecomp",
-    "event": "NEW JOB",
-    "location": "Franklin, TN",
-    "new_technologies": [
-      "databricks"
-    ],
-    "score": 34,
-    "source": "lever",
-    "source_site": "enablecomp",
-    "title": "Data Analyst (Databricks) REMOTE",
-    "url": "https://jobs.lever.co/enablecomp/8d47ba51-4751-468a-90f2-648400f96422"
+    "source_site": "pointclickcare",
+    "title": "Intermediate Software Engineer-(A&P)",
+    "url": "https://jobs.lever.co/pointclickcare/6c8f4d1f-c1c7-480f-bd17-45927fd23741"
   }
 ]
