@@ -1,1 +1,108 @@
-[]
+[
+  {
+    "change_language": [
+      "transformation",
+      "replace"
+    ],
+    "company": "extremenetworks",
+    "event": "JOB CHANGED",
+    "location": "North Carolina, United States",
+    "new_technologies": [
+      "salesforce"
+    ],
+    "score": 40,
+    "source": "lever",
+    "source_site": "extremenetworks",
+    "title": "Services Inside Account Manager",
+    "url": "https://jobs.lever.co/extremenetworks/93cfdff0-7298-4a52-8fd7-2e08610e09c4"
+  },
+  {
+    "change_language": [
+      "architect"
+    ],
+    "company": "jobgether",
+    "event": "NEW JOB",
+    "location": "US",
+    "new_technologies": [
+      "azure"
+    ],
+    "score": 36,
+    "source": "lever",
+    "source_site": "jobgether",
+    "title": "Azure Security Architect",
+    "url": "https://jobs.lever.co/jobgether/ee52b3c4-5160-4c86-a145-3c0adda4a3da"
+  },
+  {
+    "change_language": [],
+    "company": "mendix",
+    "event": "JOB CHANGED",
+    "location": "Rotterdam",
+    "new_technologies": [
+      "aws",
+      "azure"
+    ],
+    "score": 34,
+    "source": "lever",
+    "source_site": "mendix",
+    "title": "Cloud Unit Lead",
+    "url": "https://jobs.lever.co/mendix/330bf2d6-3f5c-43a0-8285-2abf22040352"
+  },
+  {
+    "change_language": [],
+    "company": "jobgether",
+    "event": "NEW JOB",
+    "location": "Brazil",
+    "new_technologies": [
+      "aws"
+    ],
+    "score": 32,
+    "source": "lever",
+    "source_site": "jobgether",
+    "title": "AWS Data Platform Engineer",
+    "url": "https://jobs.lever.co/jobgether/500be579-550f-4e38-8d70-3397fd439a6a"
+  },
+  {
+    "change_language": [],
+    "company": "jobgether",
+    "event": "NEW JOB",
+    "location": "US",
+    "new_technologies": [
+      "aws"
+    ],
+    "score": 32,
+    "source": "lever",
+    "source_site": "jobgether",
+    "title": "AWS Senior Cloud & ML Engineering Associate Director",
+    "url": "https://jobs.lever.co/jobgether/8096042f-b15f-4a1a-9b28-1dc377dc9166"
+  },
+  {
+    "change_language": [],
+    "company": "jobgether",
+    "event": "NEW JOB",
+    "location": "US",
+    "new_technologies": [
+      "aws"
+    ],
+    "score": 32,
+    "source": "lever",
+    "source_site": "jobgether",
+    "title": "AWS Windows Infrastructure Engineer",
+    "url": "https://jobs.lever.co/jobgether/bfa32ce7-d261-4ca7-83db-d656b4d94a10"
+  },
+  {
+    "change_language": [
+      "implement"
+    ],
+    "company": "contentsquare",
+    "event": "NEW JOB",
+    "location": "New York, New York",
+    "new_technologies": [
+      "salesforce"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "contentsquare",
+    "title": "Deal Desk Analyst",
+    "url": "https://jobs.lever.co/contentsquare/3af84938-a1ba-4774-9c89-2ad697750954"
+  }
+]
