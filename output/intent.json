@@ -1,108 +1,148 @@
 [
   {
     "change_language": [
-      "transformation",
-      "replace"
+      "architect",
+      "integration",
+      "build"
     ],
-    "company": "extremenetworks",
-    "event": "JOB CHANGED",
-    "location": "North Carolina, United States",
+    "company": "qonto",
+    "event": "NEW JOB",
+    "location": "Paris",
     "new_technologies": [
-      "salesforce"
+      "aws",
+      "claude"
     ],
-    "score": 40,
+    "score": 52,
     "source": "lever",
-    "source_site": "extremenetworks",
-    "title": "Services Inside Account Manager",
-    "url": "https://jobs.lever.co/extremenetworks/93cfdff0-7298-4a52-8fd7-2e08610e09c4"
+    "source_site": "qonto",
+    "title": "Engineering Manager - Accounting",
+    "url": "https://jobs.lever.co/qonto/489aaf09-447c-4a8a-b79d-bb65d0e568ef"
   },
   {
     "change_language": [
-      "architect"
+      "architect",
+      "integrate",
+      "build"
     ],
-    "company": "jobgether",
-    "event": "NEW JOB",
-    "location": "US",
+    "company": "pointclickcare",
+    "event": "JOB CHANGED",
+    "location": "Mississauga, Ontario",
     "new_technologies": [
-      "azure"
+      "aws"
+    ],
+    "score": 44,
+    "source": "lever",
+    "source_site": "pointclickcare",
+    "title": "Senior Site Reliability Enablement Engineer",
+    "url": "https://jobs.lever.co/pointclickcare/69271749-0d70-4a86-a432-6008399b4646"
+  },
+  {
+    "change_language": [
+      "transformation",
+      "integrate",
+      "build",
+      "replace"
+    ],
+    "company": "thinkahead",
+    "event": "JOB CHANGED",
+    "location": "United States",
+    "new_technologies": [
+      "claude"
+    ],
+    "score": 42,
+    "source": "lever",
+    "source_site": "thinkahead",
+    "title": "Security Technical Lead - AI SOC",
+    "url": "https://jobs.lever.co/thinkahead/fd10575a-792d-4074-a131-c380d963cfac"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "pigment",
+    "event": "NEW JOB",
+    "location": "Paris",
+    "new_technologies": [
+      "snowflake"
     ],
     "score": 36,
     "source": "lever",
-    "source_site": "jobgether",
-    "title": "Azure Security Architect",
-    "url": "https://jobs.lever.co/jobgether/ee52b3c4-5160-4c86-a145-3c0adda4a3da"
-  },
-  {
-    "change_language": [],
-    "company": "mendix",
-    "event": "JOB CHANGED",
-    "location": "Rotterdam",
-    "new_technologies": [
-      "aws",
-      "azure"
-    ],
-    "score": 34,
-    "source": "lever",
-    "source_site": "mendix",
-    "title": "Cloud Unit Lead",
-    "url": "https://jobs.lever.co/mendix/330bf2d6-3f5c-43a0-8285-2abf22040352"
-  },
-  {
-    "change_language": [],
-    "company": "jobgether",
-    "event": "NEW JOB",
-    "location": "Brazil",
-    "new_technologies": [
-      "aws"
-    ],
-    "score": 32,
-    "source": "lever",
-    "source_site": "jobgether",
-    "title": "AWS Data Platform Engineer",
-    "url": "https://jobs.lever.co/jobgether/500be579-550f-4e38-8d70-3397fd439a6a"
-  },
-  {
-    "change_language": [],
-    "company": "jobgether",
-    "event": "NEW JOB",
-    "location": "US",
-    "new_technologies": [
-      "aws"
-    ],
-    "score": 32,
-    "source": "lever",
-    "source_site": "jobgether",
-    "title": "AWS Senior Cloud & ML Engineering Associate Director",
-    "url": "https://jobs.lever.co/jobgether/8096042f-b15f-4a1a-9b28-1dc377dc9166"
-  },
-  {
-    "change_language": [],
-    "company": "jobgether",
-    "event": "NEW JOB",
-    "location": "US",
-    "new_technologies": [
-      "aws"
-    ],
-    "score": 32,
-    "source": "lever",
-    "source_site": "jobgether",
-    "title": "AWS Windows Infrastructure Engineer",
-    "url": "https://jobs.lever.co/jobgether/bfa32ce7-d261-4ca7-83db-d656b4d94a10"
+    "source_site": "pigment",
+    "title": "Project Manager",
+    "url": "https://jobs.lever.co/pigment/9b6782fc-679f-4281-a09a-57c7cf72d2ea"
   },
   {
     "change_language": [
-      "implement"
+      "build"
     ],
-    "company": "contentsquare",
+    "company": "qonto",
     "event": "NEW JOB",
-    "location": "New York, New York",
+    "location": "Paris",
     "new_technologies": [
-      "salesforce"
+      "claude"
+    ],
+    "score": 36,
+    "source": "lever",
+    "source_site": "qonto",
+    "title": "Backend Engineer - Internship (6 months)",
+    "url": "https://jobs.lever.co/qonto/92761288-f0aa-451b-880f-55178ca450c4"
+  },
+  {
+    "change_language": [],
+    "company": "qonto",
+    "event": "NEW JOB",
+    "location": "Paris",
+    "new_technologies": [
+      "claude"
+    ],
+    "score": 32,
+    "source": "lever",
+    "source_site": "qonto",
+    "title": "Senior Web Engineer (React) - Remote Friendly",
+    "url": "https://jobs.lever.co/qonto/a3830956-2107-4cc5-a647-a6f30f1987b4"
+  },
+  {
+    "change_language": [],
+    "company": "qonto",
+    "event": "NEW JOB",
+    "location": "Milan",
+    "new_technologies": [
+      "claude"
+    ],
+    "score": 32,
+    "source": "lever",
+    "source_site": "qonto",
+    "title": "Senior Web Engineer (React) - Remote friendly",
+    "url": "https://jobs.lever.co/qonto/2ec33be8-037e-4fd4-9352-12e10466f24a"
+  },
+  {
+    "change_language": [],
+    "company": "shieldai",
+    "event": "JOB CHANGED",
+    "location": "San Diego, California",
+    "new_technologies": [
+      "databricks"
+    ],
+    "score": 32,
+    "source": "lever",
+    "source_site": "shieldai",
+    "title": "Senior Analytics Engineer - Finance (R6185)",
+    "url": "https://jobs.lever.co/shieldai/fa7d3c2a-f9c5-4060-b525-2398e3e754f6"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "pigment",
+    "event": "NEW JOB",
+    "location": "London",
+    "new_technologies": [
+      "snowflake"
     ],
     "score": 30,
     "source": "lever",
-    "source_site": "contentsquare",
-    "title": "Deal Desk Analyst",
-    "url": "https://jobs.lever.co/contentsquare/3af84938-a1ba-4774-9c89-2ad697750954"
+    "source_site": "pigment",
+    "title": "EPM Services Sales Lead - London",
+    "url": "https://jobs.lever.co/pigment/3e985eb9-fb58-40e8-a1c8-c1c1f2a625ae"
   }
 ]
