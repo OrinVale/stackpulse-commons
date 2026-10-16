@@ -3,197 +3,191 @@
     "change_language": [
       "implement",
       "architect",
-      "integration",
+      "integrate",
       "build",
-      "consolidat"
+      "rollout"
     ],
-    "company": "pigment",
-    "event": "NEW JOB",
-    "location": "Paris",
+    "company": "pointclickcare",
+    "event": "JOB CHANGED",
+    "location": "Salt Lake City, UT",
     "new_technologies": [
-      "bigquery",
-      "dbt",
-      "gong",
-      "netsuite",
-      "salesforce",
-      "snowflake"
+      "aws",
+      "azure",
+      "gcp"
     ],
-    "score": 92,
+    "score": 68,
     "source": "lever",
-    "source_site": "pigment",
-    "title": "Junior Data & Automation Engineer",
-    "url": "https://jobs.lever.co/pigment/80b6b73c-eccf-4844-b3fd-31e6f8765249"
+    "source_site": "pointclickcare",
+    "title": "Intermediate AI-Enabled DevOps Engineer",
+    "url": "https://jobs.lever.co/pointclickcare/94b85a28-9893-48c5-a2bb-a50175887ef1"
   },
   {
     "change_language": [
+      "architect",
+      "integration",
+      "build"
+    ],
+    "company": "brillio-2",
+    "event": "NEW JOB",
+    "location": "Minneapolis, Minnesota",
+    "new_technologies": [
+      "claude",
+      "langchain",
+      "langgraph"
+    ],
+    "score": 60,
+    "source": "lever",
+    "source_site": "brillio-2",
+    "title": "Forward Deployed Engineer - R01572128",
+    "url": "https://jobs.lever.co/brillio-2/d7d9bed8-4770-439a-b6ae-e5fb0c815c04"
+  },
+  {
+    "change_language": [
+      "implement",
       "integration",
       "integrate",
       "build"
     ],
-    "company": "yuno",
+    "company": "airtm",
     "event": "NEW JOB",
-    "location": "Colombia",
+    "location": "LATAM",
     "new_technologies": [
-      "chatgpt",
-      "claude",
-      "salesforce",
-      "zapier",
-      "zoominfo"
+      "langchain",
+      "llamaindex"
     ],
-    "score": 70,
+    "score": 56,
     "source": "lever",
-    "source_site": "yuno",
-    "title": "Sales Development Representative - Northam",
-    "url": "https://jobs.lever.co/yuno/6068ff11-faa8-4f09-a406-9c2dcf42c499"
+    "source_site": "airtm",
+    "title": "Senior QA Engineer",
+    "url": "https://jobs.lever.co/airtm/6b7e43d1-66f0-4d41-bde2-827ae1168a03"
   },
   {
     "change_language": [
-      "implement",
-      "implementation",
-      "transformation",
-      "architect",
-      "build",
-      "replace"
+      "integration",
+      "build"
     ],
     "company": "thinkahead",
     "event": "JOB CHANGED",
-    "location": "United States",
+    "location": "Gurugram, Haryana",
     "new_technologies": [
-      "dbt",
-      "snowflake"
+      "aws",
+      "azure",
+      "salesforce"
     ],
-    "score": 64,
+    "score": 56,
     "source": "lever",
     "source_site": "thinkahead",
-    "title": "Principal Engineer, Software Engineering",
-    "url": "https://jobs.lever.co/thinkahead/1204388e-f1be-4522-850d-518381cf4f91"
+    "title": "Full Stack Engineer",
+    "url": "https://jobs.lever.co/thinkahead/c75ca13e-535b-4da2-8389-16d7819b095c"
   },
   {
     "change_language": [
       "migration",
-      "implement",
       "architect",
-      "build",
-      "consolidat"
+      "integration",
+      "build"
     ],
-    "company": "payjoy",
+    "company": "airtm",
     "event": "NEW JOB",
-    "location": "United States",
+    "location": "LATAM",
     "new_technologies": [
       "aws",
-      "gcp"
+      "claude"
     ],
-    "score": 60,
+    "score": 50,
     "source": "lever",
-    "source_site": "payjoy",
+    "source_site": "airtm",
+    "title": "Senior Software Enginner (Full-stack Node + React)",
+    "url": "https://jobs.lever.co/airtm/d8b10545-45f5-42f3-a483-c03a36d6f288"
+  },
+  {
+    "change_language": [
+      "integration",
+      "build"
+    ],
+    "company": "mistplay",
+    "event": "NEW JOB",
+    "location": "Montreal",
+    "new_technologies": [
+      "hubspot",
+      "salesforce"
+    ],
+    "score": 48,
+    "source": "lever",
+    "source_site": "mistplay",
+    "title": "Senior Business Development Manager II, LoyaltyPlay",
+    "url": "https://jobs.lever.co/mistplay/8c246f87-060c-4e22-b1af-15bfc741b9e6"
+  },
+  {
+    "change_language": [
+      "architect",
+      "integrate"
+    ],
+    "company": "pointclickcare",
+    "event": "NEW JOB",
+    "location": "Mississauga, Ontario",
+    "new_technologies": [
+      "aws",
+      "azure"
+    ],
+    "score": 48,
+    "source": "lever",
+    "source_site": "pointclickcare",
     "title": "Senior Software Engineer",
-    "url": "https://jobs.lever.co/payjoy/0b76b537-dbe7-40ae-9204-1d4f4d9f724c"
+    "url": "https://jobs.lever.co/pointclickcare/3779970b-816c-4417-bcc8-6a3436ff6821"
+  },
+  {
+    "change_language": [
+      "integration",
+      "build"
+    ],
+    "company": "shyftlabs",
+    "event": "NEW JOB",
+    "location": "Coimbatore",
+    "new_technologies": [
+      "aws",
+      "databricks"
+    ],
+    "score": 48,
+    "source": "lever",
+    "source_site": "shyftlabs",
+    "title": "Senior Data Engineer -Databricks",
+    "url": "https://jobs.lever.co/shyftlabs/efc9f57e-4331-455a-bb4a-f351570a08c7"
+  },
+  {
+    "change_language": [
+      "implement",
+      "build"
+    ],
+    "company": "penumbrainc",
+    "event": "NEW JOB",
+    "location": "Alameda, CA",
+    "new_technologies": [
+      "sap"
+    ],
+    "score": 40,
+    "source": "lever",
+    "source_site": "penumbrainc",
+    "title": "Associate Director, Operational Procurement",
+    "url": "https://jobs.lever.co/penumbrainc/5b973f9d-01a4-4691-99f5-849a9b155523"
   },
   {
     "change_language": [
       "implement",
       "implementation",
-      "integration",
-      "build",
-      "rollout"
-    ],
-    "company": "mindtickle",
-    "event": "JOB CHANGED",
-    "location": "Remote, US",
-    "new_technologies": [
-      "hubspot",
-      "salesforce"
-    ],
-    "score": 54,
-    "source": "lever",
-    "source_site": "mindtickle",
-    "title": "Professional Services Consultant",
-    "url": "https://jobs.lever.co/mindtickle/f8ef5095-a8db-4279-98b4-94dbca9c717e"
-  },
-  {
-    "change_language": [],
-    "company": "cscgeneration-2",
-    "event": "NEW JOB",
-    "location": "Remote - Mexico",
-    "new_technologies": [
-      "aws",
-      "claude",
-      "netsuite",
-      "salesforce"
-    ],
-    "score": 50,
-    "source": "lever",
-    "source_site": "cscgeneration-2",
-    "title": "Trainer",
-    "url": "https://jobs.lever.co/cscgeneration-2/b104bbee-f9a4-4f4c-b3e1-7d8a48dbf604"
-  },
-  {
-    "change_language": [
-      "integration"
-    ],
-    "company": "extremenetworks",
-    "event": "NEW JOB",
-    "location": "Bangalore",
-    "new_technologies": [
-      "chatgpt",
-      "claude"
-    ],
-    "score": 44,
-    "source": "lever",
-    "source_site": "extremenetworks",
-    "title": "Full-Stack Software Engineer \u2013 GoLang- Flutter-UI  --10532",
-    "url": "https://jobs.lever.co/extremenetworks/31c2e5ec-febe-4123-a96b-b2013f0f51ea"
-  },
-  {
-    "change_language": [
-      "architect",
-      "build",
-      "replace"
-    ],
-    "company": "qonto",
-    "event": "NEW JOB",
-    "location": "Paris",
-    "new_technologies": [
-      "zapier"
-    ],
-    "score": 44,
-    "source": "lever",
-    "source_site": "qonto",
-    "title": "Operations Tooling Manager",
-    "url": "https://jobs.lever.co/qonto/bbf11e0e-b63a-4f48-928b-393b5c905f4e"
-  },
-  {
-    "change_language": [
-      "build",
-      "consolidat"
-    ],
-    "company": "jumpcloud",
-    "event": "NEW JOB",
-    "location": "Charlotte, NC - Remote",
-    "new_technologies": [
-      "gong"
-    ],
-    "score": 40,
-    "source": "lever",
-    "source_site": "jumpcloud",
-    "title": "Senior Manager, Direct Sales - United States",
-    "url": "https://jobs.lever.co/jumpcloud/e5017407-cf32-44e2-b093-ba88dc4c2738"
-  },
-  {
-    "change_language": [
       "build"
     ],
-    "company": "360learning",
-    "event": "JOB CHANGED",
-    "location": "Paris, Remote",
+    "company": "penumbrainc",
+    "event": "NEW JOB",
+    "location": "Your Remote US Home Office",
     "new_technologies": [
-      "azure"
+      "gcp"
     ],
-    "score": 36,
+    "score": 38,
     "source": "lever",
-    "source_site": "360learning",
-    "title": "Senior DevSecOps Engineer",
-    "url": "https://jobs.lever.co/360learning/1bc6a2b3-ff85-498f-a0c1-b8a463fc992e"
+    "source_site": "penumbrainc",
+    "title": "Senior Statistical Programmer Analyst - T",
+    "url": "https://jobs.lever.co/penumbrainc/b520201b-cd32-4cc8-9d3e-ffe41b6e4bda"
   },
   {
     "change_language": [
@@ -208,69 +202,24 @@
     "score": 36,
     "source": "lever",
     "source_site": "enablecomp",
-    "title": "Senior Manager, Commercial Systems - Salesforce (REMOTE)",
-    "url": "https://jobs.lever.co/enablecomp/2592748a-b0a4-433b-8847-eeb1e64536cf"
+    "title": "Sr. Manager, Commercial Systems - Salesforce (REMOTE)",
+    "url": "https://jobs.lever.co/enablecomp/afe57042-906b-4d97-a1cd-12908b41f2f3"
   },
   {
     "change_language": [
-      "build"
+      "architect"
     ],
-    "company": "pigment",
+    "company": "jobgether",
     "event": "NEW JOB",
-    "location": "Paris",
+    "location": "US",
     "new_technologies": [
-      "snowflake"
+      "databricks"
     ],
     "score": 36,
     "source": "lever",
-    "source_site": "pigment",
-    "title": "Junior Backend Engineer",
-    "url": "https://jobs.lever.co/pigment/dad6777e-77e7-4885-b8cc-751ad141df6a"
-  },
-  {
-    "change_language": [
-      "architect",
-      "build"
-    ],
-    "company": "paytm",
-    "event": "NEW JOB",
-    "location": "Noida, Uttar Pradesh",
-    "new_technologies": [
-      "bigquery"
-    ],
-    "score": 34,
-    "source": "lever",
-    "source_site": "paytm",
-    "title": "Performance Marketing",
-    "url": "https://jobs.lever.co/paytm/6bfdc7fa-863c-4cba-8819-1846af25cecc"
-  },
-  {
-    "change_language": [],
-    "company": "qonto",
-    "event": "NEW JOB",
-    "location": "Barcelona",
-    "new_technologies": [
-      "salesforce"
-    ],
-    "score": 32,
-    "source": "lever",
-    "source_site": "qonto",
-    "title": "Inside Sales Manager Deutschland (m/w/d)",
-    "url": "https://jobs.lever.co/qonto/8f7d9510-49ca-498a-a762-c0d3c58ebc56"
-  },
-  {
-    "change_language": [],
-    "company": "veeva",
-    "event": "NEW JOB",
-    "location": "Massachusetts - Boston",
-    "new_technologies": [
-      "aws"
-    ],
-    "score": 32,
-    "source": "lever",
-    "source_site": "veeva",
-    "title": "Associate DevOps Engineer",
-    "url": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2"
+    "source_site": "jobgether",
+    "title": "Databricks Solutions Architect Senior Manager",
+    "url": "https://jobs.lever.co/jobgether/1231364c-4d48-4042-bfda-1f61b151513f"
   },
   {
     "change_language": [
@@ -278,30 +227,75 @@
     ],
     "company": "qonto",
     "event": "JOB CHANGED",
-    "location": "Barcelona",
+    "location": "Berlin",
     "new_technologies": [
       "claude"
     ],
-    "score": 30,
+    "score": 36,
     "source": "lever",
     "source_site": "qonto",
-    "title": "Customer Care Agent Netherlands",
-    "url": "https://jobs.lever.co/qonto/be48a406-a580-468a-805f-7e97d6edaaf4"
+    "title": "Backend Engineer - Internship (6 months)",
+    "url": "https://jobs.lever.co/qonto/27b04742-b983-411c-9a39-186e0738a60c"
   },
   {
     "change_language": [
-      "integrate"
+      "architect",
+      "build"
     ],
-    "company": "wgsn",
+    "company": "caseware",
+    "event": "JOB CHANGED",
+    "location": "Medellin",
+    "new_technologies": [
+      "aws"
+    ],
+    "score": 34,
+    "source": "lever",
+    "source_site": "caseware",
+    "title": "AWS Backend Senior Software Developer III",
+    "url": "https://jobs.lever.co/caseware/3132e059-c8ec-48e0-9e69-c7a382594ce3"
+  },
+  {
+    "change_language": [],
+    "company": "provectus",
     "event": "NEW JOB",
-    "location": "London, UK",
+    "location": "New Jersey",
+    "new_technologies": [
+      "aws"
+    ],
+    "score": 32,
+    "source": "lever",
+    "source_site": "provectus",
+    "title": "Senior Forward Deployed AI Engineer (GenAI, AWS)",
+    "url": "https://jobs.lever.co/provectus/ba986810-f0ca-42b8-9cef-ecadc3702c84"
+  },
+  {
+    "change_language": [],
+    "company": "qonto",
+    "event": "NEW JOB",
+    "location": "Berlin",
+    "new_technologies": [
+      "claude"
+    ],
+    "score": 32,
+    "source": "lever",
+    "source_site": "qonto",
+    "title": "Senior Web Engineer (React) - Remote friendly",
+    "url": "https://jobs.lever.co/qonto/1dad770d-53b1-430c-a548-32772019c1eb"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "qonto",
+    "event": "NEW JOB",
+    "location": "Paris",
     "new_technologies": [
       "salesforce"
     ],
     "score": 30,
     "source": "lever",
-    "source_site": "wgsn",
-    "title": "Client Success Specialist (Multilingual)",
-    "url": "https://jobs.lever.co/wgsn/5c25add5-44d4-457f-a0af-9bf9a0ee1772"
+    "source_site": "qonto",
+    "title": "Growth Ops Intern",
+    "url": "https://jobs.lever.co/qonto/e69bb642-f11d-4d54-b8d3-2e0b6b4fbfeb"
   }
 ]
