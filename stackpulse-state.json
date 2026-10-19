@@ -144,9 +144,6 @@
         "00d2c483-8e88-47a1-893f-31c513bc0991": {
           "technologies": []
         },
-        "0310346e-e37d-4706-a1f8-f8d31fee5d1c": {
-          "technologies": []
-        },
         "032ab0d1-37f1-4fb6-b301-6d4f0115a90b": {
           "technologies": []
         },
@@ -213,9 +210,6 @@
           "technologies": []
         },
         "1bb179e1-05dc-4b61-841b-bd7a75820ee3": {
-          "technologies": []
-        },
-        "1be0b4ea-704f-486e-928f-22c2d11e7fd5": {
           "technologies": []
         },
         "1d2ab0dd-9cf0-41d0-b2c3-dad339829747": {
@@ -285,9 +279,6 @@
         "33530f2e-840f-4c2a-9cfd-4e67a47bd74f": {
           "technologies": []
         },
-        "3537f097-0870-434a-90a5-f81742e6ed00": {
-          "technologies": []
-        },
         "358a3b72-7222-4738-9861-9cc726c079e0": {
           "technologies": []
         },
@@ -340,9 +331,6 @@
           ]
         },
         "44cd17c5-1a36-4146-b956-818469e6a099": {
-          "technologies": []
-        },
-        "459bdfb8-9077-4c0b-8c05-b6c8370287c1": {
           "technologies": []
         },
         "45c66f65-4e65-4393-a31e-19632415dcc1": {
@@ -439,9 +427,6 @@
           ]
         },
         "664eda55-501d-4b61-a0d5-863d56b75f34": {
-          "technologies": []
-        },
-        "67ef4169-cca4-4cf1-929a-979fa18a2a78": {
           "technologies": []
         },
         "688b34f5-943e-4fb6-9e91-f5917e18fc8f": {
@@ -1032,13 +1017,16 @@
         "17aba49a-a00d-42c4-a285-49a512448235": {
           "technologies": []
         },
-        "41ca2654-ead5-408b-98fe-236e265e9e88": {
+        "2be45476-b945-4afa-a362-e9c7ee6d1b33": {
           "technologies": []
         },
         "4a319f3d-642f-41ef-8ba8-6a79ba9a2563": {
           "technologies": []
         },
         "631c6307-1cbe-4158-82cf-7388a2cf4327": {
+          "technologies": []
+        },
+        "7a16c558-8421-4188-b66d-98d74ea8741a": {
           "technologies": []
         },
         "87dfa5a3-5f16-448e-9197-f3e2de1c8a74": {
@@ -1385,9 +1373,6 @@
             "aws",
             "azure"
           ]
-        },
-        "a1f19a91-d9fa-45ae-b5fa-00d27b303185": {
-          "technologies": []
         },
         "a2be3ccd-ffae-48c0-8399-9bc00015d7ea": {
           "technologies": []
@@ -2570,9 +2555,6 @@
         "972c9931-ca55-4263-bc0d-75afc697e3b9": {
           "technologies": []
         },
-        "a62f17fd-7a1b-4f7a-aa1a-a5f71476ff52": {
-          "technologies": []
-        },
         "a79598be-83e8-4e26-a872-2c20e4cc8242": {
           "technologies": []
         },
@@ -2640,9 +2622,6 @@
             "langchain",
             "openai"
           ]
-        },
-        "d3c03840-66fc-4749-ac4f-ec77c8a82ac4": {
-          "technologies": []
         },
         "da903735-9f6e-4261-a61e-9b52d3435846": {
           "technologies": []
@@ -3234,6 +3213,6 @@
       "source": "lever"
     }
   },
-  "updated_at": "2026-10-18T06:49:34.122118+00:00",
+  "updated_at": "2026-10-19T06:59:27.278599+00:00",
   "version": 1
 }
