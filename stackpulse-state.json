@@ -153,6 +153,9 @@
         "04883aa8-c6d4-4fd0-8862-5c371f8991b1": {
           "technologies": []
         },
+        "067f103d-b57b-451e-b0cf-200410a318c2": {
+          "technologies": []
+        },
         "06f3848e-d618-43fb-bb3c-1c5a10d556c4": {
           "technologies": []
         },
@@ -169,9 +172,6 @@
           "technologies": []
         },
         "0938c93c-7da5-424e-9e16-67a3bbe2d6ed": {
-          "technologies": []
-        },
-        "0b1741e6-44d9-4b8b-ac70-f5bff98a1f24": {
           "technologies": []
         },
         "0caf0afc-a346-480b-8e55-a6fc0707e647": {
@@ -385,6 +385,9 @@
         "53ecdd3c-367a-4fa3-8a51-94d2f10658ee": {
           "technologies": []
         },
+        "53fd9f3f-9221-498c-86e2-f4ff417bc2c0": {
+          "technologies": []
+        },
         "5685d0b6-0b57-4c73-9ea7-fee9944f8581": {
           "technologies": []
         },
@@ -416,9 +419,6 @@
           "technologies": []
         },
         "62d17dcf-6406-482e-a814-10b99efe59a3": {
-          "technologies": []
-        },
-        "65c8d6cc-ba55-4dbd-b4b8-1f5a0e6af18a": {
           "technologies": []
         },
         "662400b1-1e3b-4e3d-8338-2574ee6a9e34": {
@@ -514,6 +514,9 @@
         "8aee3746-3087-4b33-bc08-67b6865ebc7c": {
           "technologies": []
         },
+        "8b5002b7-dbea-4298-94ee-85b2738d8e20": {
+          "technologies": []
+        },
         "8bad52f4-2063-4b6c-8fb4-1f9b9a15a6fd": {
           "technologies": []
         },
@@ -532,9 +535,6 @@
           "technologies": []
         },
         "8dddfa41-9c4b-4634-9078-2bc1bab9a207": {
-          "technologies": []
-        },
-        "8de5d90c-0007-472d-8c37-902bcf3bc46a": {
           "technologies": []
         },
         "8f37377f-d285-4b74-8f59-da08e99229dd": {
@@ -621,9 +621,6 @@
             "langchain",
             "langgraph"
           ]
-        },
-        "b3032ade-5c6b-48ae-9bde-7eabca6ecd7d": {
-          "technologies": []
         },
         "b366bbf2-4161-4d91-9f92-7cd1b421f078": {
           "technologies": []
@@ -759,9 +756,6 @@
         "e1952e9a-a986-4ae9-857d-af62707be422": {
           "technologies": []
         },
-        "e21a8a6a-6de7-4fff-9aef-1143812e190b": {
-          "technologies": []
-        },
         "e258486b-2e9c-48b6-9cab-330e8aba301b": {
           "technologies": []
         },
@@ -769,9 +763,6 @@
           "technologies": []
         },
         "e459597e-9985-4dfa-a079-a9972f1733ea": {
-          "technologies": []
-        },
-        "e4a4be2d-48cb-4d7e-b912-79d0ac8076a5": {
           "technologies": []
         },
         "e68fe733-dfe3-4f03-83ad-457f4f4ce48c": {
@@ -795,9 +786,6 @@
           "technologies": []
         },
         "e93a454a-1b29-44cd-aed4-f13a72ca8feb": {
-          "technologies": []
-        },
-        "e94bec9c-30e3-402e-b8a8-3c3c262e94e7": {
           "technologies": []
         },
         "ea1713e8-0ac3-4d15-95ba-05e2979aaa11": {
@@ -839,6 +827,9 @@
           "technologies": []
         },
         "f0e6d0a8-fb05-444d-8038-3e25b340852f": {
+          "technologies": []
+        },
+        "f18f78a5-9eab-4c09-b98b-f27a097af08a": {
           "technologies": []
         },
         "f4a971e3-151f-4c04-88cc-37658f85ed68": {
@@ -985,9 +976,6 @@
         "cd1fdfb2-13c6-4e14-94b3-d0533bc590cd": {
           "technologies": []
         },
-        "d34d7fe3-5c7d-4453-9933-203bcf8932a4": {
-          "technologies": []
-        },
         "d5bd7f47-a47e-44f2-ac6e-90decc39472e": {
           "technologies": []
         },
@@ -1014,6 +1002,9 @@
     "lever:enablecomp": {
       "company": "enablecomp",
       "jobs": {
+        "0a617735-4f95-4601-8834-8ef08a76c60c": {
+          "technologies": []
+        },
         "17aba49a-a00d-42c4-a285-49a512448235": {
           "technologies": []
         },
@@ -1097,12 +1088,6 @@
         "0c6ac735-f754-49ad-933f-89052782eadf": {
           "technologies": []
         },
-        "0d7c3177-2321-423b-a0de-1b0725085994": {
-          "technologies": []
-        },
-        "0d906ddc-85ed-4e3a-99dc-b92a8233d5f0": {
-          "technologies": []
-        },
         "0dbc28c8-0a16-4ba3-bf4b-44fadbdfed01": {
           "technologies": []
         },
@@ -1113,9 +1098,6 @@
           ]
         },
         "0fd0b0f1-37f5-4505-a775-46aabddc29a5": {
-          "technologies": []
-        },
-        "1480bcbc-e71c-4d0f-b007-e43850f1431a": {
           "technologies": []
         },
         "165bf028-f464-4a58-8d53-3e826bac5dc6": {
@@ -1130,20 +1112,11 @@
         "1f328ea6-d64a-4d1e-aa42-8e9e6ab614a0": {
           "technologies": []
         },
-        "24043f0c-7642-4954-afaf-99f215590e2e": {
-          "technologies": []
-        },
-        "26c9f29c-d75b-4dd4-b96e-cfbc887a865a": {
-          "technologies": []
-        },
         "2a0c7b1c-12f2-44ef-b032-d4dbb36f6440": {
           "technologies": [
             "aws",
             "azure"
           ]
-        },
-        "2ab59191-1e40-4fe2-9172-9ee1e0ded58d": {
-          "technologies": []
         },
         "2b7f8532-a1b7-4eb6-9ff2-309431d39a3a": {
           "technologies": [
@@ -1180,9 +1153,6 @@
           "technologies": []
         },
         "3aeb5ab3-5407-464a-be6a-7419e80849fd": {
-          "technologies": []
-        },
-        "3e22f5ee-5fbd-4e10-87cb-4c9a0b0fa9c1": {
           "technologies": []
         },
         "40963840-c33b-4e17-a928-982d826b048f": {
@@ -1245,18 +1215,6 @@
         "5cb8361e-6415-4fcd-a51c-73c73c7049db": {
           "technologies": []
         },
-        "5dd1bc6c-df60-427e-ad10-58894e9aa42b": {
-          "technologies": []
-        },
-        "5eb3b70e-f29c-4526-aa28-662c89843881": {
-          "technologies": []
-        },
-        "5f5647a8-30c4-4f68-ba77-6229c70df53a": {
-          "technologies": []
-        },
-        "63eb513f-998c-417f-82a0-6425d5983b3a": {
-          "technologies": []
-        },
         "6af93f26-f84c-4335-b21a-d2243e9b5a54": {
           "technologies": []
         },
@@ -1276,22 +1234,7 @@
         "6dfcbfe3-0718-4701-b44e-7d4773b5fde7": {
           "technologies": []
         },
-        "71b7892b-f6ab-44a3-bdaf-7e5808f72d8c": {
-          "technologies": []
-        },
         "722adb7a-f5d5-4765-8772-cec4cf322faf": {
-          "technologies": []
-        },
-        "72a65033-c231-47e5-9d23-03fe60df26f2": {
-          "technologies": []
-        },
-        "74d2b8ab-2bf9-4d9c-bba7-4258db5b7a7b": {
-          "technologies": []
-        },
-        "74ff9c4c-28d4-4c7d-9aaa-ab7cb7bd53f1": {
-          "technologies": []
-        },
-        "77274c03-9119-4e3b-9289-5665bccd375f": {
           "technologies": []
         },
         "7e24535a-c6ad-4878-8d00-9aa7c601db63": {
@@ -1362,12 +1305,6 @@
             "salesforce"
           ]
         },
-        "9c7ebecd-ed6d-49c1-be6d-a04c05331e6d": {
-          "technologies": []
-        },
-        "a08324de-3ca7-4116-ba08-891deb1e3129": {
-          "technologies": []
-        },
         "a1dc29d0-872a-414b-b142-b7093e467a98": {
           "technologies": [
             "aws",
@@ -1413,10 +1350,10 @@
         "c42ecc66-232d-4c7d-b92d-fe6b49f7a043": {
           "technologies": []
         },
-        "c626c1f6-5ae6-4446-a887-85321aa5cdcb": {
+        "c65d36d7-ec0c-4f06-abcf-22c4aa85cced": {
           "technologies": []
         },
-        "c65d36d7-ec0c-4f06-abcf-22c4aa85cced": {
+        "c7e396a4-78ee-4e0c-a5f3-895073ff2652": {
           "technologies": []
         },
         "c977b005-42fb-4935-906a-1d5f05c3dd00": {
@@ -1426,16 +1363,10 @@
             "gcp"
           ]
         },
-        "ccb71572-1b23-4f7f-ba39-a7a96ead5d1e": {
-          "technologies": []
-        },
         "cd2b658e-5430-4913-bd3b-b4e36bf992f7": {
           "technologies": []
         },
         "cff10340-bd5f-4f76-bbd9-d8475d178f21": {
-          "technologies": []
-        },
-        "d4031a00-077e-43a9-a557-350d3e42e6ff": {
           "technologies": []
         },
         "d4227a6b-8e6d-45d0-ba86-5a696dfada88": {
@@ -1445,9 +1376,6 @@
           "technologies": []
         },
         "d5598450-9d07-4f32-a3bf-e49edc3a0c51": {
-          "technologies": []
-        },
-        "d91abd19-18f0-4454-9866-b53fc5f4aad4": {
           "technologies": []
         },
         "dc50f26c-56fe-4e3c-88b8-75d7e0d2634e": {
@@ -1473,12 +1401,6 @@
             "workato"
           ]
         },
-        "e1d5a5bb-5389-4f2a-870a-6867091aaffd": {
-          "technologies": []
-        },
-        "e1e0d236-638f-4440-be37-cd4a5a71f639": {
-          "technologies": []
-        },
         "e4618bac-b6d3-41f6-94a3-125e098c3d6e": {
           "technologies": []
         },
@@ -1498,16 +1420,10 @@
         "e9f9b404-2a6a-4c47-911d-dac78f5a6c8e": {
           "technologies": []
         },
-        "ea28a12b-b30d-4e28-a7ea-166c272b0a14": {
-          "technologies": []
-        },
         "ebb38b50-7d0e-46ef-b166-2a3d2d41d5d6": {
           "technologies": [
             "marketo"
           ]
-        },
-        "ec8c4001-1a2a-427f-a58f-b8370d61dd60": {
-          "technologies": []
         },
         "f0565b68-9cab-4c16-a4c6-1dce91672170": {
           "technologies": [
@@ -1538,9 +1454,6 @@
         },
         "fec9cf44-3343-44ca-9377-ce2676799834": {
           "technologies": []
-        },
-        "fedd9c7d-b69a-47a0-aa61-2454e51dba0d": {
-          "technologies": []
         }
       },
       "site": "extremenetworks",
@@ -1550,6 +1463,9 @@
       "company": "firemon",
       "jobs": {
         "0ba5ff72-75ef-422a-8c02-55d485ef9865": {
+          "technologies": []
+        },
+        "11bcf2e3-4737-4805-b09e-7c6b1de29d47": {
           "technologies": []
         },
         "23fd1c60-e90b-4e50-8e7c-59373a4dca55": {
@@ -1562,6 +1478,9 @@
           "technologies": []
         },
         "65208e7b-0d5c-473c-9579-a0dab419fbd6": {
+          "technologies": []
+        },
+        "6dafa7fe-f68e-4f62-b463-18f80901483b": {
           "technologies": []
         },
         "83bd061b-f5d7-431f-bead-abd5486498f2": {
@@ -1689,6 +1608,9 @@
           "technologies": []
         },
         "707888fa-90d2-413e-baa8-89131a9e7f14": {
+          "technologies": []
+        },
+        "72907d16-2d4b-4daa-a8db-77439ec7fb92": {
           "technologies": []
         },
         "7bc2d24c-a892-4032-9b86-ac01bf8c085f": {
@@ -1883,7 +1805,13 @@
         "003c7329-331f-49a2-8d85-6d39cbd3a981": {
           "technologies": []
         },
+        "0106c1fc-6395-40e6-8a63-7b133ce563c4": {
+          "technologies": []
+        },
         "0214c172-3b10-48d9-b171-a779012c8cc8": {
+          "technologies": []
+        },
+        "03860766-387e-4b06-9e80-a0b3bc661182": {
           "technologies": []
         },
         "06a61a4a-eb44-451f-9cff-33bc279a2387": {
@@ -1948,10 +1876,8 @@
         "6c126d1d-2053-436d-ac33-5bd7c4388a4e": {
           "technologies": []
         },
-        "7309718a-3e26-49f9-95b2-83b939a7db41": {
-          "technologies": [
-            "aws"
-          ]
+        "7ae4e380-ed39-4150-ad34-e1afb9685bd6": {
+          "technologies": []
         },
         "7cbae919-1705-4737-9b0e-a942dd1451b3": {
           "technologies": []
@@ -2014,6 +1940,9 @@
         "f3e656f5-cb47-4c35-9e7a-00bce29c6a2d": {
           "technologies": []
         },
+        "f61ca692-a66b-4e9f-a864-ad29e7cd716e": {
+          "technologies": []
+        },
         "fd2adf19-9204-4897-9a6b-f5825d26a3bb": {
           "technologies": []
         }
@@ -2055,6 +1984,9 @@
           "technologies": []
         },
         "166aa0c8-54f4-4d99-b9a9-9f0ee2f9c8bc": {
+          "technologies": []
+        },
+        "17a6caa4-3d27-4c3e-97f4-5d735bd95df0": {
           "technologies": []
         },
         "184256c9-e6f8-4f9e-a287-63f172484e79": {
@@ -2201,6 +2133,9 @@
           "technologies": []
         },
         "898aafe7-3536-4b6b-85d7-cff7f81bc64f": {
+          "technologies": []
+        },
+        "8aeeb2cc-b98e-4fdc-b5bd-b62f4f516a33": {
           "technologies": []
         },
         "90097cfe-4a53-46fa-9d33-46844161c07c": {
@@ -2361,6 +2296,11 @@
             "claude"
           ]
         },
+        "1181d421-2adb-4586-ac11-853d865965bd": {
+          "technologies": [
+            "azure"
+          ]
+        },
         "121dc43a-3cce-4786-8daa-75dcc3126b9d": {
           "technologies": []
         },
@@ -2436,6 +2376,9 @@
         "36121d51-8a8e-4b05-afdb-3ca37b312baf": {
           "technologies": []
         },
+        "37553fe8-a0c4-41db-b0d4-4ad0ca7941af": {
+          "technologies": []
+        },
         "3779970b-816c-4417-bcc8-6a3436ff6821": {
           "technologies": [
             "aws",
@@ -2503,6 +2446,11 @@
         },
         "6b7f5c7a-372b-4a4a-8187-b2c347157e14": {
           "technologies": []
+        },
+        "6c8f4d1f-c1c7-480f-bd17-45927fd23741": {
+          "technologies": [
+            "azure"
+          ]
         },
         "7677eeea-2690-41dd-9bd8-e0b1143e195d": {
           "technologies": []
@@ -2688,16 +2636,8 @@
         "103ed5e8-184f-4d66-a6f6-a8308fda4550": {
           "technologies": []
         },
-        "16433cf3-3226-4e9e-b04e-71c85af443a7": {
-          "technologies": []
-        },
         "219baf0a-51a6-4949-8cc9-1824d503334d": {
           "technologies": []
-        },
-        "86142413-1e09-4236-9657-d0612c75c510": {
-          "technologies": [
-            "gong"
-          ]
         },
         "89357e79-3a1c-4374-ac73-3d7e2390035f": {
           "technologies": []
@@ -3054,6 +2994,11 @@
             "salesforce"
           ]
         },
+        "fdfdf8ba-8977-4e51-9b8b-337d8757c0b2": {
+          "technologies": [
+            "salesforce"
+          ]
+        },
         "ffa1bd25-7e74-440e-b5a0-d0b8372ca4aa": {
           "technologies": []
         },
@@ -3136,9 +3081,6 @@
         "6f2868ec-d47d-42cb-a7ca-fc3cca13d0fd": {
           "technologies": []
         },
-        "78e3bd04-be45-4f5a-a102-5c9e3d141419": {
-          "technologies": []
-        },
         "79f030b8-15db-4fb2-9451-db6f8964f056": {
           "technologies": []
         },
@@ -3187,6 +3129,9 @@
         "b41b50cc-d70e-4228-a822-1daf117d73fe": {
           "technologies": []
         },
+        "bfafb267-2318-496f-a41d-c99d60894eb1": {
+          "technologies": []
+        },
         "c0c675c8-9d64-4b37-8752-614a22c6007d": {
           "technologies": []
         },
@@ -3202,6 +3147,9 @@
         "edf595f3-7a47-41d5-961a-d5afb3f9539f": {
           "technologies": []
         },
+        "f07b0a4a-98fd-4a79-9633-5c1243c0409e": {
+          "technologies": []
+        },
         "f4b81e7e-6fbd-4881-b064-b7a91bc95b8a": {
           "technologies": []
         },
@@ -3213,6 +3161,6 @@
       "source": "lever"
     }
   },
-  "updated_at": "2026-10-19T06:59:27.278599+00:00",
+  "updated_at": "2026-10-20T06:53:54.513140+00:00",
   "version": 1
 }

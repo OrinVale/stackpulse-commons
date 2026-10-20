@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "change_language": [
+      "architect",
+      "integrate",
+      "build"
+    ],
+    "company": "pointclickcare",
+    "event": "NEW JOB",
+    "location": "Salt Lake City, UT",
+    "new_technologies": [
+      "azure"
+    ],
+    "score": 44,
+    "source": "lever",
+    "source_site": "pointclickcare",
+    "title": "Intermediate Software Engineer-(A&P)",
+    "url": "https://jobs.lever.co/pointclickcare/6c8f4d1f-c1c7-480f-bd17-45927fd23741"
+  },
+  {
+    "change_language": [
+      "architect",
+      "integrate",
+      "build"
+    ],
+    "company": "pointclickcare",
+    "event": "NEW JOB",
+    "location": "Remote - US",
+    "new_technologies": [
+      "azure"
+    ],
+    "score": 44,
+    "source": "lever",
+    "source_site": "pointclickcare",
+    "title": "Senior Site Reliability Engineer",
+    "url": "https://jobs.lever.co/pointclickcare/1181d421-2adb-4586-ac11-853d865965bd"
+  },
+  {
+    "change_language": [
+      "implement"
+    ],
+    "company": "wgsn",
+    "event": "NEW JOB",
+    "location": "Florida",
+    "new_technologies": [
+      "salesforce"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "wgsn",
+    "title": "Client Success Executive",
+    "url": "https://jobs.lever.co/wgsn/fdfdf8ba-8977-4e51-9b8b-337d8757c0b2"
+  }
+]
