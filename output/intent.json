@@ -1,54 +1,69 @@
 [
   {
     "change_language": [
+      "implement",
       "architect",
-      "integrate",
-      "build"
+      "integrate"
     ],
     "company": "pointclickcare",
-    "event": "NEW JOB",
+    "event": "JOB CHANGED",
     "location": "Salt Lake City, UT",
     "new_technologies": [
+      "aws",
       "azure"
     ],
-    "score": 44,
+    "score": 52,
     "source": "lever",
     "source_site": "pointclickcare",
-    "title": "Intermediate Software Engineer-(A&P)",
-    "url": "https://jobs.lever.co/pointclickcare/6c8f4d1f-c1c7-480f-bd17-45927fd23741"
+    "title": "Intermediate Site Reliability Engineer (SRE)",
+    "url": "https://jobs.lever.co/pointclickcare/37553fe8-a0c4-41db-b0d4-4ad0ca7941af"
   },
   {
     "change_language": [
-      "architect",
-      "integrate",
-      "build"
-    ],
-    "company": "pointclickcare",
-    "event": "NEW JOB",
-    "location": "Remote - US",
-    "new_technologies": [
-      "azure"
-    ],
-    "score": 44,
-    "source": "lever",
-    "source_site": "pointclickcare",
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://jobs.lever.co/pointclickcare/1181d421-2adb-4586-ac11-853d865965bd"
-  },
-  {
-    "change_language": [
-      "implement"
+      "integrate"
     ],
     "company": "wgsn",
     "event": "NEW JOB",
-    "location": "Florida",
+    "location": "London, UK",
     "new_technologies": [
       "salesforce"
     ],
     "score": 30,
     "source": "lever",
     "source_site": "wgsn",
-    "title": "Client Success Executive",
-    "url": "https://jobs.lever.co/wgsn/fdfdf8ba-8977-4e51-9b8b-337d8757c0b2"
+    "title": "Client Success Specialist - German speaking",
+    "url": "https://jobs.lever.co/wgsn/697f24fb-519e-4c4c-b9bd-ece907b8bed6"
+  },
+  {
+    "change_language": [
+      "integrate"
+    ],
+    "company": "wgsn",
+    "event": "NEW JOB",
+    "location": "London, UK",
+    "new_technologies": [
+      "salesforce"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "wgsn",
+    "title": "Client Success Specialist - Italian speaking",
+    "url": "https://jobs.lever.co/wgsn/d487694c-63f3-40ab-a89e-e96f291a5026"
+  },
+  {
+    "change_language": [
+      "integrate"
+    ],
+    "company": "wgsn",
+    "event": "NEW JOB",
+    "location": "London, UK",
+    "new_technologies": [
+      "salesforce"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "wgsn",
+    "title": "Client Success Specialist - Turkish speaking",
+    "url": "https://jobs.lever.co/wgsn/32e811c4-61d6-4a99-b83f-5060faa747f5"
   }
 ]
