@@ -2,68 +2,107 @@
   {
     "change_language": [
       "implement",
+      "implementation",
+      "architect",
+      "build",
+      "rollout"
+    ],
+    "company": "qonto",
+    "event": "NEW JOB",
+    "location": "Paris",
+    "new_technologies": [
+      "claude"
+    ],
+    "score": 52,
+    "source": "lever",
+    "source_site": "qonto",
+    "title": "Senior Product Engineer - Android/Kotlin",
+    "url": "https://jobs.lever.co/qonto/0c9f8b02-398c-4128-bbd1-b1b0acf3956e"
+  },
+  {
+    "change_language": [
       "architect",
       "integrate"
     ],
     "company": "pointclickcare",
-    "event": "JOB CHANGED",
-    "location": "Salt Lake City, UT",
+    "event": "NEW JOB",
+    "location": "Mississauga/Toronto/Kitchener/Waterloo/Cambridge",
     "new_technologies": [
       "aws",
       "azure"
     ],
-    "score": 52,
+    "score": 48,
     "source": "lever",
     "source_site": "pointclickcare",
-    "title": "Intermediate Site Reliability Engineer (SRE)",
-    "url": "https://jobs.lever.co/pointclickcare/37553fe8-a0c4-41db-b0d4-4ad0ca7941af"
+    "title": "Intermediate Software Engineer",
+    "url": "https://jobs.lever.co/pointclickcare/6ec25484-b204-48a6-ab91-7b0b1625aa02"
   },
   {
     "change_language": [
-      "integrate"
+      "build"
     ],
-    "company": "wgsn",
-    "event": "NEW JOB",
-    "location": "London, UK",
+    "company": "360learning",
+    "event": "JOB CHANGED",
+    "location": "London, Remote",
     "new_technologies": [
+      "marketo",
       "salesforce"
     ],
-    "score": 30,
+    "score": 44,
     "source": "lever",
-    "source_site": "wgsn",
-    "title": "Client Success Specialist - German speaking",
-    "url": "https://jobs.lever.co/wgsn/697f24fb-519e-4c4c-b9bd-ece907b8bed6"
+    "source_site": "360learning",
+    "title": "Head of GTM Systems & AI",
+    "url": "https://jobs.lever.co/360learning/ad8fe537-4ade-4bd4-b1b6-9d6644d1e5a0"
   },
   {
     "change_language": [
-      "integrate"
+      "architect"
     ],
-    "company": "wgsn",
+    "company": "brillio-2",
     "event": "NEW JOB",
-    "location": "London, UK",
+    "location": "Bangalore, Karnataka, India",
     "new_technologies": [
-      "salesforce"
+      "bigquery",
+      "gcp"
     ],
-    "score": 30,
+    "score": 38,
     "source": "lever",
-    "source_site": "wgsn",
-    "title": "Client Success Specialist - Italian speaking",
-    "url": "https://jobs.lever.co/wgsn/d487694c-63f3-40ab-a89e-e96f291a5026"
+    "source_site": "brillio-2",
+    "title": "Power BI Admin with ThoghtSpot - R01572897",
+    "url": "https://jobs.lever.co/brillio-2/ae7a49b6-d8b6-400d-bb56-f76d9a399a9e"
   },
   {
     "change_language": [
-      "integrate"
+      "implement",
+      "build",
+      "consolidat"
     ],
-    "company": "wgsn",
+    "company": "waabi",
     "event": "NEW JOB",
-    "location": "London, UK",
+    "location": "Toronto, ON",
     "new_technologies": [
-      "salesforce"
+      "dbt"
     ],
-    "score": 30,
+    "score": 38,
     "source": "lever",
-    "source_site": "wgsn",
-    "title": "Client Success Specialist - Turkish speaking",
-    "url": "https://jobs.lever.co/wgsn/32e811c4-61d6-4a99-b83f-5060faa747f5"
+    "source_site": "waabi",
+    "title": "Senior Data Analyst, Operations",
+    "url": "https://jobs.lever.co/waabi/48faca52-f7c5-4f01-8ee2-2d05b9fd44cb"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "360learning",
+    "event": "NEW JOB",
+    "location": "Paris, Remote",
+    "new_technologies": [
+      "snowflake"
+    ],
+    "score": 36,
+    "source": "lever",
+    "source_site": "360learning",
+    "title": "Analytics Engineer",
+    "url": "https://jobs.lever.co/360learning/1ea40e82-5e2c-4b83-8f20-bbcddf62640d"
   }
 ]
