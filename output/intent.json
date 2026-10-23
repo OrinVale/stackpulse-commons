@@ -1,11 +1,186 @@
 [
   {
     "change_language": [
+      "architect",
+      "integration",
+      "integrate",
+      "build"
+    ],
+    "company": "neuron7",
+    "event": "NEW JOB",
+    "location": "Bengaluru",
+    "new_technologies": [
+      "salesforce",
+      "sap"
+    ],
+    "score": 56,
+    "source": "lever",
+    "source_site": "neuron7",
+    "title": "Senior Frontend Engineer",
+    "url": "https://jobs.lever.co/neuron7/a5b7f297-c371-41a0-bdb4-a7931aec745c"
+  },
+  {
+    "change_language": [
+      "architect",
+      "integration",
+      "build"
+    ],
+    "company": "agile-defense",
+    "event": "NEW JOB",
+    "location": "Remote",
+    "new_technologies": [
+      "aws",
+      "azure"
+    ],
+    "score": 52,
+    "source": "lever",
+    "source_site": "agile-defense",
+    "title": "Senior Security Architect",
+    "url": "https://jobs.lever.co/agile-defense/a70a37ed-a8c9-46eb-8478-4179bb5fc92c"
+  },
+  {
+    "change_language": [
+      "implement",
+      "build"
+    ],
+    "company": "moonpay",
+    "event": "NEW JOB",
+    "location": "United States (East Coast Time Zone) - Remote",
+    "new_technologies": [
+      "chatgpt",
+      "claude"
+    ],
+    "score": 48,
+    "source": "lever",
+    "source_site": "moonpay",
+    "title": "Senior Program Manager, Product Operations",
+    "url": "https://jobs.lever.co/moonpay/9697bcae-6de6-47f5-9e46-b3c9d999d0d3"
+  },
+  {
+    "change_language": [
+      "architect",
+      "build"
+    ],
+    "company": "provectus",
+    "event": "JOB CHANGED",
+    "location": "New York City Metropolitan Area",
+    "new_technologies": [
+      "aws",
+      "claude"
+    ],
+    "score": 48,
+    "source": "lever",
+    "source_site": "provectus",
+    "title": "AI Architect",
+    "url": "https://jobs.lever.co/provectus/3a7bdd39-ba8d-4da3-933e-da9438a2b73e"
+  },
+  {
+    "change_language": [
+      "architect",
+      "build"
+    ],
+    "company": "provectus",
+    "event": "JOB CHANGED",
+    "location": "San Francisco Bay Area, California",
+    "new_technologies": [
+      "aws",
+      "claude"
+    ],
+    "score": 48,
+    "source": "lever",
+    "source_site": "provectus",
+    "title": "AI Architect",
+    "url": "https://jobs.lever.co/provectus/9509af76-071c-411d-9856-a44d5aee2a9a"
+  },
+  {
+    "change_language": [
       "implement",
       "implementation",
+      "build"
+    ],
+    "company": "h1",
+    "event": "JOB CHANGED",
+    "location": "US Remote",
+    "new_technologies": [
+      "netsuite",
+      "salesforce"
+    ],
+    "score": 46,
+    "source": "lever",
+    "source_site": "h1",
+    "title": "Staff Accountant",
+    "url": "https://jobs.lever.co/h1/c715029f-ace4-4f5f-a62b-3374f47aeefe"
+  },
+  {
+    "change_language": [
+      "transformation",
+      "architect"
+    ],
+    "company": "brillio-2",
+    "event": "NEW JOB",
+    "location": "Bangalore, Karnataka, India",
+    "new_technologies": [
+      "azure"
+    ],
+    "score": 40,
+    "source": "lever",
+    "source_site": "brillio-2",
+    "title": "Senior BI Architect - R01571695",
+    "url": "https://jobs.lever.co/brillio-2/0605e5bc-1201-4ac2-9729-7b708c26c6bd"
+  },
+  {
+    "change_language": [
       "architect",
-      "build",
-      "rollout"
+      "build"
+    ],
+    "company": "qonto",
+    "event": "NEW JOB",
+    "location": "Belgrade",
+    "new_technologies": [
+      "aws"
+    ],
+    "score": 40,
+    "source": "lever",
+    "source_site": "qonto",
+    "title": "Senior/Staff - Go Backend Engineer - remote friendly",
+    "url": "https://jobs.lever.co/qonto/f610d169-eb47-40ba-b7dc-5f9b41feef90"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "moonpay",
+    "event": "NEW JOB",
+    "location": "New York - Hybrid",
+    "new_technologies": [
+      "chatgpt",
+      "claude"
+    ],
+    "score": 38,
+    "source": "lever",
+    "source_site": "moonpay",
+    "title": "Staff Pricing Data Scientist",
+    "url": "https://jobs.lever.co/moonpay/49338068-2f4d-4cbb-b55d-176b2ed2f89e"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "pigment",
+    "event": "JOB CHANGED",
+    "location": "Austin, Texas",
+    "new_technologies": [
+      "snowflake"
+    ],
+    "score": 36,
+    "source": "lever",
+    "source_site": "pigment",
+    "title": "Global Head of Talent Acquisition",
+    "url": "https://jobs.lever.co/pigment/a31d34d0-c2a1-4427-b3d8-90a5ea625a3c"
+  },
+  {
+    "change_language": [
+      "build"
     ],
     "company": "qonto",
     "event": "NEW JOB",
@@ -13,96 +188,104 @@
     "new_technologies": [
       "claude"
     ],
-    "score": 52,
+    "score": 36,
     "source": "lever",
     "source_site": "qonto",
-    "title": "Senior Product Engineer - Android/Kotlin",
-    "url": "https://jobs.lever.co/qonto/0c9f8b02-398c-4128-bbd1-b1b0acf3956e"
-  },
-  {
-    "change_language": [
-      "architect",
-      "integrate"
-    ],
-    "company": "pointclickcare",
-    "event": "NEW JOB",
-    "location": "Mississauga/Toronto/Kitchener/Waterloo/Cambridge",
-    "new_technologies": [
-      "aws",
-      "azure"
-    ],
-    "score": 48,
-    "source": "lever",
-    "source_site": "pointclickcare",
-    "title": "Intermediate Software Engineer",
-    "url": "https://jobs.lever.co/pointclickcare/6ec25484-b204-48a6-ab91-7b0b1625aa02"
+    "title": "Data Engineering Intern",
+    "url": "https://jobs.lever.co/qonto/b25b1e03-3d07-4f09-8b41-578f754c7529"
   },
   {
     "change_language": [
       "build"
     ],
-    "company": "360learning",
-    "event": "JOB CHANGED",
-    "location": "London, Remote",
-    "new_technologies": [
-      "marketo",
-      "salesforce"
-    ],
-    "score": 44,
-    "source": "lever",
-    "source_site": "360learning",
-    "title": "Head of GTM Systems & AI",
-    "url": "https://jobs.lever.co/360learning/ad8fe537-4ade-4bd4-b1b6-9d6644d1e5a0"
-  },
-  {
-    "change_language": [
-      "architect"
-    ],
-    "company": "brillio-2",
+    "company": "qonto",
     "event": "NEW JOB",
-    "location": "Bangalore, Karnataka, India",
+    "location": "Paris",
     "new_technologies": [
-      "bigquery",
-      "gcp"
-    ],
-    "score": 38,
-    "source": "lever",
-    "source_site": "brillio-2",
-    "title": "Power BI Admin with ThoghtSpot - R01572897",
-    "url": "https://jobs.lever.co/brillio-2/ae7a49b6-d8b6-400d-bb56-f76d9a399a9e"
-  },
-  {
-    "change_language": [
-      "implement",
-      "build",
-      "consolidat"
-    ],
-    "company": "waabi",
-    "event": "NEW JOB",
-    "location": "Toronto, ON",
-    "new_technologies": [
-      "dbt"
-    ],
-    "score": 38,
-    "source": "lever",
-    "source_site": "waabi",
-    "title": "Senior Data Analyst, Operations",
-    "url": "https://jobs.lever.co/waabi/48faca52-f7c5-4f01-8ee2-2d05b9fd44cb"
-  },
-  {
-    "change_language": [
-      "build"
-    ],
-    "company": "360learning",
-    "event": "NEW JOB",
-    "location": "Paris, Remote",
-    "new_technologies": [
-      "snowflake"
+      "claude"
     ],
     "score": 36,
     "source": "lever",
-    "source_site": "360learning",
-    "title": "Analytics Engineer",
-    "url": "https://jobs.lever.co/360learning/1ea40e82-5e2c-4b83-8f20-bbcddf62640d"
+    "source_site": "qonto",
+    "title": "Staff Product Engineer - AI Core - remote friendly",
+    "url": "https://jobs.lever.co/qonto/1f945bad-2c45-4ac1-be06-a219dc9e1a93"
+  },
+  {
+    "change_language": [],
+    "company": "qonto",
+    "event": "NEW JOB",
+    "location": "Paris",
+    "new_technologies": [
+      "claude"
+    ],
+    "score": 32,
+    "source": "lever",
+    "source_site": "qonto",
+    "title": "Senior Web Engineer (React) - Remote Friendly",
+    "url": "https://jobs.lever.co/qonto/a3830956-2107-4cc5-a647-a6f30f1987b4"
+  },
+  {
+    "change_language": [
+      "migration"
+    ],
+    "company": "octoenergy",
+    "event": "JOB CHANGED",
+    "location": "Paris (FR)",
+    "new_technologies": [
+      "netsuite"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "octoenergy",
+    "title": "Comptable s\u00e9nior H/F",
+    "url": "https://jobs.lever.co/octoenergy/297fd0d0-7e72-4139-ad6b-9e30d0b9a60c"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "pigment",
+    "event": "NEW JOB",
+    "location": "London",
+    "new_technologies": [
+      "snowflake"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "pigment",
+    "title": "Corporate Account Executive - UK&I",
+    "url": "https://jobs.lever.co/pigment/67c2999e-e610-4711-837b-3f75ffb644ef"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "pigment",
+    "event": "NEW JOB",
+    "location": "Zurich",
+    "new_technologies": [
+      "snowflake"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "pigment",
+    "title": "Enterprise Account Executive DACH",
+    "url": "https://jobs.lever.co/pigment/baaabf0f-edc4-4ad7-8b99-13b808665e41"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "provectus",
+    "event": "JOB CHANGED",
+    "location": "San Francisco Bay Area, California",
+    "new_technologies": [
+      "aws"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "provectus",
+    "title": "Business Development & Partnerships Associate",
+    "url": "https://jobs.lever.co/provectus/4cb4ca7f-e295-49e7-9d39-d9505a50f18d"
   }
 ]
