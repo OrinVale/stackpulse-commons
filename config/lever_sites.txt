@@ -19,11 +19,11 @@ atomcomputing
 autofi
 bazaarvoice
 belvederetrading
-bhvr
 binance
 blablacar
 boxlunch
 bpmcpa
+brightmachines
 brilliant
 brillio-2
 cagents
@@ -52,6 +52,7 @@ ekohealth
 emburse
 enablecomp
 entrata
+espace
 everlywell
 extremenetworks
 fampay
@@ -60,7 +61,6 @@ finn
 firemon
 fiscalnote
 floqast
-flowlife
 fluxergy-2
 fuellabs
 fullscript
@@ -92,7 +92,6 @@ jumpcloud
 kepler
 kitware
 kpaonline
-kpler
 kpmgnz
 ladders
 lalamove
@@ -119,7 +118,6 @@ moonpay
 mrss
 mujininc
 myollie
-neighbor
 neuron7
 ninjavan
 nium
@@ -138,7 +136,6 @@ payjoy
 paytm
 peerspace
 pentagrp
-penumbrainc
 peoplegrove
 pigment
 pipedrive
@@ -148,7 +145,6 @@ pointclickcare
 promiserobotics
 provectus
 pyka
-qonto
 qualysoft
 quantco-
 rai
@@ -172,6 +168,7 @@ sonatype
 sophos
 spotify
 sprymethods
+standtogether
 steerbridge
 sure
 tala
@@ -180,7 +177,6 @@ telesat
 teller
 teramind
 terawattinfrastructure
-thea.energy
 thinkahead
 toptal
 tracktik
@@ -194,6 +190,7 @@ valkyrietrading
 veeva
 veo
 verygoodsecurity
+viget
 vogo
 waabi
 waveapps
@@ -201,7 +198,6 @@ wealthfront
 weloglobal
 weride
 wgsn
-wintermute-trading
 wisdomtree
 wmg
 woven-by-toyota

@@ -1,149 +1,112 @@
 [
   {
     "change_language": [
+      "implement",
       "architect",
-      "integration",
-      "integrate",
-      "build"
-    ],
-    "company": "neuron7",
-    "event": "NEW JOB",
-    "location": "Bengaluru",
-    "new_technologies": [
-      "salesforce",
-      "sap"
-    ],
-    "score": 56,
-    "source": "lever",
-    "source_site": "neuron7",
-    "title": "Senior Frontend Engineer",
-    "url": "https://jobs.lever.co/neuron7/a5b7f297-c371-41a0-bdb4-a7931aec745c"
-  },
-  {
-    "change_language": [
-      "architect",
-      "integration",
-      "build"
+      "integration"
     ],
     "company": "agile-defense",
-    "event": "NEW JOB",
-    "location": "Remote",
+    "event": "JOB CHANGED",
+    "location": "Ashburn, VA",
     "new_technologies": [
       "aws",
-      "azure"
+      "azure",
+      "gcp"
     ],
-    "score": 52,
+    "score": 60,
     "source": "lever",
     "source_site": "agile-defense",
-    "title": "Senior Security Architect",
-    "url": "https://jobs.lever.co/agile-defense/a70a37ed-a8c9-46eb-8478-4179bb5fc92c"
-  },
-  {
-    "change_language": [
-      "implement",
-      "build"
-    ],
-    "company": "moonpay",
-    "event": "NEW JOB",
-    "location": "United States (East Coast Time Zone) - Remote",
-    "new_technologies": [
-      "chatgpt",
-      "claude"
-    ],
-    "score": 48,
-    "source": "lever",
-    "source_site": "moonpay",
-    "title": "Senior Program Manager, Product Operations",
-    "url": "https://jobs.lever.co/moonpay/9697bcae-6de6-47f5-9e46-b3c9d999d0d3"
-  },
-  {
-    "change_language": [
-      "architect",
-      "build"
-    ],
-    "company": "provectus",
-    "event": "JOB CHANGED",
-    "location": "New York City Metropolitan Area",
-    "new_technologies": [
-      "aws",
-      "claude"
-    ],
-    "score": 48,
-    "source": "lever",
-    "source_site": "provectus",
-    "title": "AI Architect",
-    "url": "https://jobs.lever.co/provectus/3a7bdd39-ba8d-4da3-933e-da9438a2b73e"
-  },
-  {
-    "change_language": [
-      "architect",
-      "build"
-    ],
-    "company": "provectus",
-    "event": "JOB CHANGED",
-    "location": "San Francisco Bay Area, California",
-    "new_technologies": [
-      "aws",
-      "claude"
-    ],
-    "score": 48,
-    "source": "lever",
-    "source_site": "provectus",
-    "title": "AI Architect",
-    "url": "https://jobs.lever.co/provectus/9509af76-071c-411d-9856-a44d5aee2a9a"
-  },
-  {
-    "change_language": [
-      "implement",
-      "implementation",
-      "build"
-    ],
-    "company": "h1",
-    "event": "JOB CHANGED",
-    "location": "US Remote",
-    "new_technologies": [
-      "netsuite",
-      "salesforce"
-    ],
-    "score": 46,
-    "source": "lever",
-    "source_site": "h1",
-    "title": "Staff Accountant",
-    "url": "https://jobs.lever.co/h1/c715029f-ace4-4f5f-a62b-3374f47aeefe"
+    "title": "Zscaler Solutions Architect SME",
+    "url": "https://jobs.lever.co/agile-defense/0ffc5b9c-5e29-4126-a3b0-35332b978a04"
   },
   {
     "change_language": [
       "transformation",
-      "architect"
+      "architect",
+      "build"
     ],
-    "company": "brillio-2",
+    "company": "thinkahead",
     "event": "NEW JOB",
-    "location": "Bangalore, Karnataka, India",
+    "location": "India",
     "new_technologies": [
-      "azure"
+      "aws",
+      "azure",
+      "gcp"
     ],
-    "score": 40,
+    "score": 54,
     "source": "lever",
-    "source_site": "brillio-2",
-    "title": "Senior BI Architect - R01571695",
-    "url": "https://jobs.lever.co/brillio-2/0605e5bc-1201-4ac2-9729-7b708c26c6bd"
+    "source_site": "thinkahead",
+    "title": "Senior Technical Consultant - Network Cloud",
+    "url": "https://jobs.lever.co/thinkahead/9e155c0c-6401-4a5e-a53f-da36514f392d"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "h1",
+    "event": "NEW JOB",
+    "location": "New York",
+    "new_technologies": [
+      "aws",
+      "bigquery",
+      "snowflake"
+    ],
+    "score": 46,
+    "source": "lever",
+    "source_site": "h1",
+    "title": "Sr. Data Analyst",
+    "url": "https://jobs.lever.co/h1/0c566a55-ec8b-44b0-ab7f-e3234e853898"
   },
   {
     "change_language": [
       "architect",
       "build"
     ],
-    "company": "qonto",
+    "company": "paytm",
     "event": "NEW JOB",
-    "location": "Belgrade",
+    "location": "Bangalore, Karnataka",
     "new_technologies": [
       "aws"
     ],
     "score": 40,
     "source": "lever",
-    "source_site": "qonto",
-    "title": "Senior/Staff - Go Backend Engineer - remote friendly",
-    "url": "https://jobs.lever.co/qonto/f610d169-eb47-40ba-b7dc-5f9b41feef90"
+    "source_site": "paytm",
+    "title": "Senior Software Engineer \u2013 Backend (Travel)",
+    "url": "https://jobs.lever.co/paytm/105a0d9e-94e9-4026-9105-5bea558ab3d9"
+  },
+  {
+    "change_language": [
+      "integrate",
+      "build"
+    ],
+    "company": "toptal",
+    "event": "NEW JOB",
+    "location": "Canada",
+    "new_technologies": [
+      "salesforce"
+    ],
+    "score": 40,
+    "source": "lever",
+    "source_site": "toptal",
+    "title": "SMB Account Manager",
+    "url": "https://jobs.lever.co/toptal/a0e02e1c-f2d0-45a3-86d7-98c256e5d78c"
+  },
+  {
+    "change_language": [
+      "integrate",
+      "build"
+    ],
+    "company": "toptal",
+    "event": "NEW JOB",
+    "location": "United States",
+    "new_technologies": [
+      "salesforce"
+    ],
+    "score": 40,
+    "source": "lever",
+    "source_site": "toptal",
+    "title": "SMB Account Manager - US-Based",
+    "url": "https://jobs.lever.co/toptal/dc40286e-3b72-4945-8f9a-4cbf9a7b55b2"
   },
   {
     "change_language": [
@@ -159,77 +122,209 @@
     "score": 38,
     "source": "lever",
     "source_site": "moonpay",
-    "title": "Staff Pricing Data Scientist",
-    "url": "https://jobs.lever.co/moonpay/49338068-2f4d-4cbb-b55d-176b2ed2f89e"
+    "title": "Senior Designer - Otherlife",
+    "url": "https://jobs.lever.co/moonpay/58ea3c0f-4347-43ca-a317-d07fed928f72"
   },
   {
     "change_language": [
       "build"
     ],
-    "company": "pigment",
-    "event": "JOB CHANGED",
-    "location": "Austin, Texas",
-    "new_technologies": [
-      "snowflake"
-    ],
-    "score": 36,
-    "source": "lever",
-    "source_site": "pigment",
-    "title": "Global Head of Talent Acquisition",
-    "url": "https://jobs.lever.co/pigment/a31d34d0-c2a1-4427-b3d8-90a5ea625a3c"
-  },
-  {
-    "change_language": [
-      "build"
-    ],
-    "company": "qonto",
+    "company": "moonpay",
     "event": "NEW JOB",
-    "location": "Paris",
+    "location": "Toronto",
     "new_technologies": [
+      "chatgpt",
       "claude"
     ],
-    "score": 36,
+    "score": 38,
     "source": "lever",
-    "source_site": "qonto",
-    "title": "Data Engineering Intern",
-    "url": "https://jobs.lever.co/qonto/b25b1e03-3d07-4f09-8b41-578f754c7529"
+    "source_site": "moonpay",
+    "title": "Senior Designer - Otherlife",
+    "url": "https://jobs.lever.co/moonpay/fdf3b8c5-e266-42e2-8ec6-e06c9a033ab4"
   },
   {
     "change_language": [
-      "build"
+      "architect"
     ],
-    "company": "qonto",
+    "company": "jobgether",
     "event": "NEW JOB",
-    "location": "Paris",
+    "location": "US",
     "new_technologies": [
-      "claude"
+      "azure"
     ],
     "score": 36,
     "source": "lever",
-    "source_site": "qonto",
-    "title": "Staff Product Engineer - AI Core - remote friendly",
-    "url": "https://jobs.lever.co/qonto/1f945bad-2c45-4ac1-be06-a219dc9e1a93"
+    "source_site": "jobgether",
+    "title": "Azure Solution Architect - Data & AI",
+    "url": "https://jobs.lever.co/jobgether/707671e8-0ffe-4fa8-8599-7568d4a97697"
+  },
+  {
+    "change_language": [
+      "architect",
+      "build"
+    ],
+    "company": "caseware",
+    "event": "NEW JOB",
+    "location": "Bogot\u00e1, Colombia",
+    "new_technologies": [
+      "aws"
+    ],
+    "score": 34,
+    "source": "lever",
+    "source_site": "caseware",
+    "title": "AWS Backend Senior Software Developer III *",
+    "url": "https://jobs.lever.co/caseware/1c6b8a04-b52d-4689-9092-e76acbd1bc33"
+  },
+  {
+    "change_language": [
+      "transformation",
+      "integration"
+    ],
+    "company": "floqast",
+    "event": "NEW JOB",
+    "location": "United States",
+    "new_technologies": [
+      "sap"
+    ],
+    "score": 34,
+    "source": "lever",
+    "source_site": "floqast",
+    "title": "SAP Solutions Consultant (Accounting Experience)",
+    "url": "https://jobs.lever.co/floqast/23a21be4-8771-445c-b2dd-94514f4e65e1"
+  },
+  {
+    "change_language": [
+      "transformation",
+      "integration"
+    ],
+    "company": "floqast",
+    "event": "NEW JOB",
+    "location": "London, England",
+    "new_technologies": [
+      "sap"
+    ],
+    "score": 34,
+    "source": "lever",
+    "source_site": "floqast",
+    "title": "Technical Solutions Consultant, SAP",
+    "url": "https://jobs.lever.co/floqast/e371396d-ee42-4847-9a67-de6340e379a0"
   },
   {
     "change_language": [],
-    "company": "qonto",
+    "company": "jobgether",
     "event": "NEW JOB",
-    "location": "Paris",
+    "location": "US",
     "new_technologies": [
-      "claude"
+      "salesforce"
     ],
     "score": 32,
     "source": "lever",
-    "source_site": "qonto",
-    "title": "Senior Web Engineer (React) - Remote Friendly",
-    "url": "https://jobs.lever.co/qonto/a3830956-2107-4cc5-a647-a6f30f1987b4"
+    "source_site": "jobgether",
+    "title": "Salesforce Technical Project Manager",
+    "url": "https://jobs.lever.co/jobgether/0f979568-4b61-4ff2-ab39-b7c3ccc562ff"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "h1",
+    "event": "NEW JOB",
+    "location": "New York",
+    "new_technologies": [
+      "claude"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "h1",
+    "title": "Lead Product Design - B2B SaaS",
+    "url": "https://jobs.lever.co/h1/de177605-5f7c-42e4-9330-094ac528c8dd"
+  },
+  {
+    "change_language": [
+      "migration"
+    ],
+    "company": "jobgether",
+    "event": "NEW JOB",
+    "location": "Canada",
+    "new_technologies": [
+      "sap"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "jobgether",
+    "title": "SAP Consultant Migrationexperte/ Migrations-Cockpit",
+    "url": "https://jobs.lever.co/jobgether/00ffe2f5-660e-449d-9895-a9bdfd005bd2"
+  },
+  {
+    "change_language": [
+      "migration"
+    ],
+    "company": "jobgether",
+    "event": "NEW JOB",
+    "location": "US",
+    "new_technologies": [
+      "sap"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "jobgether",
+    "title": "SAP Consultant Migrationexperte/ Migrations-Cockpit",
+    "url": "https://jobs.lever.co/jobgether/56d39d9a-1f85-45a3-9283-f1a5996da768"
+  },
+  {
+    "change_language": [
+      "migration"
+    ],
+    "company": "jobgether",
+    "event": "NEW JOB",
+    "location": "India",
+    "new_technologies": [
+      "sap"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "jobgether",
+    "title": "SAP Consultant Migrationexperte/ Migrations-Cockpit",
+    "url": "https://jobs.lever.co/jobgether/6034cf05-e524-4268-ba4b-c4da3802a8dd"
+  },
+  {
+    "change_language": [
+      "migration"
+    ],
+    "company": "jobgether",
+    "event": "NEW JOB",
+    "location": "Brazil",
+    "new_technologies": [
+      "sap"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "jobgether",
+    "title": "SAP Consultant Migrationexperte/ Migrations-Cockpit",
+    "url": "https://jobs.lever.co/jobgether/bed253f1-9ab4-4c34-9f36-8a6ad11191b1"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "magnetforensics",
+    "event": "NEW JOB",
+    "location": "Waterloo / Ontario",
+    "new_technologies": [
+      "salesforce"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "magnetforensics",
+    "title": "Operations Analyst",
+    "url": "https://jobs.lever.co/magnetforensics/111ea4d2-d53f-4447-bf69-16488a9e1c25"
   },
   {
     "change_language": [
       "migration"
     ],
     "company": "octoenergy",
-    "event": "JOB CHANGED",
+    "event": "NEW JOB",
     "location": "Paris (FR)",
     "new_technologies": [
       "netsuite"
@@ -237,55 +332,23 @@
     "score": 30,
     "source": "lever",
     "source_site": "octoenergy",
-    "title": "Comptable s\u00e9nior H/F",
-    "url": "https://jobs.lever.co/octoenergy/297fd0d0-7e72-4139-ad6b-9e30d0b9a60c"
+    "title": "Comptable g\u00e9n\u00e9ral s\u00e9nior H/F",
+    "url": "https://jobs.lever.co/octoenergy/e6f1f31d-b145-4539-9943-e2945c726109"
   },
   {
     "change_language": [
-      "build"
+      "migration"
     ],
-    "company": "pigment",
+    "company": "octoenergy",
     "event": "NEW JOB",
-    "location": "London",
+    "location": "Paris (FR)",
     "new_technologies": [
-      "snowflake"
+      "netsuite"
     ],
     "score": 30,
     "source": "lever",
-    "source_site": "pigment",
-    "title": "Corporate Account Executive - UK&I",
-    "url": "https://jobs.lever.co/pigment/67c2999e-e610-4711-837b-3f75ffb644ef"
-  },
-  {
-    "change_language": [
-      "build"
-    ],
-    "company": "pigment",
-    "event": "NEW JOB",
-    "location": "Zurich",
-    "new_technologies": [
-      "snowflake"
-    ],
-    "score": 30,
-    "source": "lever",
-    "source_site": "pigment",
-    "title": "Enterprise Account Executive DACH",
-    "url": "https://jobs.lever.co/pigment/baaabf0f-edc4-4ad7-8b99-13b808665e41"
-  },
-  {
-    "change_language": [
-      "build"
-    ],
-    "company": "provectus",
-    "event": "JOB CHANGED",
-    "location": "San Francisco Bay Area, California",
-    "new_technologies": [
-      "aws"
-    ],
-    "score": 30,
-    "source": "lever",
-    "source_site": "provectus",
-    "title": "Business Development & Partnerships Associate",
-    "url": "https://jobs.lever.co/provectus/4cb4ca7f-e295-49e7-9d39-d9505a50f18d"
+    "source_site": "octoenergy",
+    "title": "Senior Financial Accountant H/F",
+    "url": "https://jobs.lever.co/octoenergy/569279ff-24ae-4722-91ff-b22d8a67d7ca"
   }
 ]
