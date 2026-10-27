@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "change_language": [
+      "implement"
+    ],
+    "company": "wgsn",
+    "event": "NEW JOB",
+    "location": "Chicago",
+    "new_technologies": [
+      "salesforce"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "wgsn",
+    "title": "Client Success Executive",
+    "url": "https://jobs.lever.co/wgsn/4447d22c-17ce-4cbc-8166-6f48b0dc43f0"
+  }
+]
