@@ -1,18 +1,66 @@
 [
   {
     "change_language": [
-      "implement"
+      "implement",
+      "implementation",
+      "transformation",
+      "architect",
+      "integration",
+      "integrate"
     ],
-    "company": "wgsn",
+    "company": "brillio-2",
     "event": "NEW JOB",
-    "location": "Chicago",
+    "location": "Jersey City, New Jersey, United States",
     "new_technologies": [
+      "aws",
+      "azure",
+      "gcp",
+      "snowflake"
+    ],
+    "score": 80,
+    "source": "lever",
+    "source_site": "brillio-2",
+    "title": "Snowflake Architect - R01573082",
+    "url": "https://jobs.lever.co/brillio-2/c8bbc9b5-70ec-4a67-840b-f2e62742e1bc"
+  },
+  {
+    "change_language": [
+      "architect",
+      "integrate",
+      "build"
+    ],
+    "company": "pointclickcare",
+    "event": "JOB CHANGED",
+    "location": "Remote or Mississauga",
+    "new_technologies": [
+      "claude",
+      "marketo",
       "salesforce"
     ],
-    "score": 30,
+    "score": 60,
     "source": "lever",
-    "source_site": "wgsn",
-    "title": "Client Success Executive",
-    "url": "https://jobs.lever.co/wgsn/4447d22c-17ce-4cbc-8166-6f48b0dc43f0"
+    "source_site": "pointclickcare",
+    "title": "Marketing Data Analytics Engineer (CA)",
+    "url": "https://jobs.lever.co/pointclickcare/e826a207-dba8-41ff-b7b0-c4a4210d5f7d"
+  },
+  {
+    "change_language": [
+      "architect",
+      "integrate",
+      "build"
+    ],
+    "company": "pointclickcare",
+    "event": "JOB CHANGED",
+    "location": "Remote, USA",
+    "new_technologies": [
+      "claude",
+      "marketo",
+      "salesforce"
+    ],
+    "score": 60,
+    "source": "lever",
+    "source_site": "pointclickcare",
+    "title": "Marketing Data Analytics Engineer (US)",
+    "url": "https://jobs.lever.co/pointclickcare/96d77b19-2396-4f9e-9513-59471b3e28ed"
   }
 ]
