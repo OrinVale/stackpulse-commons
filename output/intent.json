@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "change_language": [
+      "architect",
+      "integrate",
+      "build"
+    ],
+    "company": "wgsn",
+    "event": "NEW JOB",
+    "location": "London, UK",
+    "new_technologies": [
+      "aws",
+      "databricks",
+      "snowflake"
+    ],
+    "score": 60,
+    "source": "lever",
+    "source_site": "wgsn",
+    "title": "Director of Data Engineering",
+    "url": "https://jobs.lever.co/wgsn/cc1f951e-c834-49f7-b9a3-b6d08d03e220"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "360learning",
+    "event": "JOB CHANGED",
+    "location": "Berlin, Remote",
+    "new_technologies": [
+      "sap"
+    ],
+    "score": 30,
+    "source": "lever",
+    "source_site": "360learning",
+    "title": "Enterprise Account Executive (m/f/d)",
+    "url": "https://jobs.lever.co/360learning/e355fdbe-5a55-43d8-b646-40896ba5eb16"
+  }
+]
