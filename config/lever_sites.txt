@@ -5,8 +5,6 @@ belvederetrading
 binance
 blablacar
 bosonai
-brillio-2
-caseware
 cents
 certik
 contentsquare
@@ -20,6 +18,7 @@ firemon
 fuellabs
 fullscript
 getsquire
+incorta
 intropic
 investorflow
 jito.wtf
@@ -46,7 +45,6 @@ revinate
 sambatv
 secureframe
 shakacode
-shopback-2
 sonatype
 spotify
 tracktik
@@ -57,5 +55,6 @@ wealthfront
 weloglobal
 weride
 wgsn
+woven-by-toyota
 wpromote
 zoox
