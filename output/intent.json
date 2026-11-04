@@ -1,63 +1,8 @@
 [
   {
     "change_language": [
-      "implement",
       "architect",
       "integration",
-      "integrate",
-      "build"
-    ],
-    "company": "wgsn",
-    "event": "JOB CHANGED",
-    "location": "London, UK",
-    "new_technologies": [
-      "bigquery",
-      "claude",
-      "dbt",
-      "gong",
-      "marketo",
-      "openai",
-      "salesforce",
-      "snowflake",
-      "workato",
-      "zapier",
-      "zoominfo"
-    ],
-    "score": 100,
-    "source": "lever",
-    "source_site": "wgsn",
-    "title": "GTM Engineer",
-    "url": "https://jobs.lever.co/wgsn/ffa1bd25-7e74-440e-b5a0-d0b8372ca4aa"
-  },
-  {
-    "change_language": [
-      "implement",
-      "implementation",
-      "architect",
-      "integration",
-      "integrate",
-      "build"
-    ],
-    "company": "mendix",
-    "event": "NEW JOB",
-    "location": "United States",
-    "new_technologies": [
-      "aws",
-      "claude",
-      "databricks",
-      "snowflake"
-    ],
-    "score": 80,
-    "source": "lever",
-    "source_site": "mendix",
-    "title": "Presales Solutions Architect - ICX Channel",
-    "url": "https://jobs.lever.co/mendix/925a47b7-963d-4bf2-abda-ecb7dca057aa"
-  },
-  {
-    "change_language": [
-      "migration",
-      "implement",
-      "architect",
       "integrate",
       "build"
     ],
@@ -65,19 +10,39 @@
     "event": "NEW JOB",
     "location": "Remote or Mississauga",
     "new_technologies": [
-      "aws",
       "azure",
-      "gcp"
+      "databricks",
+      "openai"
     ],
-    "score": 68,
+    "score": 64,
     "source": "lever",
     "source_site": "pointclickcare",
-    "title": "Int Database Reliability Engineer (DBRE)",
-    "url": "https://jobs.lever.co/pointclickcare/44f485fb-6d6f-44ed-a034-bb823a5caf1e"
+    "title": "Senior AI Architect",
+    "url": "https://jobs.lever.co/pointclickcare/7eeaf73c-9d8c-4c25-a40c-79e44328357f"
   },
   {
     "change_language": [
-      "migration",
+      "architect",
+      "integration",
+      "integrate",
+      "build"
+    ],
+    "company": "pointclickcare",
+    "event": "NEW JOB",
+    "location": "Remote, USA",
+    "new_technologies": [
+      "azure",
+      "databricks",
+      "openai"
+    ],
+    "score": 64,
+    "source": "lever",
+    "source_site": "pointclickcare",
+    "title": "Senior AI Architect (US)",
+    "url": "https://jobs.lever.co/pointclickcare/b3757919-10c4-4993-ad0d-ba58df30a327"
+  },
+  {
+    "change_language": [
       "implement",
       "architect",
       "integrate",
@@ -85,72 +50,69 @@
     ],
     "company": "pointclickcare",
     "event": "NEW JOB",
-    "location": "Remote - US",
+    "location": "Mississauga, Ontario",
     "new_technologies": [
-      "aws",
       "azure",
-      "gcp"
+      "claude"
     ],
-    "score": 68,
+    "score": 56,
     "source": "lever",
     "source_site": "pointclickcare",
-    "title": "Int Database Reliability Engineer (DBRE)",
-    "url": "https://jobs.lever.co/pointclickcare/dc0d44ce-bc2a-4577-bb0b-a38250bfc971"
+    "title": "Principal Software Engineer",
+    "url": "https://jobs.lever.co/pointclickcare/14b74438-b9fa-48d5-8f32-5f1b47e05d7c"
   },
   {
     "change_language": [
-      "migration",
       "implement",
-      "implementation",
-      "integration"
+      "architect",
+      "integrate",
+      "build"
     ],
-    "company": "paytm",
+    "company": "pointclickcare",
     "event": "NEW JOB",
-    "location": "Noida, Uttar Pradesh",
+    "location": "Mississauga, Ontario",
     "new_technologies": [
-      "aws",
-      "azure"
+      "azure",
+      "claude"
     ],
-    "score": 50,
+    "score": 56,
     "source": "lever",
-    "source_site": "paytm",
-    "title": "Associate IT Audit",
-    "url": "https://jobs.lever.co/paytm/d093bac9-07c4-4a77-852a-a3c4afcf3c1c"
+    "source_site": "pointclickcare",
+    "title": "Senior Software Engineer - Java/React",
+    "url": "https://jobs.lever.co/pointclickcare/1b9e4ba0-8448-4595-98ae-7a97dd36c1a1"
   },
   {
     "change_language": [
       "architect",
-      "build",
-      "rollout",
-      "consolidat"
+      "integrate"
     ],
-    "company": "waabi",
+    "company": "pointclickcare",
     "event": "NEW JOB",
-    "location": "Remote US",
+    "location": "Remote, USA",
     "new_technologies": [
-      "claude"
+      "chatgpt",
+      "salesforce"
     ],
-    "score": 48,
+    "score": 42,
     "source": "lever",
-    "source_site": "waabi",
-    "title": "Safety & Systems Technical Program Manager",
-    "url": "https://jobs.lever.co/waabi/f7fb4fdb-b4df-4fbc-8f56-bdcfbf015c26"
+    "source_site": "pointclickcare",
+    "title": "US- Solutions Analyst (QMar- EHR Support)",
+    "url": "https://jobs.lever.co/pointclickcare/9565c3b5-5f1e-4142-8a3e-03cd7deda4f4"
   },
   {
     "change_language": [
-      "integrate",
       "build"
     ],
-    "company": "waabi",
+    "company": "tracktik",
     "event": "NEW JOB",
-    "location": "San Francisco, CA",
+    "location": "United States",
     "new_technologies": [
-      "hubspot"
+      "salesforce"
     ],
-    "score": 40,
+    "score": 36,
     "source": "lever",
-    "source_site": "waabi",
-    "title": "Growth and Demand Marketing Manager",
-    "url": "https://jobs.lever.co/waabi/ab93ae0a-f4e6-4ae7-b094-31789d74014c"
+    "source_site": "tracktik",
+    "title": "Enterprise Sales Director - NORAM",
+    "url": "https://jobs.lever.co/tracktik/75269485-28d1-4991-adaf-f5fa43174ca8"
   }
 ]
