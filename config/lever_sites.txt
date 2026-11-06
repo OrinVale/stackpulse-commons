@@ -5,7 +5,6 @@ emburse
 enablecomp
 extremenetworks
 firemon
-getsquire
 investorflow
 jumpcloud
 levelai
@@ -15,5 +14,7 @@ pattern
 pointclickcare
 redoxengine
 revinate
+sambatv
+tracktik
 wgsn
 wpromote
