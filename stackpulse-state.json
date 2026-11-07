@@ -1,168 +1,5 @@
 {
   "sites": {
-    "lever:360learning": {
-      "company": "360learning",
-      "jobs": {
-        "039a2147-00f8-4ff7-8780-437e2397824a": {
-          "technologies": []
-        },
-        "04346e80-1a23-4774-b313-eaacac56d5ef": {
-          "technologies": []
-        },
-        "0b34aa41-aad2-4f40-a8c4-1346c6ff0be1": {
-          "technologies": [
-            "marketo",
-            "salesforce"
-          ]
-        },
-        "110bc5a0-7b18-458c-9249-0b728748002d": {
-          "technologies": []
-        },
-        "11721c63-a8b7-43a3-ac05-3c8b352f3b07": {
-          "technologies": []
-        },
-        "1339dbe1-2123-4425-83fa-bf1b44bdc93c": {
-          "technologies": []
-        },
-        "1bc6a2b3-ff85-498f-a0c1-b8a463fc992e": {
-          "technologies": [
-            "azure"
-          ]
-        },
-        "1ea40e82-5e2c-4b83-8f20-bbcddf62640d": {
-          "technologies": [
-            "snowflake"
-          ]
-        },
-        "242471de-c84c-4a39-893c-7a2fb40fed11": {
-          "technologies": []
-        },
-        "25f805af-01d2-4041-9d99-bb90f374518f": {
-          "technologies": []
-        },
-        "26978656-7f9a-458a-be0d-bbd731191e55": {
-          "technologies": []
-        },
-        "27025254-695a-46d6-be67-2d91e63908cf": {
-          "technologies": []
-        },
-        "29743337-41c5-400a-9169-f832b7e51d25": {
-          "technologies": []
-        },
-        "368984e3-6d28-4f5a-9bb1-508444d0fd5e": {
-          "technologies": []
-        },
-        "3c800c89-28af-4e15-af2e-7959a8a9d62a": {
-          "technologies": []
-        },
-        "42a9df4e-81b5-4a50-b690-4e20dd64ceea": {
-          "technologies": []
-        },
-        "45a216ca-b69f-4623-b3f9-25ceeb444704": {
-          "technologies": []
-        },
-        "4993f810-0e66-42e4-8781-8b272e61be0b": {
-          "technologies": []
-        },
-        "49b2d0a0-36c4-4a41-b7ae-f5744572cfd3": {
-          "technologies": []
-        },
-        "5881749e-5fc7-4a42-96d5-9080ba327003": {
-          "technologies": []
-        },
-        "61f6ea5c-5ef1-4890-b1b9-1eee825680f3": {
-          "technologies": []
-        },
-        "62f460c2-9a8f-4a25-a847-0f8905d9feef": {
-          "technologies": []
-        },
-        "66e3841f-f92b-42f5-a4d3-c4290010e2d5": {
-          "technologies": []
-        },
-        "75d22dcc-d834-4fa7-9d21-a7691d46c774": {
-          "technologies": []
-        },
-        "7c863d9b-600d-4446-a4dd-4bcf6255f854": {
-          "technologies": []
-        },
-        "8215a83b-9a9e-458d-a8b6-9750fce8eb0e": {
-          "technologies": []
-        },
-        "9088bdca-e6a2-499e-8848-86a0f7094418": {
-          "technologies": []
-        },
-        "9a9a76f5-7c22-46c7-a903-d1b0dc5c6a12": {
-          "technologies": [
-            "marketo",
-            "salesforce"
-          ]
-        },
-        "9ad17ff7-9eef-49c3-80c9-1cffa773caa6": {
-          "technologies": []
-        },
-        "9d22544a-645e-4065-8066-a9c2df4cc90b": {
-          "technologies": []
-        },
-        "a70b80ee-cfa8-4193-896c-19938df392e6": {
-          "technologies": []
-        },
-        "ad8fe537-4ade-4bd4-b1b6-9d6644d1e5a0": {
-          "technologies": [
-            "marketo",
-            "salesforce"
-          ]
-        },
-        "ae5bba0b-0605-4d44-b0ea-f35169402045": {
-          "technologies": []
-        },
-        "b35f3e1a-7fa7-4591-9df1-66ff3d345d54": {
-          "technologies": []
-        },
-        "be41ff7e-6413-45f0-92a3-00e8356dee85": {
-          "technologies": []
-        },
-        "c517940f-ef45-4ff6-bf72-5fe7305e2c6a": {
-          "technologies": []
-        },
-        "c574052f-09e5-4446-a977-e29d1162410d": {
-          "technologies": []
-        },
-        "c86995fe-f898-4ee1-b851-f220deab6ce8": {
-          "technologies": [
-            "marketo",
-            "salesforce"
-          ]
-        },
-        "cde72d51-cabb-4cad-8c4e-aeacf4051b29": {
-          "technologies": []
-        },
-        "d01a8dd5-1316-4df2-8ce3-9d6b7caf94a7": {
-          "technologies": []
-        },
-        "d0c612ea-a090-43e2-a243-1d294b0a6412": {
-          "technologies": []
-        },
-        "d4e7025e-ef9b-45d2-bbbc-abcb35d66e2d": {
-          "technologies": []
-        },
-        "d72e660e-54e6-4ec7-9f34-38b508b1c049": {
-          "technologies": []
-        },
-        "e355fdbe-5a55-43d8-b646-40896ba5eb16": {
-          "technologies": [
-            "sap"
-          ]
-        },
-        "e61cf9b3-cdd7-40e9-b8dc-816612d7176c": {
-          "technologies": []
-        },
-        "ef8ce026-340c-49f6-a1b2-55ed510965b1": {
-          "technologies": []
-        }
-      },
-      "site": "360learning",
-      "source": "lever"
-    },
     "lever:brillio-2": {
       "company": "brillio-2",
       "jobs": {
@@ -619,16 +456,14 @@
         "a288469c-7e6c-40c9-9a68-b680bbd06e86": {
           "technologies": []
         },
+        "a5e236d9-bcb0-424f-aeb5-f1362763ba85": {
+          "technologies": []
+        },
         "a8b17d82-8d1c-4b81-98a3-76b4558ce534": {
           "technologies": []
         },
         "a90e4d6c-e03f-47ec-ba5e-ce9d461fa70f": {
           "technologies": []
-        },
-        "adf2ac63-6c93-4f00-9700-f534ba1668dd": {
-          "technologies": [
-            "databricks"
-          ]
         },
         "ae3f6073-5741-42af-8b8c-1b2779bb4a8c": {
           "technologies": []
@@ -943,6 +778,9 @@
         "22c6e51a-14ea-4078-bff7-5036ca17a97a": {
           "technologies": []
         },
+        "285eb49b-9601-45e5-8942-6629b98a0c91": {
+          "technologies": []
+        },
         "33245689-3cf2-4f12-8bfe-ce9816c2a78f": {
           "technologies": []
         },
@@ -950,6 +788,9 @@
           "technologies": []
         },
         "38a77557-a209-49b0-9335-6a1b643d63fc": {
+          "technologies": []
+        },
+        "47822d8f-21fb-4ae3-8dc2-40e4b5e24bab": {
           "technologies": []
         },
         "47995e86-7152-49f0-aad7-07440d5f4d62": {
@@ -1074,6 +915,9 @@
           "technologies": []
         },
         "d1831724-8cf7-414f-b0f9-67f6d772a2da": {
+          "technologies": []
+        },
+        "d8506ff3-4ab9-4c35-ad36-3d4620e97d39": {
           "technologies": []
         },
         "db0a19ea-bdd9-4bfc-9c99-13cd7cbc77af": {
@@ -1415,6 +1259,9 @@
         "23fd1c60-e90b-4e50-8e7c-59373a4dca55": {
           "technologies": []
         },
+        "3087af07-30d7-454d-ac2e-e0437532edd8": {
+          "technologies": []
+        },
         "3a778ab3-2771-45fe-ae3d-3a400e48d06d": {
           "technologies": []
         },
@@ -1600,9 +1447,6 @@
           "technologies": []
         },
         "cbc11031-2a11-4494-b8c3-2d066e54831f": {
-          "technologies": []
-        },
-        "cd36da5a-9ad3-4115-9e8c-49b12d39daf4": {
           "technologies": []
         },
         "d045efcf-da77-4ec8-976b-42de957c8f3d": {
@@ -1906,9 +1750,6 @@
         "07e7f56e-c632-4a07-a497-930a22b88c83": {
           "technologies": []
         },
-        "090855a4-cbb0-4de6-a8f4-c2422ab0c03f": {
-          "technologies": []
-        },
         "0ce6bf45-eee8-4243-9c0c-94b415e49c02": {
           "technologies": []
         },
@@ -2004,9 +1845,6 @@
           "technologies": []
         },
         "6ad61820-dff2-43d3-89af-d9001a730b8e": {
-          "technologies": []
-        },
-        "72aa62a2-6d63-4bc1-8091-29b80d74b1de": {
           "technologies": []
         },
         "72e2ac05-24cc-49d9-ab07-650c5880d515": {
@@ -2192,9 +2030,6 @@
           "technologies": []
         },
         "f741b68b-b95f-40cf-be7e-e7a142f00519": {
-          "technologies": []
-        },
-        "f771a1f8-08ed-4fe7-969a-7b11a75687a5": {
           "technologies": []
         },
         "f83a8f0f-7d30-4db3-a184-eb314c2c15ea": {
@@ -3009,9 +2844,6 @@
         "4e991392-e28d-40b9-955a-cd20e7522438": {
           "technologies": []
         },
-        "5093c457-ca86-4ced-95c1-f8fe7a3ae73b": {
-          "technologies": []
-        },
         "52f7af5c-8803-41af-b4d3-3afd936e90bd": {
           "technologies": []
         },
@@ -3075,6 +2907,9 @@
         "d19ea4ad-aa25-4899-9d1a-59da09f59423": {
           "technologies": []
         },
+        "e63e82d1-1cf0-4cbb-b019-0f380b3ed76d": {
+          "technologies": []
+        },
         "e8c109ad-3f02-4d0a-9520-3dc01fae017d": {
           "technologies": []
         },
@@ -3098,6 +2933,6 @@
       "source": "lever"
     }
   },
-  "updated_at": "2026-11-06T14:17:25.028016+00:00",
+  "updated_at": "2026-11-07T13:01:49.212121+00:00",
   "version": 1
 }
