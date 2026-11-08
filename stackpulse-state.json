@@ -1,5 +1,168 @@
 {
   "sites": {
+    "lever:360learning": {
+      "company": "360learning",
+      "jobs": {
+        "039a2147-00f8-4ff7-8780-437e2397824a": {
+          "technologies": []
+        },
+        "04346e80-1a23-4774-b313-eaacac56d5ef": {
+          "technologies": []
+        },
+        "0b34aa41-aad2-4f40-a8c4-1346c6ff0be1": {
+          "technologies": [
+            "marketo",
+            "salesforce"
+          ]
+        },
+        "110bc5a0-7b18-458c-9249-0b728748002d": {
+          "technologies": []
+        },
+        "11721c63-a8b7-43a3-ac05-3c8b352f3b07": {
+          "technologies": []
+        },
+        "1339dbe1-2123-4425-83fa-bf1b44bdc93c": {
+          "technologies": []
+        },
+        "1bc6a2b3-ff85-498f-a0c1-b8a463fc992e": {
+          "technologies": [
+            "azure"
+          ]
+        },
+        "1ea40e82-5e2c-4b83-8f20-bbcddf62640d": {
+          "technologies": [
+            "snowflake"
+          ]
+        },
+        "242471de-c84c-4a39-893c-7a2fb40fed11": {
+          "technologies": []
+        },
+        "25f805af-01d2-4041-9d99-bb90f374518f": {
+          "technologies": []
+        },
+        "26978656-7f9a-458a-be0d-bbd731191e55": {
+          "technologies": []
+        },
+        "27025254-695a-46d6-be67-2d91e63908cf": {
+          "technologies": []
+        },
+        "29743337-41c5-400a-9169-f832b7e51d25": {
+          "technologies": []
+        },
+        "368984e3-6d28-4f5a-9bb1-508444d0fd5e": {
+          "technologies": []
+        },
+        "3c800c89-28af-4e15-af2e-7959a8a9d62a": {
+          "technologies": []
+        },
+        "42a9df4e-81b5-4a50-b690-4e20dd64ceea": {
+          "technologies": []
+        },
+        "45a216ca-b69f-4623-b3f9-25ceeb444704": {
+          "technologies": []
+        },
+        "4993f810-0e66-42e4-8781-8b272e61be0b": {
+          "technologies": []
+        },
+        "49b2d0a0-36c4-4a41-b7ae-f5744572cfd3": {
+          "technologies": []
+        },
+        "5881749e-5fc7-4a42-96d5-9080ba327003": {
+          "technologies": []
+        },
+        "61f6ea5c-5ef1-4890-b1b9-1eee825680f3": {
+          "technologies": []
+        },
+        "62f460c2-9a8f-4a25-a847-0f8905d9feef": {
+          "technologies": []
+        },
+        "66e3841f-f92b-42f5-a4d3-c4290010e2d5": {
+          "technologies": []
+        },
+        "75d22dcc-d834-4fa7-9d21-a7691d46c774": {
+          "technologies": []
+        },
+        "7c863d9b-600d-4446-a4dd-4bcf6255f854": {
+          "technologies": []
+        },
+        "8215a83b-9a9e-458d-a8b6-9750fce8eb0e": {
+          "technologies": []
+        },
+        "9088bdca-e6a2-499e-8848-86a0f7094418": {
+          "technologies": []
+        },
+        "9a9a76f5-7c22-46c7-a903-d1b0dc5c6a12": {
+          "technologies": [
+            "marketo",
+            "salesforce"
+          ]
+        },
+        "9ad17ff7-9eef-49c3-80c9-1cffa773caa6": {
+          "technologies": []
+        },
+        "9d22544a-645e-4065-8066-a9c2df4cc90b": {
+          "technologies": []
+        },
+        "a70b80ee-cfa8-4193-896c-19938df392e6": {
+          "technologies": []
+        },
+        "ad8fe537-4ade-4bd4-b1b6-9d6644d1e5a0": {
+          "technologies": [
+            "marketo",
+            "salesforce"
+          ]
+        },
+        "ae5bba0b-0605-4d44-b0ea-f35169402045": {
+          "technologies": []
+        },
+        "b35f3e1a-7fa7-4591-9df1-66ff3d345d54": {
+          "technologies": []
+        },
+        "be41ff7e-6413-45f0-92a3-00e8356dee85": {
+          "technologies": []
+        },
+        "c517940f-ef45-4ff6-bf72-5fe7305e2c6a": {
+          "technologies": []
+        },
+        "c574052f-09e5-4446-a977-e29d1162410d": {
+          "technologies": []
+        },
+        "c86995fe-f898-4ee1-b851-f220deab6ce8": {
+          "technologies": [
+            "marketo",
+            "salesforce"
+          ]
+        },
+        "cde72d51-cabb-4cad-8c4e-aeacf4051b29": {
+          "technologies": []
+        },
+        "d01a8dd5-1316-4df2-8ce3-9d6b7caf94a7": {
+          "technologies": []
+        },
+        "d0c612ea-a090-43e2-a243-1d294b0a6412": {
+          "technologies": []
+        },
+        "d4e7025e-ef9b-45d2-bbbc-abcb35d66e2d": {
+          "technologies": []
+        },
+        "d72e660e-54e6-4ec7-9f34-38b508b1c049": {
+          "technologies": []
+        },
+        "e355fdbe-5a55-43d8-b646-40896ba5eb16": {
+          "technologies": [
+            "sap"
+          ]
+        },
+        "e61cf9b3-cdd7-40e9-b8dc-816612d7176c": {
+          "technologies": []
+        },
+        "ef8ce026-340c-49f6-a1b2-55ed510965b1": {
+          "technologies": []
+        }
+      },
+      "site": "360learning",
+      "source": "lever"
+    },
     "lever:brillio-2": {
       "company": "brillio-2",
       "jobs": {
@@ -1735,313 +1898,6 @@
       "site": "mendix",
       "source": "lever"
     },
-    "lever:pattern": {
-      "company": "pattern",
-      "jobs": {
-        "01d654dc-ec62-4d83-bcd9-76cb80b9c347": {
-          "technologies": []
-        },
-        "03f7f302-c31f-460b-a09d-ed0847524b20": {
-          "technologies": []
-        },
-        "048881c9-9b97-4f7d-9e57-566420851525": {
-          "technologies": []
-        },
-        "07e7f56e-c632-4a07-a497-930a22b88c83": {
-          "technologies": []
-        },
-        "0ce6bf45-eee8-4243-9c0c-94b415e49c02": {
-          "technologies": []
-        },
-        "0d130ac0-85c7-4338-8895-699fb02c18d8": {
-          "technologies": []
-        },
-        "0f1fde59-0e7b-429e-b314-41f190376eb2": {
-          "technologies": []
-        },
-        "11d506fe-42e2-405d-ac8a-343b288a80e7": {
-          "technologies": []
-        },
-        "13695e3e-92b7-40f7-8805-ea39b9c324e7": {
-          "technologies": []
-        },
-        "166aa0c8-54f4-4d99-b9a9-9f0ee2f9c8bc": {
-          "technologies": []
-        },
-        "17a6caa4-3d27-4c3e-97f4-5d735bd95df0": {
-          "technologies": []
-        },
-        "1a13de64-54c0-4e10-aedf-68a57784a58d": {
-          "technologies": [
-            "snowflake"
-          ]
-        },
-        "1a73cf89-6608-4e81-9d9b-faf2cbf087de": {
-          "technologies": []
-        },
-        "1b7ad516-a6b5-4d3f-82a2-6d412977a32d": {
-          "technologies": []
-        },
-        "22b5bbbe-bf8d-491f-acbf-2a76fa0d77d2": {
-          "technologies": []
-        },
-        "2b8697f9-8495-4a59-83ba-5dde58ea0510": {
-          "technologies": []
-        },
-        "3060d9a9-28ad-4a3a-be52-68c2b063e911": {
-          "technologies": []
-        },
-        "375bc272-1cb5-4461-a5d7-2b901476e55a": {
-          "technologies": []
-        },
-        "386d2280-e8c9-42c5-abcd-60c0f4d42805": {
-          "technologies": []
-        },
-        "4027eec4-0053-47ef-ab5b-3d1f55957ebe": {
-          "technologies": []
-        },
-        "43b57fd6-fc82-4511-b474-6a8446b71c39": {
-          "technologies": []
-        },
-        "453984e2-89bd-4906-b19e-4e94d767a911": {
-          "technologies": []
-        },
-        "46201f3f-7cc4-4fde-b7c3-39d63f401b09": {
-          "technologies": []
-        },
-        "48945dce-b5ef-43cd-9d85-f8b26ce5b43e": {
-          "technologies": []
-        },
-        "4cf7446d-88b2-4c80-b3a7-a832527eda87": {
-          "technologies": []
-        },
-        "4f45774a-ab2c-4646-b4ee-58f15b4154f5": {
-          "technologies": [
-            "gong",
-            "hubspot"
-          ]
-        },
-        "551769c8-f1c6-4854-9b71-ab0c95c881d4": {
-          "technologies": []
-        },
-        "5979de31-5675-492d-947e-48caa1c6ccf3": {
-          "technologies": []
-        },
-        "5b4a5ede-082f-4cb4-9816-2a5905932f85": {
-          "technologies": []
-        },
-        "5c5c72f8-6922-46ca-ab00-7433eaf54ef7": {
-          "technologies": []
-        },
-        "5d3d7d8c-d91c-46f1-867c-4a412ed26b41": {
-          "technologies": [
-            "claude"
-          ]
-        },
-        "669c582b-38c6-4eba-a27a-ebcf679e2bde": {
-          "technologies": []
-        },
-        "66a5213c-8ca1-433c-b1a2-f797f90747fc": {
-          "technologies": []
-        },
-        "6ad61820-dff2-43d3-89af-d9001a730b8e": {
-          "technologies": []
-        },
-        "72e2ac05-24cc-49d9-ab07-650c5880d515": {
-          "technologies": []
-        },
-        "73378b4b-4ea4-4f94-8259-87ddbe3b2a4c": {
-          "technologies": []
-        },
-        "737a948e-58c1-4a2c-b4fa-52c4c24ef27c": {
-          "technologies": []
-        },
-        "73bb06ab-5283-4a6c-9f43-dc2a6467f2b4": {
-          "technologies": []
-        },
-        "73d76886-c453-4654-a374-3567f610a2c6": {
-          "technologies": []
-        },
-        "76a14cc0-2377-414d-a722-f397a00802f3": {
-          "technologies": []
-        },
-        "7764fae4-4a26-418b-8d1a-b8f6ebffd4c1": {
-          "technologies": []
-        },
-        "7778754b-1258-4d07-82d3-b808dc90f2ee": {
-          "technologies": []
-        },
-        "788d2cc5-61a2-4c99-9ef6-d881b40077ac": {
-          "technologies": []
-        },
-        "79945988-cd73-422b-9694-a3a3b4be94f5": {
-          "technologies": []
-        },
-        "79b39585-1864-4a89-bfb9-1c5e41b2e45d": {
-          "technologies": []
-        },
-        "7ad64aa3-fbcd-4113-8aff-fd5136f37f6c": {
-          "technologies": []
-        },
-        "7b031c0b-5479-46f7-a063-7b24bf57876f": {
-          "technologies": []
-        },
-        "7c7ecd7f-c704-46d2-97b3-e4f5b06e5d44": {
-          "technologies": []
-        },
-        "7f780344-982b-4ab1-9dec-cfdbd93bc0a0": {
-          "technologies": []
-        },
-        "80c1b90c-fe9c-4274-a950-963fd3ce379a": {
-          "technologies": []
-        },
-        "839b1895-7a9d-4bb6-bbfc-9c17b37e8f49": {
-          "technologies": []
-        },
-        "84c10630-d414-4ad6-a195-05b0691fa97a": {
-          "technologies": []
-        },
-        "85586fb0-774f-4b77-9e7f-21e8402decb1": {
-          "technologies": []
-        },
-        "87f835ab-c5be-4db2-8a22-84607d9bd291": {
-          "technologies": []
-        },
-        "882bbfd8-a3ec-40bc-9f03-6e9e634f246d": {
-          "technologies": []
-        },
-        "8aeeb2cc-b98e-4fdc-b5bd-b62f4f516a33": {
-          "technologies": []
-        },
-        "90097cfe-4a53-46fa-9d33-46844161c07c": {
-          "technologies": []
-        },
-        "9ac4820b-7452-4ff7-9fa9-fe4cb3c6b680": {
-          "technologies": []
-        },
-        "9b5eb1be-f337-4e44-87f5-6c17cc63907f": {
-          "technologies": [
-            "chatgpt",
-            "openai"
-          ]
-        },
-        "9d1ef9dd-5235-443a-9bd6-bef88f424407": {
-          "technologies": []
-        },
-        "9d50eaa8-218e-4fe2-9720-20102ce8f400": {
-          "technologies": []
-        },
-        "9fab7245-fb4e-48f4-84fd-c55910eebbdc": {
-          "technologies": []
-        },
-        "a1b4ca19-9e8b-4463-9330-557d6ee9ef4b": {
-          "technologies": []
-        },
-        "a8d21bb8-58e6-4815-a003-40299f739f7d": {
-          "technologies": []
-        },
-        "ae184541-927d-40d6-974a-863d5a6e9f78": {
-          "technologies": []
-        },
-        "afc30a73-05e4-4509-847e-e92a59d3a78f": {
-          "technologies": []
-        },
-        "b2f8db66-d662-49a7-a8c0-654d68e20a4a": {
-          "technologies": [
-            "snowflake"
-          ]
-        },
-        "bbdeefa2-d8b0-4446-b37d-de2bb0d16374": {
-          "technologies": []
-        },
-        "c0b145ac-0a78-4acb-84e4-8c68ac2b868e": {
-          "technologies": []
-        },
-        "c125d285-71d1-4af5-9ed2-b1f8884f2a2d": {
-          "technologies": []
-        },
-        "c3a06d8c-c921-4069-825b-bc94845cbea1": {
-          "technologies": []
-        },
-        "c436505e-adc2-45ca-83ea-acb772f63e9f": {
-          "technologies": []
-        },
-        "c54202b7-e5c7-4d8b-81d5-2fcd6ee3b6e6": {
-          "technologies": []
-        },
-        "c5711e08-a849-4fbe-8604-0d913deb38ed": {
-          "technologies": []
-        },
-        "c6dada95-989b-4e1c-b874-2d06e593cba0": {
-          "technologies": []
-        },
-        "c869fa8e-490a-4786-a2c7-6e6bb2fb31bf": {
-          "technologies": []
-        },
-        "c9398f5f-7b1e-49d5-91be-070f0a5916ec": {
-          "technologies": []
-        },
-        "cbe97d8c-cb19-4817-9f01-19b175ce84af": {
-          "technologies": []
-        },
-        "cee72e70-b90e-498f-a574-8519867d85e8": {
-          "technologies": []
-        },
-        "d82e0c9f-bcf5-4633-99cd-b2788d4cdd3a": {
-          "technologies": []
-        },
-        "dbbc369a-1ae4-4df8-b8e7-680ea34ef041": {
-          "technologies": []
-        },
-        "dcf09dd0-c812-4696-9365-ce51b89e46b0": {
-          "technologies": []
-        },
-        "e029f256-ac00-4868-863f-9b755e93d85b": {
-          "technologies": []
-        },
-        "e1ee8a15-b624-439e-bc55-a87a95c7e223": {
-          "technologies": []
-        },
-        "e34afb93-9c1f-4b14-885c-2f95caffd683": {
-          "technologies": []
-        },
-        "e44a54de-a6b8-4ac6-b6de-203753177451": {
-          "technologies": []
-        },
-        "e892c045-4035-4979-b9bd-bb1eaff0ed5f": {
-          "technologies": []
-        },
-        "ee183784-82cf-445d-b406-291a1c715031": {
-          "technologies": []
-        },
-        "f1755896-a30d-472a-b627-d54fe5cbf435": {
-          "technologies": []
-        },
-        "f3166c5f-f786-42ed-9f0d-a99ecc7ab8f2": {
-          "technologies": []
-        },
-        "f38bf771-54c1-4199-99a5-b5ad32cb5885": {
-          "technologies": []
-        },
-        "f5520a09-ca5c-4aae-881e-69746abec2c0": {
-          "technologies": []
-        },
-        "f6ff91b9-7f38-41c6-9dcf-f221a9276483": {
-          "technologies": []
-        },
-        "f741b68b-b95f-40cf-be7e-e7a142f00519": {
-          "technologies": []
-        },
-        "f83a8f0f-7d30-4db3-a184-eb314c2c15ea": {
-          "technologies": []
-        },
-        "fa61a3ae-1cf8-406c-852b-f3d8eabe6731": {
-          "technologies": []
-        }
-      },
-      "site": "pattern",
-      "source": "lever"
-    },
     "lever:pointclickcare": {
       "company": "pointclickcare",
       "jobs": {
@@ -2933,6 +2789,6 @@
       "source": "lever"
     }
   },
-  "updated_at": "2026-11-07T13:01:49.212121+00:00",
+  "updated_at": "2026-11-08T13:25:15.757395+00:00",
   "version": 1
 }
