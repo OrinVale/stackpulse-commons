@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "wgsn",
+    "event": "JOB CHANGED",
+    "location": "New York, NY",
+    "new_technologies": [
+      "salesforce"
+    ],
+    "score": 36,
+    "source": "lever",
+    "source_site": "wgsn",
+    "title": "Account Manager - SMB",
+    "url": "https://jobs.lever.co/wgsn/4063caa7-2eb5-48ba-b572-deb9d1adbf65"
+  }
+]
