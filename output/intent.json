@@ -1,18 +1,75 @@
 [
   {
     "change_language": [
+      "implement",
+      "architect",
+      "integration",
+      "integrate",
       "build"
     ],
-    "company": "wgsn",
+    "company": "pointclickcare",
     "event": "JOB CHANGED",
-    "location": "New York, NY",
+    "location": "Remote or Mississauga",
+    "new_technologies": [
+      "aws",
+      "azure",
+      "databricks",
+      "gcp"
+    ],
+    "score": 76,
+    "source": "lever",
+    "source_site": "pointclickcare",
+    "title": "(Canada) Principal ML System Engineer",
+    "url": "https://jobs.lever.co/pointclickcare/ccdecc93-aef2-4b2b-a981-6843f3c16221"
+  },
+  {
+    "change_language": [
+      "build",
+      "rollout",
+      "consolidat"
+    ],
+    "company": "mendix",
+    "event": "NEW JOB",
+    "location": "Rotterdam",
+    "new_technologies": [
+      "sap"
+    ],
+    "score": 38,
+    "source": "lever",
+    "source_site": "mendix",
+    "title": "GTM Compensation Business Partner - MXRM (Mendix/RapidMiner)",
+    "url": "https://jobs.lever.co/mendix/d31a5adf-791d-4c88-a8e7-4ba4e8c361f7"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "pointclickcare",
+    "event": "NEW JOB",
+    "location": "Remote or Mississauga",
     "new_technologies": [
       "salesforce"
     ],
     "score": 36,
     "source": "lever",
-    "source_site": "wgsn",
-    "title": "Account Manager - SMB",
-    "url": "https://jobs.lever.co/wgsn/4063caa7-2eb5-48ba-b572-deb9d1adbf65"
+    "source_site": "pointclickcare",
+    "title": "Scaled Customer Engagement Manager (9-month contract)",
+    "url": "https://jobs.lever.co/pointclickcare/6982f604-e37b-4455-a843-6c60d1d2078f"
+  },
+  {
+    "change_language": [
+      "build"
+    ],
+    "company": "pointclickcare",
+    "event": "NEW JOB",
+    "location": "Remote - US",
+    "new_technologies": [
+      "salesforce"
+    ],
+    "score": 36,
+    "source": "lever",
+    "source_site": "pointclickcare",
+    "title": "Scaled Customer Engagement Manager (9-month contract)",
+    "url": "https://jobs.lever.co/pointclickcare/d6978737-10ed-44d0-a38d-9494f540406f"
   }
 ]
