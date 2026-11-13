@@ -2,74 +2,56 @@
   {
     "change_language": [
       "implement",
-      "architect",
-      "integration",
-      "integrate",
+      "implementation",
       "build"
     ],
-    "company": "pointclickcare",
+    "company": "emburse",
     "event": "JOB CHANGED",
-    "location": "Remote or Mississauga",
+    "location": "Dallas, TX",
     "new_technologies": [
-      "aws",
-      "azure",
-      "databricks",
-      "gcp"
+      "gong",
+      "salesforce",
+      "zoominfo"
     ],
-    "score": 76,
+    "score": 60,
     "source": "lever",
-    "source_site": "pointclickcare",
-    "title": "(Canada) Principal ML System Engineer",
-    "url": "https://jobs.lever.co/pointclickcare/ccdecc93-aef2-4b2b-a981-6843f3c16221"
+    "source_site": "emburse",
+    "title": "Manager, Sales - SMB",
+    "url": "https://jobs.lever.co/emburse/284edc3f-2a2b-4282-8aab-9549f5b6f082"
   },
   {
     "change_language": [
-      "build",
-      "rollout",
-      "consolidat"
-    ],
-    "company": "mendix",
-    "event": "NEW JOB",
-    "location": "Rotterdam",
-    "new_technologies": [
-      "sap"
-    ],
-    "score": 38,
-    "source": "lever",
-    "source_site": "mendix",
-    "title": "GTM Compensation Business Partner - MXRM (Mendix/RapidMiner)",
-    "url": "https://jobs.lever.co/mendix/d31a5adf-791d-4c88-a8e7-4ba4e8c361f7"
-  },
-  {
-    "change_language": [
-      "build"
+      "architect",
+      "integrate"
     ],
     "company": "pointclickcare",
     "event": "NEW JOB",
     "location": "Remote or Mississauga",
     "new_technologies": [
+      "claude",
       "salesforce"
     ],
-    "score": 36,
+    "score": 42,
     "source": "lever",
     "source_site": "pointclickcare",
-    "title": "Scaled Customer Engagement Manager (9-month contract)",
-    "url": "https://jobs.lever.co/pointclickcare/6982f604-e37b-4455-a843-6c60d1d2078f"
+    "title": "Senior UX Researcher \u2013 6 month contract",
+    "url": "https://jobs.lever.co/pointclickcare/f46b043a-f69a-4224-9bed-e6bdd9fab344"
   },
   {
     "change_language": [
-      "build"
+      "architect",
+      "integrate"
     ],
     "company": "pointclickcare",
     "event": "NEW JOB",
-    "location": "Remote - US",
+    "location": "Remote, USA",
     "new_technologies": [
       "salesforce"
     ],
-    "score": 36,
+    "score": 34,
     "source": "lever",
     "source_site": "pointclickcare",
-    "title": "Scaled Customer Engagement Manager (9-month contract)",
-    "url": "https://jobs.lever.co/pointclickcare/d6978737-10ed-44d0-a38d-9494f540406f"
+    "title": "US-Solutions Analyst (Financial)",
+    "url": "https://jobs.lever.co/pointclickcare/ff531031-8596-4ade-a81d-193053e07230"
   }
 ]
