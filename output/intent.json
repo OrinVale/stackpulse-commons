@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "change_language": [
+      "implement",
+      "architect",
+      "integrate",
+      "build"
+    ],
+    "company": "pointclickcare",
+    "event": "JOB CHANGED",
+    "location": "Mississauga, Ontario",
+    "new_technologies": [
+      "azure",
+      "claude"
+    ],
+    "score": 56,
+    "source": "lever",
+    "source_site": "pointclickcare",
+    "title": "Senior Software Engineer - Java/React",
+    "url": "https://jobs.lever.co/pointclickcare/1b9e4ba0-8448-4595-98ae-7a97dd36c1a1"
+  }
+]
