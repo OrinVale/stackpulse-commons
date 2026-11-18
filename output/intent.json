@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "change_language": [
+      "integrate",
+      "build"
+    ],
+    "company": "enablecomp",
+    "event": "JOB CHANGED",
+    "location": "Franklin, TN",
+    "new_technologies": [
+      "hubspot",
+      "salesforce"
+    ],
+    "score": 48,
+    "source": "lever",
+    "source_site": "enablecomp",
+    "title": "Director, Events (REMOTE)",
+    "url": "https://jobs.lever.co/enablecomp/8781a66f-41ed-4054-b014-9767414ad060"
+  }
+]
