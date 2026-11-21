@@ -142,6 +142,771 @@
       "site": "360learning",
       "source": "lever"
     },
+    "lever:brillio-2": {
+      "company": "brillio-2",
+      "jobs": {
+        "00d2c483-8e88-47a1-893f-31c513bc0991": {
+          "technologies": []
+        },
+        "032ab0d1-37f1-4fb6-b301-6d4f0115a90b": {
+          "technologies": []
+        },
+        "040479ac-7000-4aa5-a1cd-c0ac5a61fe7a": {
+          "technologies": []
+        },
+        "0454f8dd-f0aa-4440-94d1-8d1bbe61ba39": {
+          "technologies": []
+        },
+        "04883aa8-c6d4-4fd0-8862-5c371f8991b1": {
+          "technologies": []
+        },
+        "0663c1d8-d32a-4f52-a0ce-71fb6b5f0966": {
+          "technologies": []
+        },
+        "06f3848e-d618-43fb-bb3c-1c5a10d556c4": {
+          "technologies": []
+        },
+        "08f2656d-41aa-490d-adf6-313d53259338": {
+          "technologies": []
+        },
+        "0938c93c-7da5-424e-9e16-67a3bbe2d6ed": {
+          "technologies": []
+        },
+        "0aa83771-4fc6-4ed0-8898-dc79d718d9f6": {
+          "technologies": []
+        },
+        "0caf0afc-a346-480b-8e55-a6fc0707e647": {
+          "technologies": []
+        },
+        "0ec285a3-4f72-4f6e-a042-111306300cec": {
+          "technologies": []
+        },
+        "107f8607-2acb-4f6b-adbf-3acc4f157f09": {
+          "technologies": []
+        },
+        "10aa7b0a-40cc-4f67-98dd-4d86d817281c": {
+          "technologies": []
+        },
+        "11ec26f4-eb09-40fb-bb7b-d3458ab93e58": {
+          "technologies": [
+            "azure"
+          ]
+        },
+        "11f7fef8-e73c-467e-b652-18665a4f01ca": {
+          "technologies": []
+        },
+        "13586197-04af-4500-8a62-d856916bf3da": {
+          "technologies": []
+        },
+        "181e4a24-ebd7-4a8a-b94b-3ab2d443d17c": {
+          "technologies": []
+        },
+        "18e0bed1-50d7-4b9f-9794-c016391ea758": {
+          "technologies": []
+        },
+        "18f985e3-9399-4342-9abc-daaa86eb4dcd": {
+          "technologies": []
+        },
+        "19d810cc-b414-443c-8833-491ed8136bf5": {
+          "technologies": []
+        },
+        "1bb179e1-05dc-4b61-841b-bd7a75820ee3": {
+          "technologies": []
+        },
+        "21c92fd5-3d66-4049-a579-145f307eb1d3": {
+          "technologies": []
+        },
+        "237997e6-7b68-4b71-9b42-2990ab1c8e56": {
+          "technologies": []
+        },
+        "242c6a24-1116-4524-ae0d-bbaef31d5577": {
+          "technologies": [
+            "databricks"
+          ]
+        },
+        "243d2687-3493-474e-98ef-6afb0db8597c": {
+          "technologies": [
+            "azure"
+          ]
+        },
+        "25483f13-b917-40eb-a985-95d41367cbd3": {
+          "technologies": []
+        },
+        "25f7e284-af73-4693-8350-e22b370894b4": {
+          "technologies": []
+        },
+        "265bed8f-1d77-462c-b7ab-b82c4b129bd0": {
+          "technologies": []
+        },
+        "2a22685a-23dc-41b5-8a2c-bc533ae1ced7": {
+          "technologies": []
+        },
+        "2ad2b5d5-b94e-4570-9690-0de18be56b21": {
+          "technologies": []
+        },
+        "2b776396-ad4b-49ef-94d2-f0841c1c2128": {
+          "technologies": []
+        },
+        "2d15c5dc-5393-4cd2-81e7-a5d3b68bf5f5": {
+          "technologies": [
+            "aws"
+          ]
+        },
+        "2d6896bc-131b-4212-9479-1df34a41ad00": {
+          "technologies": []
+        },
+        "2fb0b0bc-1e48-4a94-80c4-2c6ad54ce51f": {
+          "technologies": []
+        },
+        "314808cf-d5e4-4dd5-b62c-6463ce7ef317": {
+          "technologies": []
+        },
+        "31dd294c-1656-440e-b271-11443ace78cd": {
+          "technologies": []
+        },
+        "3494d248-6c95-469f-a608-ecfb64c0a67b": {
+          "technologies": []
+        },
+        "358a3b72-7222-4738-9861-9cc726c079e0": {
+          "technologies": []
+        },
+        "35fe1920-675a-4982-b360-f36e2ca9ee34": {
+          "technologies": []
+        },
+        "36425d14-953e-4169-b112-b17a6c068eef": {
+          "technologies": []
+        },
+        "36a489f4-6778-4fd3-b03b-a92b59fd2dc8": {
+          "technologies": []
+        },
+        "38f3186a-0256-4b52-a218-12b37fea91f0": {
+          "technologies": []
+        },
+        "3a967f32-5e1b-41aa-814e-0a4e9c3e6983": {
+          "technologies": []
+        },
+        "3b433a0e-25e6-442e-b9c8-0cc79570fd8b": {
+          "technologies": []
+        },
+        "3c794f6c-18ac-4de6-b64a-a395d25a8f56": {
+          "technologies": []
+        },
+        "3d2f9dd9-de2b-4e23-a11a-ed5de3245b66": {
+          "technologies": [
+            "claude",
+            "langchain",
+            "langgraph"
+          ]
+        },
+        "3de75f8b-9ddc-4908-b67d-d6e91bafd9e2": {
+          "technologies": []
+        },
+        "3fc25ab3-7c02-4082-9bed-35f97d4fb0a1": {
+          "technologies": []
+        },
+        "4386f2db-b700-496f-9bc1-000b9292538f": {
+          "technologies": [
+            "chatgpt",
+            "claude",
+            "hubspot",
+            "salesforce"
+          ]
+        },
+        "45d70156-f0ac-4e34-ae3b-73c5bcf467d4": {
+          "technologies": []
+        },
+        "466b6e53-f9ed-4a92-b6c6-e74aa556339e": {
+          "technologies": []
+        },
+        "466f8123-a0af-4db9-98f5-55c63ca0f18c": {
+          "technologies": []
+        },
+        "4813a0ce-f5a8-4382-a3c7-1ae9e58a8530": {
+          "technologies": []
+        },
+        "496ae7a0-f985-4db4-895d-8b5d241cb967": {
+          "technologies": []
+        },
+        "4ab74c6a-65b5-4050-9622-688efc951519": {
+          "technologies": []
+        },
+        "4acd66b6-ff40-4076-9cac-b2f52da2683c": {
+          "technologies": []
+        },
+        "4af96471-5efc-4b2b-a90f-bd6f1ca2e8bd": {
+          "technologies": []
+        },
+        "4b74196b-5578-4710-a6ca-ccd651098df0": {
+          "technologies": [
+            "aws"
+          ]
+        },
+        "4c88f951-cea1-4659-aa09-1b6761019726": {
+          "technologies": []
+        },
+        "4e8dfa27-4a80-418f-b3a5-70d1a5f028b0": {
+          "technologies": [
+            "azure"
+          ]
+        },
+        "4f21e6fc-bf0d-48b7-a334-9a27f9109f64": {
+          "technologies": []
+        },
+        "52ab0633-7c63-4d4b-9e40-efc8877d755e": {
+          "technologies": []
+        },
+        "53ecdd3c-367a-4fa3-8a51-94d2f10658ee": {
+          "technologies": []
+        },
+        "53fd9f3f-9221-498c-86e2-f4ff417bc2c0": {
+          "technologies": []
+        },
+        "5685d0b6-0b57-4c73-9ea7-fee9944f8581": {
+          "technologies": []
+        },
+        "56ce18e2-d685-4ec6-8ea1-efb7a29e3570": {
+          "technologies": []
+        },
+        "573f3603-f76f-45fb-bf99-8f3947099e64": {
+          "technologies": []
+        },
+        "591e661c-8db4-4b0a-a5e9-2d66acdff90c": {
+          "technologies": []
+        },
+        "59f06474-61b5-423a-9e66-78211288be91": {
+          "technologies": []
+        },
+        "5a19bb4c-3cb8-4295-8252-5975cd7424da": {
+          "technologies": []
+        },
+        "5a6f984c-d7ba-4892-86c4-c8e115b09979": {
+          "technologies": []
+        },
+        "5b4de0ed-f5d4-4474-b90c-3a2713b662a9": {
+          "technologies": []
+        },
+        "5da50ae5-c9b2-4d0f-8e66-2ddc598c9405": {
+          "technologies": [
+            "snowflake"
+          ]
+        },
+        "5da8087b-12b6-4e28-9b31-a8a6caf0c55d": {
+          "technologies": []
+        },
+        "5fdae12d-e47a-4ba9-990b-1b8a650d8c43": {
+          "technologies": []
+        },
+        "6058811f-2b5c-475e-b7f9-2e0195587860": {
+          "technologies": []
+        },
+        "6068e32e-28a3-4352-9fe4-18e3db86f2f6": {
+          "technologies": []
+        },
+        "614bdc93-e97a-403e-9ca0-24403d71e58a": {
+          "technologies": []
+        },
+        "62d17dcf-6406-482e-a814-10b99efe59a3": {
+          "technologies": []
+        },
+        "638f3a84-6575-4af5-88be-68acfa7fba76": {
+          "technologies": []
+        },
+        "642b78bd-5b84-4e50-88b4-8b2c786608b0": {
+          "technologies": [
+            "databricks"
+          ]
+        },
+        "662400b1-1e3b-4e3d-8338-2574ee6a9e34": {
+          "technologies": [
+            "azure"
+          ]
+        },
+        "664eda55-501d-4b61-a0d5-863d56b75f34": {
+          "technologies": []
+        },
+        "688b34f5-943e-4fb6-9e91-f5917e18fc8f": {
+          "technologies": []
+        },
+        "692fbb2a-d691-4648-bd65-6ee2e3397892": {
+          "technologies": []
+        },
+        "69ac7e42-00cd-4f5b-9e4a-865aba71c4ac": {
+          "technologies": []
+        },
+        "6d48b30c-a0a0-4c1e-b2a9-26c5e2dd171e": {
+          "technologies": []
+        },
+        "6e9c5887-37c6-4585-af8b-fec598865a98": {
+          "technologies": []
+        },
+        "71c91631-2d49-4c6d-ac88-748a3499bd3c": {
+          "technologies": []
+        },
+        "72d3e433-2a3a-4774-a353-e17523b5eb95": {
+          "technologies": []
+        },
+        "73cb7303-198c-4c7f-96c9-1be1558e9acb": {
+          "technologies": []
+        },
+        "743f71ac-4b3b-4121-a163-29973e02658e": {
+          "technologies": []
+        },
+        "7758fcd8-fb0f-4cf2-85f0-8eeb59d53a6b": {
+          "technologies": []
+        },
+        "787f633c-2f3e-41e1-8c63-b13d62991fd5": {
+          "technologies": []
+        },
+        "796ef75e-c5ee-4d21-9815-216f1c2b4247": {
+          "technologies": [
+            "salesforce"
+          ]
+        },
+        "7a6b8ea4-dc59-49af-8ba2-f4b1c72e7fc7": {
+          "technologies": []
+        },
+        "7b12b3e1-63b1-4446-9c93-608fe502c3e9": {
+          "technologies": []
+        },
+        "7c108225-0108-4551-9568-32250aba5f65": {
+          "technologies": []
+        },
+        "7d562420-74a6-4cb6-a889-7e18258e6403": {
+          "technologies": []
+        },
+        "7d638c0f-bf56-410a-93c7-a645a8f98609": {
+          "technologies": []
+        },
+        "7d8abf4e-d747-45b6-b10d-d2837f89218a": {
+          "technologies": []
+        },
+        "7f47df67-f83a-4a26-8ba0-0f1241130397": {
+          "technologies": []
+        },
+        "7fb2ac4a-a088-4c5d-b67d-77834786b729": {
+          "technologies": []
+        },
+        "800b8f0d-9923-4a2c-965f-b2e1b94c39dd": {
+          "technologies": []
+        },
+        "81087303-e8fd-4738-9b0c-9edd86face32": {
+          "technologies": []
+        },
+        "81415230-9530-4361-a675-d63200f0df13": {
+          "technologies": []
+        },
+        "826ab5e6-bee6-496f-a1b2-98a764e1b318": {
+          "technologies": []
+        },
+        "838303c3-c61c-483a-9a44-5bad5b1504e5": {
+          "technologies": [
+            "salesforce"
+          ]
+        },
+        "8463adae-9020-420e-80ef-1cf8ea03580d": {
+          "technologies": []
+        },
+        "8577052a-0550-444c-95a8-2ac029437a76": {
+          "technologies": []
+        },
+        "85e619ca-6cc6-4c4e-8ad2-47af570558ac": {
+          "technologies": []
+        },
+        "884cd10f-e5a9-4aa8-ab18-6da1ef5b4543": {
+          "technologies": []
+        },
+        "88b35de9-6bde-4865-91e8-f49684a3fc1a": {
+          "technologies": []
+        },
+        "8aee3746-3087-4b33-bc08-67b6865ebc7c": {
+          "technologies": []
+        },
+        "8bad52f4-2063-4b6c-8fb4-1f9b9a15a6fd": {
+          "technologies": []
+        },
+        "8cacc582-0102-4d26-8ee3-6d35e79c1f98": {
+          "technologies": [
+            "azure"
+          ]
+        },
+        "8cc1d9ff-c189-41f0-a24d-ec98be70b9ee": {
+          "technologies": []
+        },
+        "8d7b925f-c1f5-4112-bb74-e4d4d9201ee9": {
+          "technologies": []
+        },
+        "8dada777-7588-4463-a620-9e3e3b1bf478": {
+          "technologies": [
+            "netsuite"
+          ]
+        },
+        "8dc75ccf-ce5b-474e-b806-9c5082c85f9c": {
+          "technologies": []
+        },
+        "8e613417-a6c1-4e88-85d0-a5c88970395a": {
+          "technologies": []
+        },
+        "8f37377f-d285-4b74-8f59-da08e99229dd": {
+          "technologies": []
+        },
+        "92060784-3feb-4998-8850-6f9aa2dd7263": {
+          "technologies": []
+        },
+        "94bb9cb9-ac45-4786-9b1a-80705175c3c1": {
+          "technologies": []
+        },
+        "9626169a-09a2-4531-93b0-994737ad16ce": {
+          "technologies": []
+        },
+        "96c942d2-99ed-4e5c-8087-e620170afd5e": {
+          "technologies": []
+        },
+        "97711db5-6214-422f-bd7d-8943cc5141b9": {
+          "technologies": []
+        },
+        "97a1ad5f-480b-44aa-88fe-10f09641268c": {
+          "technologies": []
+        },
+        "97afbaaa-5c9a-4cf9-8c0d-f31ff3e9f2a0": {
+          "technologies": []
+        },
+        "97fdcb9c-5161-400c-a627-7d104537268f": {
+          "technologies": []
+        },
+        "9a0d6ef9-fbba-49ab-b62f-e2a76bf2d562": {
+          "technologies": [
+            "aws"
+          ]
+        },
+        "9a8a6c2d-d278-4f88-a5e3-d463c9ce8aa6": {
+          "technologies": []
+        },
+        "9c9dfbc6-5ded-44eb-b1c5-db7b70cb5cdf": {
+          "technologies": []
+        },
+        "9da22b02-27c9-4f02-b6b5-bb1eada8f4d1": {
+          "technologies": []
+        },
+        "a11bcd0d-c116-4e59-bf61-44b36093fcec": {
+          "technologies": []
+        },
+        "a13a6d7b-1dc0-4b43-9f00-d7036e65445f": {
+          "technologies": []
+        },
+        "a288469c-7e6c-40c9-9a68-b680bbd06e86": {
+          "technologies": []
+        },
+        "a2dd5a37-46f5-4e80-a2a8-792e05f295b5": {
+          "technologies": [
+            "aws",
+            "azure",
+            "databricks"
+          ]
+        },
+        "a55b45a8-cc42-4542-a95a-9dabe9d81c1a": {
+          "technologies": []
+        },
+        "a5e236d9-bcb0-424f-aeb5-f1362763ba85": {
+          "technologies": []
+        },
+        "a8b17d82-8d1c-4b81-98a3-76b4558ce534": {
+          "technologies": []
+        },
+        "a90e4d6c-e03f-47ec-ba5e-ce9d461fa70f": {
+          "technologies": []
+        },
+        "ac1e0159-67c3-46fc-b779-1a3f4e60642e": {
+          "technologies": []
+        },
+        "ad47c4e9-b54e-487f-9f71-4e23958ff4de": {
+          "technologies": []
+        },
+        "ae3f6073-5741-42af-8b8c-1b2779bb4a8c": {
+          "technologies": []
+        },
+        "b0536280-cc7f-47db-9105-7790a08d738b": {
+          "technologies": []
+        },
+        "b05ea658-d84b-443f-bf22-0b1de431c518": {
+          "technologies": []
+        },
+        "b0971ccd-82e4-4c42-aaa2-a55394eacae9": {
+          "technologies": []
+        },
+        "b145192a-6a77-4434-890e-10d6dc367fd2": {
+          "technologies": []
+        },
+        "b248ec65-dae1-46f8-8403-64dc8d53138e": {
+          "technologies": [
+            "claude",
+            "langchain",
+            "langgraph"
+          ]
+        },
+        "b6d28d67-b39c-4461-a03d-66cc21865d8d": {
+          "technologies": []
+        },
+        "b80221e6-4c41-4025-8a5d-10a1304582d7": {
+          "technologies": []
+        },
+        "bc8ccf90-b4ee-420a-a4fc-91c779e2dc7d": {
+          "technologies": [
+            "azure"
+          ]
+        },
+        "bda0e5f6-e08e-433a-8dac-74c86c86e06c": {
+          "technologies": [
+            "salesforce"
+          ]
+        },
+        "bf2b1b68-3203-441d-b38b-538f654208c7": {
+          "technologies": []
+        },
+        "c01618a4-9dfe-4f7d-8708-4b6d88040a7e": {
+          "technologies": []
+        },
+        "c1e6f885-6e3a-4409-8729-53c8925d250b": {
+          "technologies": []
+        },
+        "c25cb205-df5f-487e-896d-95d099e9fe3d": {
+          "technologies": []
+        },
+        "c2ae4c61-efe9-49ab-ab81-3527bf1ac19d": {
+          "technologies": [
+            "aws"
+          ]
+        },
+        "c341621d-5992-406c-8c5d-153c0d3aa0ca": {
+          "technologies": []
+        },
+        "c45d325c-71d6-43be-8809-b3663733150d": {
+          "technologies": []
+        },
+        "c5f8817d-bf3d-413c-8650-7779412cd495": {
+          "technologies": [
+            "snowflake"
+          ]
+        },
+        "c751f727-9b88-40b3-b56f-f26f88aab0df": {
+          "technologies": []
+        },
+        "c80d8ebf-3d10-4fb4-a362-3f6dab1d933b": {
+          "technologies": []
+        },
+        "c824a787-9a42-4ba0-b963-4985dfbfb4a5": {
+          "technologies": []
+        },
+        "c8aff68a-76b8-4ec4-84c1-f5e0ea932330": {
+          "technologies": []
+        },
+        "c8bbc9b5-70ec-4a67-840b-f2e62742e1bc": {
+          "technologies": [
+            "aws",
+            "azure",
+            "gcp",
+            "snowflake"
+          ]
+        },
+        "cd78c2fd-a2fc-4882-8b83-e23540b222d0": {
+          "technologies": []
+        },
+        "cebd0010-dd1f-4759-b500-756b6f77b676": {
+          "technologies": []
+        },
+        "cfae6eed-c2dd-43db-a89c-2957cb56e5c9": {
+          "technologies": []
+        },
+        "d0062651-a866-4343-8a27-9b3904aa5ec0": {
+          "technologies": []
+        },
+        "d0b29407-395f-4ac9-9923-16838138ac33": {
+          "technologies": []
+        },
+        "d2e8873c-ed89-4b6b-8537-c28c8e624cf7": {
+          "technologies": []
+        },
+        "d36f119a-9835-4e84-bb76-11caed33f4c3": {
+          "technologies": []
+        },
+        "d6bce3ce-09d9-49fc-9b49-0c87e5b82f76": {
+          "technologies": []
+        },
+        "d7d9bed8-4770-439a-b6ae-e5fb0c815c04": {
+          "technologies": [
+            "claude",
+            "langchain",
+            "langgraph"
+          ]
+        },
+        "d7fa8d95-63aa-4071-adde-757e20224629": {
+          "technologies": []
+        },
+        "dc0b4a67-9b4c-4da6-9746-a82ea22b5488": {
+          "technologies": []
+        },
+        "dd802552-7843-4491-b509-e06e15778b17": {
+          "technologies": []
+        },
+        "de7adbf1-0421-4a9d-a5f5-d443cdd29263": {
+          "technologies": []
+        },
+        "de87cfaf-53b4-4825-b75d-387d970f19db": {
+          "technologies": []
+        },
+        "df0baced-8074-4381-b73e-ee029c321739": {
+          "technologies": []
+        },
+        "e035e7ef-130a-4fce-9ebf-748dbcea384a": {
+          "technologies": []
+        },
+        "e1952e9a-a986-4ae9-857d-af62707be422": {
+          "technologies": []
+        },
+        "e258486b-2e9c-48b6-9cab-330e8aba301b": {
+          "technologies": []
+        },
+        "e4356908-e68e-4689-bd11-11fa17844d6e": {
+          "technologies": []
+        },
+        "e459597e-9985-4dfa-a079-a9972f1733ea": {
+          "technologies": []
+        },
+        "e717b34c-e4de-4ffe-bff0-b9df05bc7714": {
+          "technologies": []
+        },
+        "e7459678-f2d8-419f-a9e0-dbd7917c7344": {
+          "technologies": []
+        },
+        "e83c8652-20c8-4640-93d8-cea560717ec2": {
+          "technologies": [
+            "azure"
+          ]
+        },
+        "e899238d-c1f9-4196-8595-16d64cb1aff7": {
+          "technologies": []
+        },
+        "e93a454a-1b29-44cd-aed4-f13a72ca8feb": {
+          "technologies": []
+        },
+        "ea1713e8-0ac3-4d15-95ba-05e2979aaa11": {
+          "technologies": []
+        },
+        "ec5351fd-fb8e-4d9c-886d-0ce3cbd14477": {
+          "technologies": []
+        },
+        "eca4d598-00cc-4edb-98b8-30fb65e1fe5e": {
+          "technologies": []
+        },
+        "ecbac9e5-a11a-4b0e-b259-187267771a55": {
+          "technologies": []
+        },
+        "ed4c7c2e-ca9d-44f1-8b28-81e1b25a0bda": {
+          "technologies": []
+        },
+        "ed684109-5c24-4922-b64e-46aa3e55e4b3": {
+          "technologies": []
+        },
+        "ee0017c9-7caf-4fea-98e3-dffaaae6830f": {
+          "technologies": []
+        },
+        "ee996b9a-53d7-4551-9bae-d9301b6ac3dc": {
+          "technologies": []
+        },
+        "efc3b8ea-6a7b-42a7-8bde-d10957bde4ce": {
+          "technologies": [
+            "snowflake"
+          ]
+        },
+        "eff4c10b-f38f-432f-adfb-de8abf3c75f0": {
+          "technologies": []
+        },
+        "f0e6d0a8-fb05-444d-8038-3e25b340852f": {
+          "technologies": []
+        },
+        "f18f78a5-9eab-4c09-b98b-f27a097af08a": {
+          "technologies": []
+        },
+        "f24cd7df-0634-4ae9-937b-66a2901bc30a": {
+          "technologies": []
+        },
+        "f4a971e3-151f-4c04-88cc-37658f85ed68": {
+          "technologies": []
+        },
+        "f4c3ce9c-f87f-4dc8-aa2e-492d915146a7": {
+          "technologies": []
+        },
+        "f71a0306-cdba-490e-9588-d10effbef165": {
+          "technologies": []
+        },
+        "f73dd26c-a7d3-45cb-aa0f-1191d9c90adc": {
+          "technologies": []
+        },
+        "f9a0b1f5-fd20-4a0a-b2e5-9fec401d8573": {
+          "technologies": []
+        },
+        "fa3d653d-d4f1-41c0-894d-481682a13c37": {
+          "technologies": []
+        },
+        "fb4324fc-dba7-4c24-9856-5e1b084bc21f": {
+          "technologies": []
+        },
+        "fb4a95e8-9cbe-4c32-a31c-3a148b17791f": {
+          "technologies": []
+        },
+        "fbeb1776-9c39-4225-a211-b4e0e307b140": {
+          "technologies": [
+            "claude",
+            "langchain",
+            "langgraph"
+          ]
+        },
+        "fc539ea5-f59e-439c-a551-49b9931d4dff": {
+          "technologies": [
+            "bigquery",
+            "gcp"
+          ]
+        },
+        "fd40a821-dfcb-4fe7-9aa8-252524b00572": {
+          "technologies": []
+        },
+        "feda167f-a57f-43b6-a57f-6dfffcb5bb4d": {
+          "technologies": []
+        },
+        "ff5f2c21-676f-489c-ac22-6bdd0900c4ee": {
+          "technologies": []
+        }
+      },
+      "site": "brillio-2",
+      "source": "lever"
+    },
+    "lever:cents": {
+      "company": "cents",
+      "jobs": {
+        "0fc8456f-a42e-456d-ac5a-e3a32d165518": {
+          "technologies": []
+        },
+        "1cb6217c-40d5-4194-9022-81e6364c8159": {
+          "technologies": []
+        },
+        "4a5f5527-7b0a-4909-a6f6-09031aa31e62": {
+          "technologies": []
+        },
+        "58134bb8-05f1-4d70-8ad9-581a0cfc046a": {
+          "technologies": []
+        },
+        "5a540d1c-e96a-4a87-a524-91027a7d1a49": {
+          "technologies": []
+        },
+        "d5a4efe5-4a41-4a74-85bc-43c0bfb9787e": {
+          "technologies": []
+        },
+        "e44f6a2d-5bd0-4298-8850-fbc8b459ee9a": {
+          "technologies": []
+        }
+      },
+      "site": "cents",
+      "source": "lever"
+    },
     "lever:emburse": {
       "company": "emburse",
       "jobs": {
@@ -258,6 +1023,9 @@
         },
         "ef129230-0a01-49bc-bf56-583bbeebbf33": {
           "technologies": []
+        },
+        "ef8f95ae-d495-4c12-9f2f-7f7e8ef43b70": {
+          "technologies": []
         }
       },
       "site": "emburse",
@@ -327,294 +1095,6 @@
         }
       },
       "site": "enablecomp",
-      "source": "lever"
-    },
-    "lever:extremenetworks": {
-      "company": "extremenetworks",
-      "jobs": {
-        "005f8156-d969-4ea3-b33c-b7fdf035aa89": {
-          "technologies": []
-        },
-        "0100b069-56f7-4aec-96b8-c34cae660a5d": {
-          "technologies": [
-            "aws",
-            "azure"
-          ]
-        },
-        "059c2fcb-bde9-4303-8ac9-47f9ced61c25": {
-          "technologies": []
-        },
-        "05b2b1bb-08ce-48b2-b122-81179930d682": {
-          "technologies": []
-        },
-        "08896f00-7c5c-403e-b682-b9f4bca495c5": {
-          "technologies": []
-        },
-        "0dbc28c8-0a16-4ba3-bf4b-44fadbdfed01": {
-          "technologies": []
-        },
-        "0ddd04b5-582d-4078-9213-9a2a549e266b": {
-          "technologies": [
-            "aws",
-            "azure"
-          ]
-        },
-        "191695a2-938d-4c78-87cb-bf1f1235e293": {
-          "technologies": []
-        },
-        "1a499498-d95e-46c5-8457-500d1a5ba731": {
-          "technologies": []
-        },
-        "1f328ea6-d64a-4d1e-aa42-8e9e6ab614a0": {
-          "technologies": []
-        },
-        "2a0c7b1c-12f2-44ef-b032-d4dbb36f6440": {
-          "technologies": [
-            "aws",
-            "azure"
-          ]
-        },
-        "2b7f8532-a1b7-4eb6-9ff2-309431d39a3a": {
-          "technologies": [
-            "aws",
-            "azure",
-            "gcp"
-          ]
-        },
-        "2cee5b92-388c-47b2-a5d4-062e9a996a41": {
-          "technologies": [
-            "oracle erp",
-            "salesforce"
-          ]
-        },
-        "2e1f81a5-9895-4e0b-902d-90efbdf46344": {
-          "technologies": []
-        },
-        "2fe97f7e-0f13-44b9-85ef-ff6ef71a991e": {
-          "technologies": []
-        },
-        "31c2e5ec-febe-4123-a96b-b2013f0f51ea": {
-          "technologies": [
-            "chatgpt",
-            "claude"
-          ]
-        },
-        "349e4b7f-0faa-4338-b4c0-77733f84a198": {
-          "technologies": []
-        },
-        "3828143e-8805-408d-8751-d58017d48994": {
-          "technologies": []
-        },
-        "39dfca22-8f7d-40f8-bc1d-78ce7c2685ba": {
-          "technologies": []
-        },
-        "3aeb5ab3-5407-464a-be6a-7419e80849fd": {
-          "technologies": []
-        },
-        "40f55548-0f64-4bf1-baad-71f083309406": {
-          "technologies": []
-        },
-        "43e16c34-aae2-4f15-920c-ed7448faa32a": {
-          "technologies": [
-            "aws",
-            "azure"
-          ]
-        },
-        "4458281f-9c51-4ea2-9f54-09ccd883b4f9": {
-          "technologies": []
-        },
-        "45040012-f78c-4050-95d2-e053430b77d8": {
-          "technologies": []
-        },
-        "4815cf4b-cc1f-4d72-b6bf-b17bd0b8fae3": {
-          "technologies": []
-        },
-        "4d50d354-f58e-44e1-9009-f66d3b50cd19": {
-          "technologies": []
-        },
-        "51eeeff5-d3b7-43e7-9db3-415abd11afa0": {
-          "technologies": [
-            "aws",
-            "azure"
-          ]
-        },
-        "539a2035-a501-4ee5-9520-bd7e05f80450": {
-          "technologies": []
-        },
-        "57a8dcf9-d362-4523-9a8b-312aafc8fba6": {
-          "technologies": []
-        },
-        "5cb8361e-6415-4fcd-a51c-73c73c7049db": {
-          "technologies": []
-        },
-        "6af93f26-f84c-4335-b21a-d2243e9b5a54": {
-          "technologies": []
-        },
-        "6ceb0208-fa99-4578-a81f-5752f33d31f3": {
-          "technologies": []
-        },
-        "6dfcbfe3-0718-4701-b44e-7d4773b5fde7": {
-          "technologies": []
-        },
-        "722adb7a-f5d5-4765-8772-cec4cf322faf": {
-          "technologies": []
-        },
-        "7e24535a-c6ad-4878-8d00-9aa7c601db63": {
-          "technologies": [
-            "aws",
-            "azure"
-          ]
-        },
-        "807e6d86-089e-48ac-a4d5-98434dc36315": {
-          "technologies": [
-            "aws",
-            "azure"
-          ]
-        },
-        "80ead132-7f43-44da-adfb-d23af7cdb667": {
-          "technologies": [
-            "aws",
-            "azure"
-          ]
-        },
-        "84d9b745-27d3-46f8-ad42-9305c868e932": {
-          "technologies": []
-        },
-        "8504f93a-9ff8-4069-b05c-57826d61383d": {
-          "technologies": []
-        },
-        "8bf87d77-a14f-4c33-b6f6-98448fd67866": {
-          "technologies": []
-        },
-        "964dc7b5-3160-4a3b-99f4-0059942c5139": {
-          "technologies": []
-        },
-        "9acca1e3-b19a-44fb-b110-f33899eb617d": {
-          "technologies": []
-        },
-        "9c31fcc4-67ec-49e4-8ee6-85d258dda59e": {
-          "technologies": []
-        },
-        "a1dc29d0-872a-414b-b142-b7093e467a98": {
-          "technologies": [
-            "aws",
-            "azure"
-          ]
-        },
-        "a2be3ccd-ffae-48c0-8399-9bc00015d7ea": {
-          "technologies": []
-        },
-        "aa7da483-2e8f-4cb8-98e4-80c6cf1be0d4": {
-          "technologies": []
-        },
-        "b093c745-a9f6-47f7-aca3-078cb8f816cc": {
-          "technologies": [
-            "claude",
-            "langgraph"
-          ]
-        },
-        "b4e28691-f544-4ff0-b1d3-478eaeeca77e": {
-          "technologies": [
-            "aws",
-            "azure"
-          ]
-        },
-        "b80e59e0-7e38-45ab-8c92-3a8389b2c144": {
-          "technologies": [
-            "aws",
-            "azure"
-          ]
-        },
-        "c3017f47-8150-44ae-8522-71fd28657e25": {
-          "technologies": []
-        },
-        "c42ecc66-232d-4c7d-b92d-fe6b49f7a043": {
-          "technologies": []
-        },
-        "c65d36d7-ec0c-4f06-abcf-22c4aa85cced": {
-          "technologies": []
-        },
-        "c7e396a4-78ee-4e0c-a5f3-895073ff2652": {
-          "technologies": []
-        },
-        "c977b005-42fb-4935-906a-1d5f05c3dd00": {
-          "technologies": [
-            "aws",
-            "azure",
-            "gcp"
-          ]
-        },
-        "cd2b658e-5430-4913-bd3b-b4e36bf992f7": {
-          "technologies": []
-        },
-        "cff10340-bd5f-4f76-bbd9-d8475d178f21": {
-          "technologies": []
-        },
-        "d4227a6b-8e6d-45d0-ba86-5a696dfada88": {
-          "technologies": []
-        },
-        "df3274b9-25bd-4bde-bdb6-e8e473e7f636": {
-          "technologies": []
-        },
-        "df628dc1-4b7d-4934-bbd9-e234b52d537d": {
-          "technologies": [
-            "aws",
-            "azure",
-            "gcp"
-          ]
-        },
-        "dff7b4a2-6854-44f2-a6b8-0b0ce9b8546a": {
-          "technologies": [
-            "salesforce",
-            "snowflake",
-            "workato"
-          ]
-        },
-        "e4618bac-b6d3-41f6-94a3-125e098c3d6e": {
-          "technologies": []
-        },
-        "e6ecf22e-83c7-4ad1-b18a-62cd04c0138d": {
-          "technologies": [
-            "claude",
-            "langgraph"
-          ]
-        },
-        "e9c06b98-d7e5-4273-a092-45ca693b3ba5": {
-          "technologies": [
-            "aws",
-            "azure",
-            "gcp"
-          ]
-        },
-        "e9f9b404-2a6a-4c47-911d-dac78f5a6c8e": {
-          "technologies": []
-        },
-        "f99032c4-6048-484d-b93e-f8dfbb62aa19": {
-          "technologies": []
-        },
-        "faca2adf-a942-4c00-a883-d31306ab7bb6": {
-          "technologies": []
-        },
-        "fbcbd7c0-a650-48b3-9fa2-f95146f73d9b": {
-          "technologies": []
-        },
-        "fd9cb742-57e8-4787-aecc-ebd17f244684": {
-          "technologies": [
-            "aws",
-            "azure"
-          ]
-        },
-        "fda310fa-472e-4e60-8257-28a51a68b9e9": {
-          "technologies": []
-        },
-        "fe3b7c5c-f855-4993-ad85-f396379fe346": {
-          "technologies": []
-        },
-        "fec9cf44-3343-44ca-9377-ce2676799834": {
-          "technologies": []
-        }
-      },
-      "site": "extremenetworks",
       "source": "lever"
     },
     "lever:firemon": {
@@ -801,6 +1281,9 @@
         "c30df081-4282-4b54-92f7-92f8a9225728": {
           "technologies": []
         },
+        "c401c627-8627-40ba-ac58-606b3940ad08": {
+          "technologies": []
+        },
         "d045efcf-da77-4ec8-976b-42de957c8f3d": {
           "technologies": []
         },
@@ -811,9 +1294,6 @@
           "technologies": []
         },
         "ef852f8d-da6b-460e-ac2f-1407d9c85cf4": {
-          "technologies": []
-        },
-        "f6cf0d3c-f5f0-4140-9b47-36849bba00eb": {
           "technologies": []
         },
         "f8c7ad2e-38fb-4873-a9c9-28976fb834e3": {
@@ -912,6 +1392,27 @@
         }
       },
       "site": "levelai",
+      "source": "lever"
+    },
+    "lever:loopreturns": {
+      "company": "loopreturns",
+      "jobs": {
+        "24888e18-a9c8-49ea-875c-330f2b25be2b": {
+          "technologies": []
+        },
+        "408aff22-a910-4cf8-b86d-4964e1af2d69": {
+          "technologies": [
+            "aws"
+          ]
+        },
+        "c905a4ef-4880-4211-a22a-c93ad98000a8": {
+          "technologies": []
+        },
+        "d8185a7f-588c-44c3-9fa5-c193a80bca4a": {
+          "technologies": []
+        }
+      },
+      "site": "loopreturns",
       "source": "lever"
     },
     "lever:mendix": {
@@ -1059,6 +1560,290 @@
       "site": "mendix",
       "source": "lever"
     },
+    "lever:pattern": {
+      "company": "pattern",
+      "jobs": {
+        "03f7f302-c31f-460b-a09d-ed0847524b20": {
+          "technologies": []
+        },
+        "048881c9-9b97-4f7d-9e57-566420851525": {
+          "technologies": []
+        },
+        "07e7f56e-c632-4a07-a497-930a22b88c83": {
+          "technologies": []
+        },
+        "09416215-a5e7-41ac-857f-e020a841ad9d": {
+          "technologies": []
+        },
+        "0ce6bf45-eee8-4243-9c0c-94b415e49c02": {
+          "technologies": []
+        },
+        "0d130ac0-85c7-4338-8895-699fb02c18d8": {
+          "technologies": []
+        },
+        "0f1fde59-0e7b-429e-b314-41f190376eb2": {
+          "technologies": []
+        },
+        "105916fc-7c22-4e9c-bb2d-253750004dd8": {
+          "technologies": []
+        },
+        "11d506fe-42e2-405d-ac8a-343b288a80e7": {
+          "technologies": []
+        },
+        "166aa0c8-54f4-4d99-b9a9-9f0ee2f9c8bc": {
+          "technologies": []
+        },
+        "17a6caa4-3d27-4c3e-97f4-5d735bd95df0": {
+          "technologies": []
+        },
+        "1a13de64-54c0-4e10-aedf-68a57784a58d": {
+          "technologies": [
+            "snowflake"
+          ]
+        },
+        "1a73cf89-6608-4e81-9d9b-faf2cbf087de": {
+          "technologies": []
+        },
+        "1b7ad516-a6b5-4d3f-82a2-6d412977a32d": {
+          "technologies": []
+        },
+        "22b5bbbe-bf8d-491f-acbf-2a76fa0d77d2": {
+          "technologies": []
+        },
+        "2b8697f9-8495-4a59-83ba-5dde58ea0510": {
+          "technologies": []
+        },
+        "3060d9a9-28ad-4a3a-be52-68c2b063e911": {
+          "technologies": []
+        },
+        "382734b4-0820-478a-9988-97d82afd3e37": {
+          "technologies": []
+        },
+        "386d2280-e8c9-42c5-abcd-60c0f4d42805": {
+          "technologies": []
+        },
+        "4027eec4-0053-47ef-ab5b-3d1f55957ebe": {
+          "technologies": []
+        },
+        "453984e2-89bd-4906-b19e-4e94d767a911": {
+          "technologies": []
+        },
+        "46201f3f-7cc4-4fde-b7c3-39d63f401b09": {
+          "technologies": []
+        },
+        "4d57741e-a8cb-4470-a02d-26aab9569785": {
+          "technologies": []
+        },
+        "4f45774a-ab2c-4646-b4ee-58f15b4154f5": {
+          "technologies": [
+            "gong",
+            "hubspot"
+          ]
+        },
+        "551769c8-f1c6-4854-9b71-ab0c95c881d4": {
+          "technologies": []
+        },
+        "5979de31-5675-492d-947e-48caa1c6ccf3": {
+          "technologies": []
+        },
+        "5b4a5ede-082f-4cb4-9816-2a5905932f85": {
+          "technologies": []
+        },
+        "669c582b-38c6-4eba-a27a-ebcf679e2bde": {
+          "technologies": []
+        },
+        "66a5213c-8ca1-433c-b1a2-f797f90747fc": {
+          "technologies": []
+        },
+        "6ad61820-dff2-43d3-89af-d9001a730b8e": {
+          "technologies": []
+        },
+        "72e2ac05-24cc-49d9-ab07-650c5880d515": {
+          "technologies": []
+        },
+        "73378b4b-4ea4-4f94-8259-87ddbe3b2a4c": {
+          "technologies": []
+        },
+        "737a948e-58c1-4a2c-b4fa-52c4c24ef27c": {
+          "technologies": []
+        },
+        "73bb06ab-5283-4a6c-9f43-dc2a6467f2b4": {
+          "technologies": []
+        },
+        "73d76886-c453-4654-a374-3567f610a2c6": {
+          "technologies": []
+        },
+        "7778754b-1258-4d07-82d3-b808dc90f2ee": {
+          "technologies": []
+        },
+        "788d2cc5-61a2-4c99-9ef6-d881b40077ac": {
+          "technologies": []
+        },
+        "79945988-cd73-422b-9694-a3a3b4be94f5": {
+          "technologies": []
+        },
+        "79b39585-1864-4a89-bfb9-1c5e41b2e45d": {
+          "technologies": []
+        },
+        "7ad64aa3-fbcd-4113-8aff-fd5136f37f6c": {
+          "technologies": []
+        },
+        "7b031c0b-5479-46f7-a063-7b24bf57876f": {
+          "technologies": []
+        },
+        "7c7ecd7f-c704-46d2-97b3-e4f5b06e5d44": {
+          "technologies": []
+        },
+        "7f780344-982b-4ab1-9dec-cfdbd93bc0a0": {
+          "technologies": []
+        },
+        "80c1b90c-fe9c-4274-a950-963fd3ce379a": {
+          "technologies": []
+        },
+        "839b1895-7a9d-4bb6-bbfc-9c17b37e8f49": {
+          "technologies": []
+        },
+        "84c10630-d414-4ad6-a195-05b0691fa97a": {
+          "technologies": []
+        },
+        "85586fb0-774f-4b77-9e7f-21e8402decb1": {
+          "technologies": []
+        },
+        "882bbfd8-a3ec-40bc-9f03-6e9e634f246d": {
+          "technologies": []
+        },
+        "8aeeb2cc-b98e-4fdc-b5bd-b62f4f516a33": {
+          "technologies": []
+        },
+        "956fc0f6-707e-48a4-bc2a-c44251de8d0f": {
+          "technologies": []
+        },
+        "9ac4820b-7452-4ff7-9fa9-fe4cb3c6b680": {
+          "technologies": []
+        },
+        "9b5eb1be-f337-4e44-87f5-6c17cc63907f": {
+          "technologies": [
+            "chatgpt",
+            "openai"
+          ]
+        },
+        "9d50eaa8-218e-4fe2-9720-20102ce8f400": {
+          "technologies": []
+        },
+        "9fab7245-fb4e-48f4-84fd-c55910eebbdc": {
+          "technologies": []
+        },
+        "a1b4ca19-9e8b-4463-9330-557d6ee9ef4b": {
+          "technologies": []
+        },
+        "a5828efc-6aa2-4c84-bd88-8a7a47f2023c": {
+          "technologies": []
+        },
+        "a8d21bb8-58e6-4815-a003-40299f739f7d": {
+          "technologies": []
+        },
+        "ad978732-7171-473d-9400-0a6fc9e23cf7": {
+          "technologies": []
+        },
+        "ae184541-927d-40d6-974a-863d5a6e9f78": {
+          "technologies": []
+        },
+        "afc30a73-05e4-4509-847e-e92a59d3a78f": {
+          "technologies": []
+        },
+        "b2f8db66-d662-49a7-a8c0-654d68e20a4a": {
+          "technologies": [
+            "snowflake"
+          ]
+        },
+        "b4fe4e5b-ae2b-44d3-a05e-aa6ef939e0e1": {
+          "technologies": []
+        },
+        "b510572d-f7da-4c5a-bcb8-b7485e395e91": {
+          "technologies": []
+        },
+        "bbdeefa2-d8b0-4446-b37d-de2bb0d16374": {
+          "technologies": []
+        },
+        "c0b145ac-0a78-4acb-84e4-8c68ac2b868e": {
+          "technologies": []
+        },
+        "c125d285-71d1-4af5-9ed2-b1f8884f2a2d": {
+          "technologies": []
+        },
+        "c436505e-adc2-45ca-83ea-acb772f63e9f": {
+          "technologies": []
+        },
+        "c5711e08-a849-4fbe-8604-0d913deb38ed": {
+          "technologies": []
+        },
+        "c869fa8e-490a-4786-a2c7-6e6bb2fb31bf": {
+          "technologies": []
+        },
+        "c9398f5f-7b1e-49d5-91be-070f0a5916ec": {
+          "technologies": []
+        },
+        "cbe97d8c-cb19-4817-9f01-19b175ce84af": {
+          "technologies": []
+        },
+        "cee72e70-b90e-498f-a574-8519867d85e8": {
+          "technologies": []
+        },
+        "d82e0c9f-bcf5-4633-99cd-b2788d4cdd3a": {
+          "technologies": []
+        },
+        "dcf09dd0-c812-4696-9365-ce51b89e46b0": {
+          "technologies": []
+        },
+        "e029f256-ac00-4868-863f-9b755e93d85b": {
+          "technologies": []
+        },
+        "e1ee8a15-b624-439e-bc55-a87a95c7e223": {
+          "technologies": []
+        },
+        "e892c045-4035-4979-b9bd-bb1eaff0ed5f": {
+          "technologies": []
+        },
+        "ee183784-82cf-445d-b406-291a1c715031": {
+          "technologies": []
+        },
+        "f09e3e26-30da-480f-8a91-0e353f19c016": {
+          "technologies": []
+        },
+        "f1755896-a30d-472a-b627-d54fe5cbf435": {
+          "technologies": []
+        },
+        "f1fd4fce-6cc4-4db4-8e74-3de989d85dc0": {
+          "technologies": [
+            "chatgpt",
+            "openai"
+          ]
+        },
+        "f29230dd-47f1-4126-b1b5-9ac1d6e14740": {
+          "technologies": []
+        },
+        "f38bf771-54c1-4199-99a5-b5ad32cb5885": {
+          "technologies": []
+        },
+        "f6ff91b9-7f38-41c6-9dcf-f221a9276483": {
+          "technologies": []
+        },
+        "f741b68b-b95f-40cf-be7e-e7a142f00519": {
+          "technologies": []
+        },
+        "f83a8f0f-7d30-4db3-a184-eb314c2c15ea": {
+          "technologies": []
+        },
+        "fa61a3ae-1cf8-406c-852b-f3d8eabe6731": {
+          "technologies": []
+        },
+        "ff32f1c6-4ff9-477b-af69-6e3a63a97f26": {
+          "technologies": []
+        }
+      },
+      "site": "pattern",
+      "source": "lever"
+    },
     "lever:pointclickcare": {
       "company": "pointclickcare",
       "jobs": {
@@ -1201,9 +1986,6 @@
         "507b05f9-e8cb-4dbc-a8a7-c5b55bd65121": {
           "technologies": []
         },
-        "51c9ddf7-deb9-4f3c-8b90-f95468ef3d47": {
-          "technologies": []
-        },
         "56e13d29-7f5e-4c80-b9cf-8f12a17db1a0": {
           "technologies": [
             "azure",
@@ -1224,6 +2006,9 @@
           "technologies": []
         },
         "65e3d475-44cb-49d9-a190-4c6af7a77fab": {
+          "technologies": []
+        },
+        "666eed2e-a629-4dae-8afd-cae397cca694": {
           "technologies": []
         },
         "6982f604-e37b-4455-a843-6c60d1d2078f": {
@@ -1436,6 +2221,9 @@
             "langchain",
             "llamaindex"
           ]
+        },
+        "f905a4e4-dc78-4a65-a81c-ad00339fb6e2": {
+          "technologies": []
         },
         "f949e9b0-23dc-4f31-8e46-79eeb79bb79b": {
           "technologies": [
@@ -1703,7 +2491,7 @@
         "cfae33eb-42af-493e-9223-127d62923a34": {
           "technologies": []
         },
-        "d19ea4ad-aa25-4899-9d1a-59da09f59423": {
+        "d133f623-3993-4a42-b1a4-a86f8917a15c": {
           "technologies": []
         },
         "e63e82d1-1cf0-4cbb-b019-0f380b3ed76d": {
@@ -1735,6 +2523,6 @@
       "source": "lever"
     }
   },
-  "updated_at": "2026-11-20T15:27:55.488966+00:00",
+  "updated_at": "2026-11-21T14:39:36.984948+00:00",
   "version": 1
 }
