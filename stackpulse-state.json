@@ -1097,6 +1097,294 @@
       "site": "enablecomp",
       "source": "lever"
     },
+    "lever:extremenetworks": {
+      "company": "extremenetworks",
+      "jobs": {
+        "005f8156-d969-4ea3-b33c-b7fdf035aa89": {
+          "technologies": []
+        },
+        "0100b069-56f7-4aec-96b8-c34cae660a5d": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "059c2fcb-bde9-4303-8ac9-47f9ced61c25": {
+          "technologies": []
+        },
+        "05b2b1bb-08ce-48b2-b122-81179930d682": {
+          "technologies": []
+        },
+        "08896f00-7c5c-403e-b682-b9f4bca495c5": {
+          "technologies": []
+        },
+        "0dbc28c8-0a16-4ba3-bf4b-44fadbdfed01": {
+          "technologies": []
+        },
+        "0ddd04b5-582d-4078-9213-9a2a549e266b": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "191695a2-938d-4c78-87cb-bf1f1235e293": {
+          "technologies": []
+        },
+        "1a499498-d95e-46c5-8457-500d1a5ba731": {
+          "technologies": []
+        },
+        "1f328ea6-d64a-4d1e-aa42-8e9e6ab614a0": {
+          "technologies": []
+        },
+        "2a0c7b1c-12f2-44ef-b032-d4dbb36f6440": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "2b7f8532-a1b7-4eb6-9ff2-309431d39a3a": {
+          "technologies": [
+            "aws",
+            "azure",
+            "gcp"
+          ]
+        },
+        "2cee5b92-388c-47b2-a5d4-062e9a996a41": {
+          "technologies": [
+            "oracle erp",
+            "salesforce"
+          ]
+        },
+        "2e1f81a5-9895-4e0b-902d-90efbdf46344": {
+          "technologies": []
+        },
+        "2fe97f7e-0f13-44b9-85ef-ff6ef71a991e": {
+          "technologies": []
+        },
+        "31c2e5ec-febe-4123-a96b-b2013f0f51ea": {
+          "technologies": [
+            "chatgpt",
+            "claude"
+          ]
+        },
+        "349e4b7f-0faa-4338-b4c0-77733f84a198": {
+          "technologies": []
+        },
+        "3828143e-8805-408d-8751-d58017d48994": {
+          "technologies": []
+        },
+        "39dfca22-8f7d-40f8-bc1d-78ce7c2685ba": {
+          "technologies": []
+        },
+        "3aeb5ab3-5407-464a-be6a-7419e80849fd": {
+          "technologies": []
+        },
+        "40f55548-0f64-4bf1-baad-71f083309406": {
+          "technologies": []
+        },
+        "43e16c34-aae2-4f15-920c-ed7448faa32a": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "4458281f-9c51-4ea2-9f54-09ccd883b4f9": {
+          "technologies": []
+        },
+        "45040012-f78c-4050-95d2-e053430b77d8": {
+          "technologies": []
+        },
+        "4815cf4b-cc1f-4d72-b6bf-b17bd0b8fae3": {
+          "technologies": []
+        },
+        "4d50d354-f58e-44e1-9009-f66d3b50cd19": {
+          "technologies": []
+        },
+        "51eeeff5-d3b7-43e7-9db3-415abd11afa0": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "539a2035-a501-4ee5-9520-bd7e05f80450": {
+          "technologies": []
+        },
+        "57a8dcf9-d362-4523-9a8b-312aafc8fba6": {
+          "technologies": []
+        },
+        "5cb8361e-6415-4fcd-a51c-73c73c7049db": {
+          "technologies": []
+        },
+        "6af93f26-f84c-4335-b21a-d2243e9b5a54": {
+          "technologies": []
+        },
+        "6ceb0208-fa99-4578-a81f-5752f33d31f3": {
+          "technologies": []
+        },
+        "6dfcbfe3-0718-4701-b44e-7d4773b5fde7": {
+          "technologies": []
+        },
+        "722adb7a-f5d5-4765-8772-cec4cf322faf": {
+          "technologies": []
+        },
+        "7e24535a-c6ad-4878-8d00-9aa7c601db63": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "807e6d86-089e-48ac-a4d5-98434dc36315": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "80ead132-7f43-44da-adfb-d23af7cdb667": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "84d9b745-27d3-46f8-ad42-9305c868e932": {
+          "technologies": []
+        },
+        "8504f93a-9ff8-4069-b05c-57826d61383d": {
+          "technologies": []
+        },
+        "8bf87d77-a14f-4c33-b6f6-98448fd67866": {
+          "technologies": []
+        },
+        "964dc7b5-3160-4a3b-99f4-0059942c5139": {
+          "technologies": []
+        },
+        "9acca1e3-b19a-44fb-b110-f33899eb617d": {
+          "technologies": []
+        },
+        "9c31fcc4-67ec-49e4-8ee6-85d258dda59e": {
+          "technologies": []
+        },
+        "a1dc29d0-872a-414b-b142-b7093e467a98": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "a2be3ccd-ffae-48c0-8399-9bc00015d7ea": {
+          "technologies": []
+        },
+        "aa7da483-2e8f-4cb8-98e4-80c6cf1be0d4": {
+          "technologies": []
+        },
+        "b093c745-a9f6-47f7-aca3-078cb8f816cc": {
+          "technologies": [
+            "claude",
+            "langgraph"
+          ]
+        },
+        "b4e28691-f544-4ff0-b1d3-478eaeeca77e": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "b80e59e0-7e38-45ab-8c92-3a8389b2c144": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "c3017f47-8150-44ae-8522-71fd28657e25": {
+          "technologies": []
+        },
+        "c42ecc66-232d-4c7d-b92d-fe6b49f7a043": {
+          "technologies": []
+        },
+        "c65d36d7-ec0c-4f06-abcf-22c4aa85cced": {
+          "technologies": []
+        },
+        "c7e396a4-78ee-4e0c-a5f3-895073ff2652": {
+          "technologies": []
+        },
+        "c977b005-42fb-4935-906a-1d5f05c3dd00": {
+          "technologies": [
+            "aws",
+            "azure",
+            "gcp"
+          ]
+        },
+        "cd2b658e-5430-4913-bd3b-b4e36bf992f7": {
+          "technologies": []
+        },
+        "cff10340-bd5f-4f76-bbd9-d8475d178f21": {
+          "technologies": []
+        },
+        "d4227a6b-8e6d-45d0-ba86-5a696dfada88": {
+          "technologies": []
+        },
+        "df3274b9-25bd-4bde-bdb6-e8e473e7f636": {
+          "technologies": []
+        },
+        "df628dc1-4b7d-4934-bbd9-e234b52d537d": {
+          "technologies": [
+            "aws",
+            "azure",
+            "gcp"
+          ]
+        },
+        "dff7b4a2-6854-44f2-a6b8-0b0ce9b8546a": {
+          "technologies": [
+            "salesforce",
+            "snowflake",
+            "workato"
+          ]
+        },
+        "e4618bac-b6d3-41f6-94a3-125e098c3d6e": {
+          "technologies": []
+        },
+        "e6ecf22e-83c7-4ad1-b18a-62cd04c0138d": {
+          "technologies": [
+            "claude",
+            "langgraph"
+          ]
+        },
+        "e9c06b98-d7e5-4273-a092-45ca693b3ba5": {
+          "technologies": [
+            "aws",
+            "azure",
+            "gcp"
+          ]
+        },
+        "e9f9b404-2a6a-4c47-911d-dac78f5a6c8e": {
+          "technologies": []
+        },
+        "f99032c4-6048-484d-b93e-f8dfbb62aa19": {
+          "technologies": []
+        },
+        "faca2adf-a942-4c00-a883-d31306ab7bb6": {
+          "technologies": []
+        },
+        "fbcbd7c0-a650-48b3-9fa2-f95146f73d9b": {
+          "technologies": []
+        },
+        "fd9cb742-57e8-4787-aecc-ebd17f244684": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "fda310fa-472e-4e60-8257-28a51a68b9e9": {
+          "technologies": []
+        },
+        "fe3b7c5c-f855-4993-ad85-f396379fe346": {
+          "technologies": []
+        },
+        "fec9cf44-3343-44ca-9377-ce2676799834": {
+          "technologies": []
+        }
+      },
+      "site": "extremenetworks",
+      "source": "lever"
+    },
     "lever:firemon": {
       "company": "firemon",
       "jobs": {
@@ -1191,6 +1479,7 @@
         },
         "b9138a8b-27b1-49b1-aa86-2f2d6ad48843": {
           "technologies": [
+            "netsuite",
             "salesforce"
           ]
         },
@@ -2523,6 +2812,6 @@
       "source": "lever"
     }
   },
-  "updated_at": "2026-11-21T14:39:36.984948+00:00",
+  "updated_at": "2026-11-22T14:35:08.932558+00:00",
   "version": 1
 }
