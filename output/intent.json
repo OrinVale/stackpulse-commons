@@ -1,19 +1,70 @@
 [
   {
     "change_language": [
+      "migration",
+      "implement",
+      "implementation",
+      "transformation",
+      "architect",
+      "redesign",
       "integrate",
+      "build",
       "consolidat"
     ],
-    "company": "investorflow",
-    "event": "JOB CHANGED",
-    "location": "Santiago de los Caballeros",
+    "company": "pointclickcare",
+    "event": "NEW JOB",
+    "location": "Mississauga, Ontario",
     "new_technologies": [
-      "netsuite"
+      "databricks"
     ],
-    "score": 34,
+    "score": 68,
     "source": "lever",
-    "source_site": "investorflow",
-    "title": "Senior Accountant, Financial Reporting and Operations",
-    "url": "https://jobs.lever.co/investorflow/b9138a8b-27b1-49b1-aa86-2f2d6ad48843"
+    "source_site": "pointclickcare",
+    "title": "(Canada) Manager, Professional Services",
+    "url": "https://jobs.lever.co/pointclickcare/6526fc85-7320-4d6d-adce-5be5e1c1e198"
+  },
+  {
+    "change_language": [
+      "migration",
+      "implement",
+      "implementation",
+      "transformation",
+      "architect",
+      "redesign",
+      "integrate",
+      "build",
+      "consolidat"
+    ],
+    "company": "pointclickcare",
+    "event": "NEW JOB",
+    "location": "Remote - US",
+    "new_technologies": [
+      "databricks"
+    ],
+    "score": 68,
+    "source": "lever",
+    "source_site": "pointclickcare",
+    "title": "(US) Manager, Professional Services",
+    "url": "https://jobs.lever.co/pointclickcare/d2fd14bf-5e9c-4b7c-b0c6-17b40be4cc94"
+  },
+  {
+    "change_language": [
+      "implement",
+      "architect",
+      "integrate",
+      "build"
+    ],
+    "company": "pointclickcare",
+    "event": "JOB CHANGED",
+    "location": "Mississauga",
+    "new_technologies": [
+      "aws",
+      "azure"
+    ],
+    "score": 56,
+    "source": "lever",
+    "source_site": "pointclickcare",
+    "title": "Director, Software Engineering",
+    "url": "https://jobs.lever.co/pointclickcare/80e26330-aa83-4ee4-93a1-392b54d92b4e"
   }
 ]

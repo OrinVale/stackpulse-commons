@@ -515,9 +515,6 @@
         "884cd10f-e5a9-4aa8-ab18-6da1ef5b4543": {
           "technologies": []
         },
-        "88b35de9-6bde-4865-91e8-f49684a3fc1a": {
-          "technologies": []
-        },
         "8aee3746-3087-4b33-bc08-67b6865ebc7c": {
           "technologies": []
         },
@@ -606,13 +603,13 @@
         "a55b45a8-cc42-4542-a95a-9dabe9d81c1a": {
           "technologies": []
         },
-        "a5e236d9-bcb0-424f-aeb5-f1362763ba85": {
-          "technologies": []
-        },
         "a8b17d82-8d1c-4b81-98a3-76b4558ce534": {
           "technologies": []
         },
         "a90e4d6c-e03f-47ec-ba5e-ce9d461fa70f": {
+          "technologies": []
+        },
+        "aa294b22-8aa6-4cb4-b547-0878501a6558": {
           "technologies": []
         },
         "ac1e0159-67c3-46fc-b779-1a3f4e60642e": {
@@ -710,9 +707,6 @@
         "cd78c2fd-a2fc-4882-8b83-e23540b222d0": {
           "technologies": []
         },
-        "cebd0010-dd1f-4759-b500-756b6f77b676": {
-          "technologies": []
-        },
         "cfae6eed-c2dd-43db-a89c-2957cb56e5c9": {
           "technologies": []
         },
@@ -723,9 +717,6 @@
           "technologies": []
         },
         "d2e8873c-ed89-4b6b-8537-c28c8e624cf7": {
-          "technologies": []
-        },
-        "d36f119a-9835-4e84-bb76-11caed33f4c3": {
           "technologies": []
         },
         "d6bce3ce-09d9-49fc-9b49-0c87e5b82f76": {
@@ -911,9 +902,6 @@
       "company": "emburse",
       "jobs": {
         "0a90380d-6c4f-4658-8094-63bfe626ea7a": {
-          "technologies": []
-        },
-        "0f5ea09c-d68f-4b9c-8d30-097806bf1522": {
           "technologies": []
         },
         "0fb18791-070e-4d6b-b13c-fbac5d173367": {
@@ -1418,9 +1406,6 @@
         "4bc9abf1-6ec3-48ef-90b3-90cbec43dd8b": {
           "technologies": []
         },
-        "55eed579-a00a-4d3c-a1ae-2e0ef9bd7063": {
-          "technologies": []
-        },
         "65208e7b-0d5c-473c-9579-a0dab419fbd6": {
           "technologies": []
         },
@@ -1523,6 +1508,9 @@
           "technologies": []
         },
         "60f8dc5d-9827-4b44-b656-18c578887c40": {
+          "technologies": []
+        },
+        "60f9796e-9f63-416e-8c7b-8e16cd2ee3dc": {
           "technologies": []
         },
         "61788a74-57b5-4821-bbb0-8e1605fbed5c": {
@@ -1877,9 +1865,6 @@
           "technologies": []
         },
         "11d506fe-42e2-405d-ac8a-343b288a80e7": {
-          "technologies": []
-        },
-        "166aa0c8-54f4-4d99-b9a9-9f0ee2f9c8bc": {
           "technologies": []
         },
         "17a6caa4-3d27-4c3e-97f4-5d735bd95df0": {
@@ -2294,6 +2279,11 @@
         "648fcd6f-b34d-4b61-8286-f3131dd6647c": {
           "technologies": []
         },
+        "6526fc85-7320-4d6d-adce-5be5e1c1e198": {
+          "technologies": [
+            "databricks"
+          ]
+        },
         "65e3d475-44cb-49d9-a190-4c6af7a77fab": {
           "technologies": []
         },
@@ -2309,9 +2299,6 @@
           "technologies": [
             "azure"
           ]
-        },
-        "6e4c010b-0a9b-41be-bd5c-b5a086af09aa": {
-          "technologies": []
         },
         "6ec25484-b204-48a6-ab91-7b0b1625aa02": {
           "technologies": [
@@ -2341,7 +2328,10 @@
           ]
         },
         "80e26330-aa83-4ee4-93a1-392b54d92b4e": {
-          "technologies": []
+          "technologies": [
+            "aws",
+            "azure"
+          ]
         },
         "84909f18-2874-4a24-98dd-e7fdd6aed00e": {
           "technologies": []
@@ -2353,9 +2343,6 @@
           ]
         },
         "85ba9c8c-7156-4644-93d8-def035381261": {
-          "technologies": []
-        },
-        "8e9c23b4-1e2e-4625-a0a4-48ea9260c87b": {
           "technologies": []
         },
         "94b85a28-9893-48c5-a2bb-a50175887ef1": {
@@ -2402,9 +2389,6 @@
         "c28f5039-42db-48e6-b421-7600b4811895": {
           "technologies": []
         },
-        "c705af74-d0ed-4cbc-bdfb-3ac8f99fcea6": {
-          "technologies": []
-        },
         "c8e430d2-e942-4eba-8316-bbc71b27961c": {
           "technologies": []
         },
@@ -2446,6 +2430,11 @@
             "claude",
             "langchain",
             "openai"
+          ]
+        },
+        "d2fd14bf-5e9c-4b7c-b0c6-17b40be4cc94": {
+          "technologies": [
+            "databricks"
           ]
         },
         "d668b17e-8c5c-4287-bf44-c7681701d5ce": {
@@ -2590,21 +2579,6 @@
       "site": "revinate",
       "source": "lever"
     },
-    "lever:tracktik": {
-      "company": "tracktik",
-      "jobs": {
-        "75269485-28d1-4991-adaf-f5fa43174ca8": {
-          "technologies": [
-            "salesforce"
-          ]
-        },
-        "d701a3f2-b4c7-4826-8bfc-f36adb23f244": {
-          "technologies": []
-        }
-      },
-      "site": "tracktik",
-      "source": "lever"
-    },
     "lever:wgsn": {
       "company": "wgsn",
       "jobs": {
@@ -2641,6 +2615,9 @@
           "technologies": [
             "salesforce"
           ]
+        },
+        "9b5f7fd6-0240-4854-b783-c24a3981477c": {
+          "technologies": []
         },
         "a43f8015-afff-432d-ba20-751b08e0e280": {
           "technologies": []
@@ -2732,6 +2709,9 @@
         "79f030b8-15db-4fb2-9451-db6f8964f056": {
           "technologies": []
         },
+        "7cb4a5bd-026e-4ae8-9b93-321d8425e06a": {
+          "technologies": []
+        },
         "82934db2-bcdd-47c1-a2f5-f4259341760b": {
           "technologies": []
         },
@@ -2812,6 +2792,6 @@
       "source": "lever"
     }
   },
-  "updated_at": "2026-11-22T14:35:08.932558+00:00",
+  "updated_at": "2026-11-23T18:09:16.698849+00:00",
   "version": 1
 }
