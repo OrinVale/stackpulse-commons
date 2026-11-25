@@ -2,40 +2,39 @@
   {
     "change_language": [
       "implement",
-      "architect",
+      "integration",
       "integrate",
       "build"
     ],
-    "company": "pointclickcare",
+    "company": "brillio-2",
     "event": "NEW JOB",
-    "location": "Mississauga",
+    "location": "New York, New York, United States",
     "new_technologies": [
       "aws",
-      "azure"
+      "azure",
+      "mulesoft",
+      "workato"
     ],
-    "score": 56,
+    "score": 72,
     "source": "lever",
-    "source_site": "pointclickcare",
-    "title": "Director, Software Engineering",
-    "url": "https://jobs.lever.co/pointclickcare/095316a6-06ec-422a-aef6-34a1f884056c"
+    "source_site": "brillio-2",
+    "title": "Contact Center Platform Engineer",
+    "url": "https://jobs.lever.co/brillio-2/34057f26-de55-46df-8ff1-1f827c49a9f9"
   },
   {
     "change_language": [
-      "implement",
-      "architect",
-      "integration",
-      "integrate"
+      "build"
     ],
-    "company": "pointclickcare",
+    "company": "wgsn",
     "event": "NEW JOB",
-    "location": "Remote - US",
+    "location": "London, UK",
     "new_technologies": [
-      "chatgpt"
+      "salesforce"
     ],
-    "score": 42,
+    "score": 30,
     "source": "lever",
-    "source_site": "pointclickcare",
-    "title": "US - Technical Solutions Analyst (TAM)",
-    "url": "https://jobs.lever.co/pointclickcare/e4ed7770-9c1b-4a24-bc1c-63a134b25605"
+    "source_site": "wgsn",
+    "title": "Business Development Associate - Spanish speaking",
+    "url": "https://jobs.lever.co/wgsn/7a09ff7b-ea38-4865-9f34-559b52a6e95a"
   }
 ]
