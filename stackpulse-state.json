@@ -43,6 +43,9 @@
         "3c800c89-28af-4e15-af2e-7959a8a9d62a": {
           "technologies": []
         },
+        "41da6f46-5a69-4a16-adc3-dfc31e8fabc5": {
+          "technologies": []
+        },
         "42a9df4e-81b5-4a50-b690-4e20dd64ceea": {
           "technologies": []
         },
@@ -82,6 +85,9 @@
             "salesforce"
           ]
         },
+        "9d016c3d-d72f-4bf6-8fc8-68849fa8d6c5": {
+          "technologies": []
+        },
         "9d1ee4da-6fba-426b-bc40-71e87b22bb8f": {
           "technologies": []
         },
@@ -106,6 +112,9 @@
         "ae5bba0b-0605-4d44-b0ea-f35169402045": {
           "technologies": []
         },
+        "b177d312-bf29-4221-976e-bec443275fda": {
+          "technologies": []
+        },
         "be41ff7e-6413-45f0-92a3-00e8356dee85": {
           "technologies": []
         },
@@ -120,6 +129,9 @@
             "marketo",
             "salesforce"
           ]
+        },
+        "cb099ce6-5b57-4d05-88d3-f34b853d3218": {
+          "technologies": []
         },
         "cde72d51-cabb-4cad-8c4e-aeacf4051b29": {
           "technologies": []
@@ -188,9 +200,6 @@
           "technologies": []
         },
         "10aa7b0a-40cc-4f67-98dd-4d86d817281c": {
-          "technologies": []
-        },
-        "1157e541-95fe-4503-829c-495597595c4e": {
           "technologies": []
         },
         "11ec26f4-eb09-40fb-bb7b-d3458ab93e58": {
@@ -316,9 +325,6 @@
           "technologies": []
         },
         "3fc25ab3-7c02-4082-9bed-35f97d4fb0a1": {
-          "technologies": []
-        },
-        "436762e1-f191-4f5f-b3b8-5b415cbce7e1": {
           "technologies": []
         },
         "45d70156-f0ac-4e34-ae3b-73c5bcf467d4": {
@@ -579,9 +585,6 @@
         "97afbaaa-5c9a-4cf9-8c0d-f31ff3e9f2a0": {
           "technologies": []
         },
-        "97fdcb9c-5161-400c-a627-7d104537268f": {
-          "technologies": []
-        },
         "9a8a6c2d-d278-4f88-a5e3-d463c9ce8aa6": {
           "technologies": []
         },
@@ -592,9 +595,6 @@
           "technologies": []
         },
         "a11bcd0d-c116-4e59-bf61-44b36093fcec": {
-          "technologies": []
-        },
-        "a13a6d7b-1dc0-4b43-9f00-d7036e65445f": {
           "technologies": []
         },
         "a288469c-7e6c-40c9-9a68-b680bbd06e86": {
@@ -719,9 +719,6 @@
           "technologies": []
         },
         "cfae6eed-c2dd-43db-a89c-2957cb56e5c9": {
-          "technologies": []
-        },
-        "d0062651-a866-4343-8a27-9b3904aa5ec0": {
           "technologies": []
         },
         "d0b29407-395f-4ac9-9923-16838138ac33": {
@@ -855,9 +852,6 @@
         "fb4324fc-dba7-4c24-9856-5e1b084bc21f": {
           "technologies": []
         },
-        "fb4a95e8-9cbe-4c32-a31c-3a148b17791f": {
-          "technologies": []
-        },
         "fbeb1776-9c39-4225-a211-b4e0e307b140": {
           "technologies": [
             "claude",
@@ -901,6 +895,9 @@
         },
         "d5a4efe5-4a41-4a74-85bc-43c0bfb9787e": {
           "technologies": []
+        },
+        "ee2c2650-0f98-4f4f-9e3f-9239648e4444": {
+          "technologies": []
         }
       },
       "site": "cents",
@@ -943,10 +940,10 @@
         "566b9b49-b9fd-49f1-af5f-2eb39c6b9dd2": {
           "technologies": []
         },
-        "5b3c7a7f-7b7b-4de3-a349-707ddab2dd02": {
+        "577305fd-35d4-41dc-918e-262eeeeb8f46": {
           "technologies": []
         },
-        "5b7a8e98-bb92-44c3-bd25-e5bfb0eca5da": {
+        "5b3c7a7f-7b7b-4de3-a349-707ddab2dd02": {
           "technologies": []
         },
         "5f1e6ea6-3116-4d01-bae8-d02edeab85f6": {
@@ -965,6 +962,9 @@
           "technologies": []
         },
         "954c178b-c652-412d-a7bf-32e894a82bd0": {
+          "technologies": []
+        },
+        "9f80401e-4bb1-4565-b8c9-4c0561063db5": {
           "technologies": []
         },
         "a71198de-403a-49f8-889c-7dcec728cf04": {
@@ -1484,9 +1484,6 @@
         "3b92f862-f00c-41cd-8c1e-fae73997fbde": {
           "technologies": []
         },
-        "4242488a-ac2a-47d8-a422-ab6ce5053ee4": {
-          "technologies": []
-        },
         "431dc3ee-ab06-4c27-b0e9-776489e9264d": {
           "technologies": []
         },
@@ -1669,9 +1666,6 @@
     "lever:loopreturns": {
       "company": "loopreturns",
       "jobs": {
-        "3acc15ac-63e9-4725-a4dd-87680e56921b": {
-          "technologies": []
-        },
         "408aff22-a910-4cf8-b86d-4964e1af2d69": {
           "technologies": [
             "aws"
@@ -1681,6 +1675,9 @@
           "technologies": []
         },
         "d8185a7f-588c-44c3-9fa5-c193a80bca4a": {
+          "technologies": []
+        },
+        "e0f0018f-774f-468f-8697-ae5ccef04a85": {
           "technologies": []
         }
       },
@@ -1874,6 +1871,9 @@
           "technologies": []
         },
         "1bcc3aa1-9654-40b4-84c0-e76e48c61459": {
+          "technologies": []
+        },
+        "213be67d-8a4f-4a0f-b628-42f73bc64a2b": {
           "technologies": []
         },
         "22b5bbbe-bf8d-491f-acbf-2a76fa0d77d2": {
@@ -2102,6 +2102,369 @@
         }
       },
       "site": "pattern",
+      "source": "lever"
+    },
+    "lever:pointclickcare": {
+      "company": "pointclickcare",
+      "jobs": {
+        "0672548f-e11e-4771-b8ca-ffc8b1ec422b": {
+          "technologies": []
+        },
+        "0931a65d-260c-4972-8473-669dcca060e4": {
+          "technologies": [
+            "salesforce"
+          ]
+        },
+        "095316a6-06ec-422a-aef6-34a1f884056c": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "0c76ce3a-08b7-4329-8599-e4cdd2ae2a53": {
+          "technologies": []
+        },
+        "0d055e51-ecd5-4daf-8295-d89b2dd5a0e3": {
+          "technologies": []
+        },
+        "0dbddaac-9166-4333-81a4-d2e956dc1a4f": {
+          "technologies": []
+        },
+        "121dc43a-3cce-4786-8daa-75dcc3126b9d": {
+          "technologies": []
+        },
+        "14b74438-b9fa-48d5-8f32-5f1b47e05d7c": {
+          "technologies": [
+            "azure",
+            "claude"
+          ]
+        },
+        "150b07cd-04e9-46c4-9015-114498f3798c": {
+          "technologies": [
+            "aws",
+            "azure",
+            "databricks",
+            "gcp"
+          ]
+        },
+        "1648fda5-539d-4e95-928c-193fb758b08e": {
+          "technologies": []
+        },
+        "1845f0e3-efb1-4fc4-abc1-187049ff2996": {
+          "technologies": []
+        },
+        "1b9e4ba0-8448-4595-98ae-7a97dd36c1a1": {
+          "technologies": [
+            "azure",
+            "claude"
+          ]
+        },
+        "1f69f498-aa0f-4b15-9153-e2b4be802228": {
+          "technologies": []
+        },
+        "27ea212e-092c-4567-bb56-fc17a71fcc4c": {
+          "technologies": [
+            "aws",
+            "azure",
+            "databricks",
+            "dbt",
+            "gcp"
+          ]
+        },
+        "28537fcc-b49a-4187-a3fe-a2016af68fe4": {
+          "technologies": []
+        },
+        "29937081-c433-4573-bc55-47dce4debe58": {
+          "technologies": [
+            "salesforce"
+          ]
+        },
+        "2ada0b8c-4c24-47c3-8d53-56898a3228d8": {
+          "technologies": [
+            "salesforce"
+          ]
+        },
+        "2e2fd17b-7360-449b-9fd4-de722f49a51f": {
+          "technologies": [
+            "aws",
+            "azure",
+            "databricks",
+            "langchain",
+            "llamaindex"
+          ]
+        },
+        "2f074e3f-34dc-4a72-81f2-60305520a3bb": {
+          "technologies": []
+        },
+        "36121d51-8a8e-4b05-afdb-3ca37b312baf": {
+          "technologies": []
+        },
+        "3779970b-816c-4417-bcc8-6a3436ff6821": {
+          "technologies": [
+            "aws",
+            "azure"
+          ]
+        },
+        "37a529c4-afb9-4b50-a75c-df1508d8bde3": {
+          "technologies": [
+            "aws",
+            "azure",
+            "databricks",
+            "gcp"
+          ]
+        },
+        "419d8aa9-e0ac-4e9d-8219-13a1126c4058": {
+          "technologies": []
+        },
+        "423445e1-953c-45e2-a9ac-ce46598c89d7": {
+          "technologies": [
+            "aws",
+            "azure",
+            "databricks",
+            "gcp"
+          ]
+        },
+        "44f485fb-6d6f-44ed-a034-bb823a5caf1e": {
+          "technologies": [
+            "aws",
+            "azure",
+            "gcp"
+          ]
+        },
+        "4cc9052f-756d-47b7-ae60-da8405b541e6": {
+          "technologies": []
+        },
+        "4df74b15-3479-4a75-a4c4-5640ccde7346": {
+          "technologies": []
+        },
+        "4ea12354-5f5a-48f4-86a8-1d66fbe84b22": {
+          "technologies": []
+        },
+        "507b05f9-e8cb-4dbc-a8a7-c5b55bd65121": {
+          "technologies": []
+        },
+        "560fc3cf-e98e-44aa-b9b8-3ac3f3513b68": {
+          "technologies": []
+        },
+        "56e13d29-7f5e-4c80-b9cf-8f12a17db1a0": {
+          "technologies": [
+            "azure",
+            "claude",
+            "openai"
+          ]
+        },
+        "5a56d81f-6c94-4d67-a6ba-0779ce31ff93": {
+          "technologies": []
+        },
+        "5e76786a-032c-464e-ad91-d4ecc3cd905f": {
+          "technologies": [
+            "claude",
+            "salesforce"
+          ]
+        },
+        "648fcd6f-b34d-4b61-8286-f3131dd6647c": {
+          "technologies": []
+        },
+        "6526fc85-7320-4d6d-adce-5be5e1c1e198": {
+          "technologies": [
+            "databricks"
+          ]
+        },
+        "65e3d475-44cb-49d9-a190-4c6af7a77fab": {
+          "technologies": []
+        },
+        "666eed2e-a629-4dae-8afd-cae397cca694": {
+          "technologies": []
+        },
+        "6982f604-e37b-4455-a843-6c60d1d2078f": {
+          "technologies": [
+            "salesforce"
+          ]
+        },
+        "6c8f4d1f-c1c7-480f-bd17-45927fd23741": {
+          "technologies": [
+            "azure"
+          ]
+        },
+        "73ad5135-fd75-449d-8008-df929acb80c2": {
+          "technologies": []
+        },
+        "7a6a265e-2bb2-4d5c-adf7-1c9029e76841": {
+          "technologies": [
+            "salesforce"
+          ]
+        },
+        "7eeaf73c-9d8c-4c25-a40c-79e44328357f": {
+          "technologies": [
+            "azure",
+            "databricks",
+            "openai"
+          ]
+        },
+        "84909f18-2874-4a24-98dd-e7fdd6aed00e": {
+          "technologies": []
+        },
+        "85ba9c8c-7156-4644-93d8-def035381261": {
+          "technologies": []
+        },
+        "86aeece2-17e6-43d2-af54-7cdc73146eab": {
+          "technologies": []
+        },
+        "94b85a28-9893-48c5-a2bb-a50175887ef1": {
+          "technologies": [
+            "aws",
+            "azure",
+            "gcp"
+          ]
+        },
+        "972c9931-ca55-4263-bc0d-75afc697e3b9": {
+          "technologies": []
+        },
+        "9c0f7fc2-201d-4c54-a2d1-99fef1077a16": {
+          "technologies": []
+        },
+        "9fc89357-9533-43ce-a78f-730c745a1da0": {
+          "technologies": []
+        },
+        "a18cc91f-aae0-438f-94b1-ba721f7e1992": {
+          "technologies": []
+        },
+        "a7bbfda0-f218-4a09-847c-e7eb1c468cc5": {
+          "technologies": []
+        },
+        "b3757919-10c4-4993-ad0d-ba58df30a327": {
+          "technologies": [
+            "azure",
+            "databricks",
+            "openai"
+          ]
+        },
+        "b4a227cd-e023-4966-a809-6291b0061a85": {
+          "technologies": []
+        },
+        "b9aa8736-cf2e-4e5a-b929-e998a7d6d3c5": {
+          "technologies": []
+        },
+        "c27a6547-a9fa-4a3e-a8a2-424f2e086f8e": {
+          "technologies": []
+        },
+        "c28f5039-42db-48e6-b421-7600b4811895": {
+          "technologies": []
+        },
+        "c8e430d2-e942-4eba-8316-bbc71b27961c": {
+          "technologies": []
+        },
+        "ccdecc93-aef2-4b2b-a981-6843f3c16221": {
+          "technologies": [
+            "aws",
+            "azure",
+            "databricks",
+            "gcp"
+          ]
+        },
+        "d2fd14bf-5e9c-4b7c-b0c6-17b40be4cc94": {
+          "technologies": [
+            "databricks"
+          ]
+        },
+        "d668b17e-8c5c-4287-bf44-c7681701d5ce": {
+          "technologies": [
+            "salesforce"
+          ]
+        },
+        "d6978737-10ed-44d0-a38d-9494f540406f": {
+          "technologies": [
+            "salesforce"
+          ]
+        },
+        "da903735-9f6e-4261-a61e-9b52d3435846": {
+          "technologies": []
+        },
+        "dc0d44ce-bc2a-4577-bb0b-a38250bfc971": {
+          "technologies": [
+            "aws",
+            "azure",
+            "gcp"
+          ]
+        },
+        "dd8a5cee-054e-46fe-be82-f246d4dda50e": {
+          "technologies": []
+        },
+        "defdd9d1-346c-4a6b-a9b9-63987ca27601": {
+          "technologies": []
+        },
+        "e4ed7770-9c1b-4a24-bc1c-63a134b25605": {
+          "technologies": [
+            "chatgpt"
+          ]
+        },
+        "e56d6df3-16fb-4652-9d97-c6140700d2e0": {
+          "technologies": [
+            "azure"
+          ]
+        },
+        "ed4cd0a6-9342-4c41-bff7-fc9612cdf044": {
+          "technologies": []
+        },
+        "f1d2742a-dbb4-4ff2-b73f-f8fb76152931": {
+          "technologies": []
+        },
+        "f1ff2715-228c-42a3-8b7c-45c929723f5a": {
+          "technologies": []
+        },
+        "f46b043a-f69a-4224-9bed-e6bdd9fab344": {
+          "technologies": [
+            "claude",
+            "salesforce"
+          ]
+        },
+        "f4a9317a-bf92-4f74-b85e-b8a01b8b0aa1": {
+          "technologies": []
+        },
+        "f5851738-ab35-4969-849d-b1c938242fcc": {
+          "technologies": [
+            "salesforce"
+          ]
+        },
+        "f898bbb1-6d98-4708-9762-414799038ea4": {
+          "technologies": [
+            "aws",
+            "azure",
+            "databricks",
+            "langchain",
+            "llamaindex"
+          ]
+        },
+        "f905a4e4-dc78-4a65-a81c-ad00339fb6e2": {
+          "technologies": []
+        },
+        "f949e9b0-23dc-4f31-8e46-79eeb79bb79b": {
+          "technologies": [
+            "sap"
+          ]
+        },
+        "fa893a95-a12c-4a05-822b-89bc137cd487": {
+          "technologies": []
+        },
+        "faff149d-3b2a-43e7-bcab-ee4a2f67dda0": {
+          "technologies": [
+            "aws",
+            "azure",
+            "databricks",
+            "dbt",
+            "gcp"
+          ]
+        },
+        "fb6cb4a7-3a96-4adc-beb1-23140110c0ab": {
+          "technologies": []
+        },
+        "ff531031-8596-4ade-a81d-193053e07230": {
+          "technologies": [
+            "salesforce"
+          ]
+        }
+      },
+      "site": "pointclickcare",
       "source": "lever"
     },
     "lever:redoxengine": {
@@ -2371,6 +2734,6 @@
       "source": "lever"
     }
   },
-  "updated_at": "2026-11-25T17:14:24.738461+00:00",
+  "updated_at": "2026-11-26T16:54:26.283151+00:00",
   "version": 1
 }
