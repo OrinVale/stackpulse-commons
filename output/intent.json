@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "change_language": [
+      "implement",
+      "architect",
+      "integrate",
+      "build"
+    ],
+    "company": "pointclickcare",
+    "event": "NEW JOB",
+    "location": "Remote - US",
+    "new_technologies": [
+      "azure",
+      "claude"
+    ],
+    "score": 56,
+    "source": "lever",
+    "source_site": "pointclickcare",
+    "title": "Principal Software Engineer",
+    "url": "https://jobs.lever.co/pointclickcare/4b3d7d51-2a0c-4447-8d74-fc659c63894f"
+  }
+]

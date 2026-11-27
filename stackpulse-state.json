@@ -190,9 +190,6 @@
         "0aa83771-4fc6-4ed0-8898-dc79d718d9f6": {
           "technologies": []
         },
-        "0caf0afc-a346-480b-8e55-a6fc0707e647": {
-          "technologies": []
-        },
         "0ec285a3-4f72-4f6e-a042-111306300cec": {
           "technologies": []
         },
@@ -379,9 +376,6 @@
         "5685d0b6-0b57-4c73-9ea7-fee9944f8581": {
           "technologies": []
         },
-        "56ce18e2-d685-4ec6-8ea1-efb7a29e3570": {
-          "technologies": []
-        },
         "573f3603-f76f-45fb-bf99-8f3947099e64": {
           "technologies": []
         },
@@ -562,6 +556,9 @@
           "technologies": []
         },
         "92060784-3feb-4998-8850-6f9aa2dd7263": {
+          "technologies": []
+        },
+        "922b71d6-6b6a-488d-9935-cd64cbbe1f79": {
           "technologies": []
         },
         "92a14bc6-a171-47af-976c-3764cd50ddad": {
@@ -818,9 +815,6 @@
           "technologies": [
             "snowflake"
           ]
-        },
-        "eff4c10b-f38f-432f-adfb-de8abf3c75f0": {
-          "technologies": []
         },
         "f0e6d0a8-fb05-444d-8038-3e25b340852f": {
           "technologies": []
@@ -2153,6 +2147,9 @@
         "1845f0e3-efb1-4fc4-abc1-187049ff2996": {
           "technologies": []
         },
+        "18f73f69-b849-4a4b-9ecf-a1858b4f5e33": {
+          "technologies": []
+        },
         "1b9e4ba0-8448-4595-98ae-7a97dd36c1a1": {
           "technologies": [
             "azure",
@@ -2231,10 +2228,13 @@
             "gcp"
           ]
         },
-        "4cc9052f-756d-47b7-ae60-da8405b541e6": {
-          "technologies": []
+        "4b3d7d51-2a0c-4447-8d74-fc659c63894f": {
+          "technologies": [
+            "azure",
+            "claude"
+          ]
         },
-        "4df74b15-3479-4a75-a4c4-5640ccde7346": {
+        "4cc9052f-756d-47b7-ae60-da8405b541e6": {
           "technologies": []
         },
         "4ea12354-5f5a-48f4-86a8-1d66fbe84b22": {
@@ -2511,21 +2511,6 @@
       "site": "revinate",
       "source": "lever"
     },
-    "lever:tracktik": {
-      "company": "tracktik",
-      "jobs": {
-        "75269485-28d1-4991-adaf-f5fa43174ca8": {
-          "technologies": [
-            "salesforce"
-          ]
-        },
-        "d701a3f2-b4c7-4826-8bfc-f36adb23f244": {
-          "technologies": []
-        }
-      },
-      "site": "tracktik",
-      "source": "lever"
-    },
     "lever:wgsn": {
       "company": "wgsn",
       "jobs": {
@@ -2690,9 +2675,6 @@
         "bdc071f3-2204-4105-bdb5-721a46bad44a": {
           "technologies": []
         },
-        "bf29da89-7aa9-4323-acba-5dc244f088e2": {
-          "technologies": []
-        },
         "bfafb267-2318-496f-a41d-c99d60894eb1": {
           "technologies": []
         },
@@ -2734,6 +2716,6 @@
       "source": "lever"
     }
   },
-  "updated_at": "2026-11-26T16:54:26.283151+00:00",
+  "updated_at": "2026-11-27T16:40:20.054810+00:00",
   "version": 1
 }
